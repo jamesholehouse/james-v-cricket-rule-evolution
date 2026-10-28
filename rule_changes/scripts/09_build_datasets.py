@@ -62,9 +62,21 @@ def record_label(c):
     return "UNCATEGORISED", "no_cause_stated", "low", "none", f"{c['op']} record outside every event: needs a hand label.", 0
 
 
+def load_verdicts():
+    v = {}
+    f = D / "review/verdicts.jsonl"
+    if f.exists():
+        for l in open(f, encoding="utf-8"):
+            if l.strip():
+                r = json.loads(l)
+                v[r["event_id"]] = r
+    return v
+
+
 def main():
     OUT.mkdir(exist_ok=True)
     renum = []   # synthetic Law-level rows for dataset 2
+    verd = load_verdicts()
     lab = {r["event_id"]: r for r in csv.DictReader(open(LABELS))}
     cols = ["pair", "change_id", "op", "section", "law_from", "law_to", "granularity", "old_text", "new_text", "event_id", "label_level",
             "category", "subtype", "confidence", "basis", "what_changed_or_reason", "evidence", "semantic_only", "scope_change", "source_edition_issue", "substantive_change",
@@ -93,16 +105,15 @@ def main():
                     cat, sub, conf, basis, why, sem = record_label(c)
                     hand = int(cat == "UNCATEGORISED")
                     if c["op"] == "renumber":
+                        base["event_id"] = f"{p.stem}_N{sum(1 for r in renum if r['pair'] == p.stem) + 1:03d}"
                         row_ = dict(event_id=base["event_id"], sig="", pair=p.stem, section=base["section"], canonical_law="", law_title=c.get("title_to", ""),
                                     law_from=base["law_from"], law_to=base["law_to"], event_type="renumbering", n_records=1, numeric_audit="n/a",
                                     what_changed=why, category=cat, subtype=sub, secondary_category="", secondary_subtype="", confidence=conf, basis=basis,
                                     rationale="Alignment of Laws by text similarity found identical text under a different Law number.", evidence="S18",
                                     date_evidence="", integrity="ok", notes="mechanical (09_build_datasets.py); Law-level row, no pipeline event",
                                     label_ref="mechanical", semantic_only=0, scope_change=0, source_edition_issue=0, substantive_change=1,
-                                    review_status="unreviewed", reviewer_notes="", taxonomy_version="v0.4")
+                                    review_status=verd.get(base["event_id"], {}).get("status", "unreviewed"), reviewer_notes=verd.get(base["event_id"], {}).get("note", ""), taxonomy_version="v0.4")
                         renum.append(row_)
-                    if c["op"] == "renumber":
-                        base["event_id"] = f"{p.stem}_N{sum(1 for r in renum if r['pair'] == p.stem) + 1:03d}"
                     row = dict(base, label_level="law_renumbering" if c["op"] == "renumber" else "event_unlabelled" if base["event_id"] else "record_mechanical", category=cat, subtype=sub,
                                confidence=conf, basis=basis, what_changed_or_reason=why, evidence="S18" if not hand else "",
                                semantic_only=sem, scope_change=0, source_edition_issue=0, substantive_change=int((cat not in ("NOT_A_CHANGE", "STRUCTURAL") and not sem and not hand) or cat == "RENUMBERING"),

@@ -29,6 +29,10 @@ def load():
     sources = {r["id"]: r for r in csv.DictReader(open(D / "evidence/sources.csv", encoding="utf-8"))}
     gold = {r["serial"]: r for r in csv.DictReader(open(D / "gold/raitkerr_chronology.csv", encoding="utf-8"))} \
         if (D / "gold/raitkerr_chronology.csv").exists() else {}
+    # Law-level RENUMBERING rows are not pipeline events; they come from the final dataset (09_build_datasets.py).
+    ren = [r for r in csv.DictReader(open(D / "final/substantive_changes.csv", encoding="utf-8")) if r["category"] == "RENUMBERING"]
+    labels += ren
+    labels.sort(key=lambda r: (int(r["pair"].split("_")[0]), r["event_id"]))
     return labels, sources, gold
 
 
@@ -69,11 +73,25 @@ def summary(r, v):
                 substantive=r["substantive_change"], integrity=r["integrity"], status=vd["status"] if vd else "unreviewed")
 
 
+def renumber_change_ids():
+    out = {}
+    for r in csv.DictReader(open(D / "final/changes_all_records_labelled.csv", encoding="utf-8")):
+        if r["label_level"] == "law_renumbering":
+            out[r["event_id"]] = r["change_id"]
+    return out
+
+
+REN_CHANGE = renumber_change_ids()
+
+
 def detail(eid):
     r = BY_ID[eid]
     ev, ch = pair_data(r["pair"])
-    e = ev[eid]
-    recs = [ch[c] for c in e["change_ids"] if c in ch]
+    if eid in REN_CHANGE:
+        recs = [ch[REN_CHANGE[eid]]]
+    else:
+        e = ev[eid]
+        recs = [ch[c] for c in e["change_ids"] if c in ch]
     recs.sort(key=lambda c: (c.get("unit_to") or 0, c["change_id"]))
     srcs = [dict(SOURCES[s], id=s) if s in SOURCES else dict(id=s, title="(unregistered)") for s in r["evidence"].split(";") if s]
     text = r["rationale"] + " " + r["what_changed"] + " " + r["notes"]

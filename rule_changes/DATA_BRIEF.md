@@ -35,4 +35,5 @@ RENUMBERING (244 Law-level rows, `law_renumbered`): a Law keeps its text but cha
 1. Unverified by a human. 2. 1902-1932 instruction sections are unsegmented (the 1907 new-ball-after-200-runs rule is missing as an event). 3. Several dataset editions are wrong or unreliable printings (see `DATA_INTEGRITY_FINDINGS.md`); their artefacts are labelled, not replaced. 4. Some web sources are unverified. 5. A few classifier blind spots (and/or, from/to, (a)/(b) swaps) and low-severity citation nits remain. 6. Taxonomy is v0.2.
 
 ## Verifying
+See `REVIEW_GUIDE.md` for the full guide to the UI. Quick start:
 `.venv/bin/python rule_changes/review_app/server.py` then open http://127.0.0.1:8765. Verdicts append to `data/review/verdicts.jsonl`; run `scripts/08_build_labels.py` then `09_build_datasets.py` to fold them into `review_status` / `reviewer_notes`. Suggested order: causal categories (73), `stated` (97), low-confidence UNCATEGORISED, `integrity = suspect`, scope changes, then a random sample.

@@ -1,0 +1,311 @@
+[
+ {
+  "event_id": "1830_1835_E040",
+  "sig": "2234dd327813",
+  "why": "F2 fourth pass: the 1823 text already has 'towards the bowler'; this is a 1830-booklet artefact, not a 1835 change.",
+  "set": {
+   "category": "NOT_A_CHANGE",
+   "subtype": "edition_artefact",
+   "confidence": "medium",
+   "basis": "derived",
+   "secondary_category": "",
+   "secondary_subtype": ""
+  },
+  "append": {
+   "what_changed": "[Corrected: this difference is an artefact of the unofficial 1830 booklet, not a rule change in 1835.]"
+  }
+ },
+ {
+  "event_id": "1830_1835_E010",
+  "sig": "f52d64fc3b9b",
+  "why": "F2 fourth pass: the 1823 text already has the catch wording; this is a 1830-booklet artefact, not a 1835 change.",
+  "set": {
+   "category": "NOT_A_CHANGE",
+   "subtype": "edition_artefact",
+   "confidence": "medium",
+   "basis": "derived",
+   "secondary_category": "",
+   "secondary_subtype": ""
+  },
+  "append": {
+   "what_changed": "[Corrected: this difference is an artefact of the unofficial 1830 booklet, not a rule change in 1835.]"
+  }
+ },
+ {
+  "event_id": "1830_1835_E013",
+  "sig": "f9c468494fff",
+  "why": "F2 fourth pass: the 1823 text already has 'running' for 'running a notch'; this is a 1830-booklet artefact, not a 1835 change.",
+  "set": {
+   "category": "NOT_A_CHANGE",
+   "subtype": "edition_artefact",
+   "confidence": "medium",
+   "basis": "derived",
+   "secondary_category": "",
+   "secondary_subtype": ""
+  },
+  "append": {
+   "what_changed": "[Corrected: this difference is an artefact of the unofficial 1830 booklet, not a rule change in 1835.]"
+  }
+ },
+ {
+  "event_id": "1830_1835_E022",
+  "sig": "b4e940653ce9",
+  "why": "F2 fourth pass: the 1823 text already has 'no run' for 'no notch'; this is a 1830-booklet artefact, not a 1835 change.",
+  "set": {
+   "category": "NOT_A_CHANGE",
+   "subtype": "edition_artefact",
+   "confidence": "medium",
+   "basis": "derived",
+   "secondary_category": "",
+   "secondary_subtype": ""
+  },
+  "append": {
+   "what_changed": "[Corrected: this difference is an artefact of the unofficial 1830 booklet, not a rule change in 1835.]"
+  }
+ },
+ {
+  "event_id": "1835_1857_E023",
+  "sig": "224f1e777587",
+  "why": "F2: Rait Kerr keeps the betting rules until 1884; the Toronto booklet never printed a Bets section (raw 1857 OCR p.12 ends with Single Wicket rules 6-10 and the printer's colophon).",
+  "set": {
+   "category": "NOT_A_CHANGE",
+   "subtype": "edition_artefact",
+   "confidence": "medium",
+   "basis": "derived",
+   "secondary_category": "",
+   "secondary_subtype": ""
+  },
+  "append": {
+   "what_changed": "[Corrected: edition artefact, not an ECONOMY change.]"
+  }
+ },
+ {
+  "event_id": "1823_1828_E068",
+  "sig": "bfecf24fce42",
+  "why": "F2: the label's own rationale calls it a reprint artefact.",
+  "set": {
+   "category": "NOT_A_CHANGE",
+   "subtype": "edition_artefact",
+   "confidence": "medium",
+   "basis": "derived",
+   "secondary_category": "",
+   "secondary_subtype": ""
+  }
+ },
+ {
+  "event_id": "1830_1835_E045",
+  "sig": "61296cca0e82",
+  "why": "F2: the wording credited to the 1835 revision is already in the 1823 text; the real date is earlier."
+ },
+ {
+  "event_id": "1830_1835_E023",
+  "sig": "ec7253fd3d8f",
+  "why": "F2: the wording credited to the 1835 revision is already in the 1823 text; the real date is earlier."
+ },
+ {
+  "event_id": "1830_1835_E031",
+  "sig": "0ce8e0109b1d",
+  "why": "F2: the wording credited to the 1835 revision is already in the 1823 text; the real date is earlier."
+ },
+ {
+  "event_id": "1830_1835_E051",
+  "sig": "c573b0c5364a",
+  "why": "F2: the wording credited to the 1835 revision is already in the 1823 text; the real date is earlier."
+ },
+ {
+  "event_id": "1752_1755_E001",
+  "sig": "f999f2ed47ef",
+  "why": "F2: Rait Kerr names the modernisation but not a cause; basis should be inferred.",
+  "set": {
+   "basis": "inferred"
+  }
+ },
+ {
+  "event_id": "1900_1902_E021",
+  "sig": "47f1d7cef196",
+  "why": "F3: a printer's paraphrase in the Wright & Co. pamphlet, the same variant that 1896_1900_E018 labels NOT_A_CHANGE.",
+  "set": {
+   "category": "NOT_A_CHANGE",
+   "subtype": "edition_artefact",
+   "confidence": "medium",
+   "basis": "derived",
+   "secondary_category": "",
+   "secondary_subtype": ""
+  }
+ },
+ {
+  "event_id": "1902_1906_E015",
+  "sig": "07229cfddf30",
+  "why": "F3: secondary category repeated the primary; the specific source (Cricket 1906) gives a fairness reason for the two-day time limit.",
+  "set": {
+   "secondary_category": "",
+   "secondary_subtype": ""
+  }
+ },
+ {
+  "event_id": "1884_1890_E023",
+  "sig": "fcf283d7cf0d",
+  "why": "F3: nothing supports the secondary EXTERNAL_FORCE.",
+  "set": {
+   "secondary_category": "",
+   "secondary_subtype": ""
+  }
+ },
+ {
+  "event_id": "1939_1947_E028",
+  "sig": "b56b2f2aff71",
+  "why": "F4: the 1939 Note 'If a bowler is injured ... the over shall be regarded as completed' is dropped in 1947, not moved; 'regarded as completed' survives only for unfair bowling (Law 46).",
+  "set": {
+   "secondary_category": "UNCATEGORISED",
+   "secondary_subtype": "no_cause_stated"
+  },
+  "append": {
+   "what_changed": "ALSO: the 1939 injured-bowler Note ('the over shall be regarded as completed') is dropped; 1947 Law 24 only says the bowler need not finish if incapacitated."
+  }
+ },
+ {
+  "event_id": "1939_1947_E027",
+  "sig": "9f7ae7a7fe0f",
+  "why": "F4: the injured-bowler Note does not go to Law 24 as stated."
+ },
+ {
+  "event_id": "1939_1947_E002",
+  "sig": "39fd366a0459",
+  "why": "F4: Rait Kerr's 'sixty Laws condensed into forty-seven' states the aim of the whole revision, so basis is inferred.",
+  "set": {
+   "basis": "inferred",
+   "confidence": "medium"
+  }
+ },
+ {
+  "event_id": "1939_1947_E014",
+  "sig": "0122549c1981",
+  "why": "F4: Rait Kerr's 'sixty Laws condensed into forty-seven' states the aim of the whole revision, so basis is inferred.",
+  "set": {
+   "basis": "inferred",
+   "confidence": "medium"
+  }
+ },
+ {
+  "event_id": "1939_1947_E054",
+  "sig": "8d91a6215340",
+  "why": "F4: l.b.w. now also covers full tosses and impacts above the bails; no secondary was given.",
+  "set": {
+   "secondary_category": "UNCATEGORISED",
+   "secondary_subtype": "no_cause_stated"
+  }
+ },
+ {
+  "event_id": "1939_1947_E009",
+  "sig": "8036b88e69e4",
+  "why": "F4: nightly covering goes from 'shall be protected' to 'usual'; no secondary was given.",
+  "set": {
+   "secondary_category": "UNCATEGORISED",
+   "secondary_subtype": "no_cause_stated"
+  }
+ },
+ {
+  "event_id": "1939_1947_E089",
+  "sig": "9799c0e7d901",
+  "why": "F4: the bail/dome inference should rest on arithmetic, not on the unreadable S39-01: two 4 1/2 in. bails exactly fill the 9 in. wicket, two 4 3/8 in. bails leave 1/4 in.; Rait Kerr does not mention the change.",
+  "append": {
+   "rationale": "Arithmetic supports the inference: two 4 1/2 in. bails exactly fill a 9 in. wicket (jamming), two 4 3/8 in. bails leave 1/4 in. S39-01 could not be read and is not relied on."
+  }
+ },
+ {
+  "event_id": "2008_2010_E080",
+  "sig": "bc5e00e426c5",
+  "why": "F1: the wording change carries a rule-level difference that the wording_only label hid.",
+  "set": {
+   "category": "UNCATEGORISED",
+   "subtype": "no_cause_stated",
+   "basis": "none",
+   "confidence": "low",
+   "secondary_category": "STRUCTURAL",
+   "secondary_subtype": "wording_only"
+  },
+  "append": {
+   "what_changed": "ALSO a real rule change: Law 37: the sentence now continues 'whether or not there is any disadvantage to the fielding side'."
+  }
+ },
+ {
+  "event_id": "2008_2010_E082",
+  "sig": "35e4e312460f",
+  "why": "F1: the wording change carries a rule-level difference that the wording_only label hid.",
+  "set": {
+   "category": "UNCATEGORISED",
+   "subtype": "no_cause_stated",
+   "basis": "none",
+   "confidence": "low",
+   "secondary_category": "STRUCTURAL",
+   "secondary_subtype": "wording_only"
+  },
+  "append": {
+   "what_changed": "ALSO a real rule change: Law 38: for a striker out of his ground, the run in progress 'shall not be scored' is added."
+  }
+ },
+ {
+  "event_id": "2008_2010_E043",
+  "sig": "9e3f1bebff0f",
+  "why": "F1: the wording change carries a rule-level difference that the wording_only label hid.",
+  "set": {
+   "category": "UNCATEGORISED",
+   "subtype": "no_cause_stated",
+   "basis": "none",
+   "confidence": "low",
+   "secondary_category": "STRUCTURAL",
+   "secondary_subtype": "wording_only"
+  },
+  "append": {
+   "what_changed": "ALSO a real rule change: Law 21: 'Notwithstanding any agreement under Law 12.1(b)' is added."
+  }
+ },
+ {
+  "event_id": "2008_2010_E072",
+  "sig": "0daed302a62d",
+  "why": "F1: the wording change carries a rule-level difference that the wording_only label hid.",
+  "set": {
+   "category": "UNCATEGORISED",
+   "subtype": "no_cause_stated",
+   "basis": "none",
+   "confidence": "low",
+   "secondary_category": "STRUCTURAL",
+   "secondary_subtype": "wording_only"
+  },
+  "append": {
+   "what_changed": "ALSO a real rule change: Law 32: runs are credited 'from the instant of the completion of the catch' (previously 'from the instant of the catch')."
+  }
+ },
+ {
+  "event_id": "2008_2010_E090",
+  "sig": "dd26727bc7e4",
+  "why": "F1: the wording change carries a rule-level difference that the wording_only label hid.",
+  "set": {
+   "category": "UNCATEGORISED",
+   "subtype": "no_cause_stated",
+   "basis": "none",
+   "confidence": "low",
+   "secondary_category": "STRUCTURAL",
+   "secondary_subtype": "wording_only"
+  },
+  "append": {
+   "what_changed": "ALSO a real rule change: Law 42: 'without appeal' is added to the umpires' duty not to interfere."
+  }
+ },
+ {
+  "event_id": "2008_2010_E045",
+  "sig": "3b051245e58c",
+  "why": "F1: the wording change carries a rule-level difference that the wording_only label hid.",
+  "set": {
+   "category": "UNCATEGORISED",
+   "subtype": "no_cause_stated",
+   "basis": "none",
+   "confidence": "low",
+   "secondary_category": "STRUCTURAL",
+   "secondary_subtype": "wording_only"
+  },
+  "append": {
+   "what_changed": "ALSO a real rule change: Law 21: the result conditions change ('at the end of the match' dropped; the win-by-Penalty-runs test is re-formed)."
+  }
+ }
+]

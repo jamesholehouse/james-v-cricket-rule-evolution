@@ -1,0 +1,141 @@
+{
+ "stats": {
+  "edition_from": 1823,
+  "edition_to": 1828,
+  "laws_from": 15,
+  "laws_to": 43,
+  "laws_matched": 13,
+  "laws_removed": 2,
+  "laws_added": 30,
+  "n_changes": 97,
+  "by_op": {
+   "add": 31,
+   "remove": 8,
+   "modify": 20,
+   "move": 31,
+   "renumber": 7
+  },
+  "n_substantive": 87,
+  "text_mass_from": 8369,
+  "text_mass_to": 8292
+ },
+ "law_alignment": [
+  {
+   "section": "main",
+   "from_no": "1",
+   "to_no": "1",
+   "similarity": 0.95,
+   "from_title": "The Ball",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "2",
+   "to_no": "2",
+   "similarity": 0.94,
+   "from_title": "The Bat",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "3",
+   "to_no": "3",
+   "similarity": 0.683,
+   "from_title": "The Stumps",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "4",
+   "to_no": "4",
+   "similarity": 0.833,
+   "from_title": "The Bowling crease",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "5",
+   "to_no": "5",
+   "similarity": 0.85,
+   "from_title": "The Popping crease",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "6",
+   "to_no": "6",
+   "similarity": 0.839,
+   "from_title": "The wickets",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "7",
+   "to_no": "9",
+   "similarity": 0.954,
+   "from_title": "The Bowler",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "8",
+   "to_no": "10",
+   "similarity": 0.85,
+   "from_title": "The Ball",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "9",
+   "to_no": "16",
+   "similarity": 0.77,
+   "from_title": "The Striker is Out",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "10",
+   "to_no": "24",
+   "similarity": 0.896,
+   "from_title": "Wicket",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "11",
+   "to_no": "36",
+   "similarity": 0.966,
+   "from_title": "The Wicket Keeper",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "12",
+   "to_no": "37",
+   "similarity": 0.872,
+   "from_title": "The Umpires",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "14",
+   "to_no": "43",
+   "similarity": 0.776,
+   "from_title": "The Ball",
+   "to_title": "",
+   "collapsed": false
+  }
+ ]
+}

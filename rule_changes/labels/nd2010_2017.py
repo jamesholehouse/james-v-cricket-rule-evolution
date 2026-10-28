@@ -1,0 +1,10 @@
+"""Labels for events surfaced after the xref/list-label classifier changes."""
+from _h import make
+ST, UN, NC = "STRUCTURAL", "UNCATEGORISED", "NOT_A_CHANGE"
+D17 = "2017 Code, in force 1 October 2017 (S02)."
+PAIR = "2010_2017"
+L, LABELS = make(PAIR)
+L("E010", "Law 11: 'the captains and umpires shall agree the times for such intervals' becomes 'the umpires shall determine the times for such intervals'.", UN, "no_cause_stated", "low", "none", "Authority over the times of drinks and other intervals passes from the captains and umpires jointly to the umpires alone (compare the 2010 transfer of ground, weather and light decisions to the umpires, S15); no source states the reason for this step.", ["S02"], date=D17)
+L("E013", "Law 12: the cross-reference 'as set out in 7 above' becomes 'as set out in 12.7'.", ST, "consequential", "medium", "inferred", "Cross-references follow the new numbering of the 2017 Code (MCC preface, S02).", ["S02"], date=D17)
+L("E040", "Law 20 (Dead ball): the ball is not dead if it leaves the bowler's hand 'for any reason other than an attempt to run out the non-striker' but the qualifier 'before entering his delivery stride' is replaced by 'under Law 41.16 (Non-striker leaving his/her ground early)'; the former Lost-ball provision folded in as a dead-ball item ('satisfied that the ball in play cannot be recovered'); gender-neutral 'run-up' wording.", UN, "no_cause_stated", "low", "none", "The non-striker run-out exception is re-expressed through the new Law 41.16 (see the 41.16 rewrite of 2019, S04); the 'cannot be recovered' item is new in this event; no source found states a reason for either.", ["S02"], date=D17, sec=ST, secsub="reorganisation")
+L("E041", "Law 20: the 'valid ball' clause is re-ordered ('unless No ball or Wide ball has been called, it will be a valid ball if the striker has had an opportunity to play it') and its references renumbered (4(b)(vi) -> 20.4.2.6; Laws 2.6, 41.2, 42.4 -> 24.4, 28.2, 41.4).", ST, "consequential", "medium", "inferred", "Cross-references follow the new numbering of the 2017 Code (MCC preface, S02); the re-ordering leaves the rule as it was.", ["S02"], date=D17)

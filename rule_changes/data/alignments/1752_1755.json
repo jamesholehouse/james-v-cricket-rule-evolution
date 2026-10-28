@@ -1,0 +1,33 @@
+{
+ "stats": {
+  "edition_from": 1752,
+  "edition_to": 1755,
+  "laws_from": 1,
+  "laws_to": 7,
+  "laws_matched": 1,
+  "laws_removed": 0,
+  "laws_added": 0,
+  "n_changes": 33,
+  "by_op": {
+   "add": 4,
+   "remove": 1,
+   "modify": 28,
+   "move": 0,
+   "renumber": 0
+  },
+  "n_substantive": 26,
+  "text_mass_from": 5008,
+  "text_mass_to": 4929
+ },
+ "law_alignment": [
+  {
+   "section": "main",
+   "from_no": "0",
+   "to_no": "0",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": true
+  }
+ ]
+}

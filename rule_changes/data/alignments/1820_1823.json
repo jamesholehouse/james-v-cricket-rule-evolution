@@ -1,0 +1,87 @@
+{
+ "stats": {
+  "edition_from": 1820,
+  "edition_to": 1823,
+  "laws_from": 7,
+  "laws_to": 15,
+  "laws_matched": 7,
+  "laws_removed": 0,
+  "laws_added": 8,
+  "n_changes": 58,
+  "by_op": {
+   "add": 9,
+   "remove": 9,
+   "modify": 14,
+   "move": 24,
+   "renumber": 2
+  },
+  "n_substantive": 51,
+  "text_mass_from": 6444,
+  "text_mass_to": 8369
+ },
+ "law_alignment": [
+  {
+   "section": "main",
+   "from_no": "1",
+   "to_no": "1",
+   "similarity": 0.95,
+   "from_title": "THE BALL",
+   "to_title": "The Ball",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "2",
+   "to_no": "2",
+   "similarity": 0.95,
+   "from_title": "THE BAT",
+   "to_title": "The Bat",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "3",
+   "to_no": "3",
+   "similarity": 0.888,
+   "from_title": "THE STUMPS",
+   "to_title": "The Stumps",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "4",
+   "to_no": "4",
+   "similarity": 0.612,
+   "from_title": "THE BOWLING CREASE",
+   "to_title": "The Bowling crease",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "5",
+   "to_no": "5",
+   "similarity": 0.9,
+   "from_title": "THE POPPING CREASE",
+   "to_title": "The Popping crease",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "6",
+   "to_no": "8",
+   "similarity": 0.886,
+   "from_title": "The Ball",
+   "to_title": "The Ball",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "7",
+   "to_no": "15",
+   "similarity": 0.952,
+   "from_title": "BETS",
+   "to_title": "BETS",
+   "collapsed": false
+  }
+ ]
+}

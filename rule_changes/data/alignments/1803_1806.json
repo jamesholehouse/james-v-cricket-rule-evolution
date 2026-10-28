@@ -1,0 +1,123 @@
+{
+ "stats": {
+  "edition_from": 1803,
+  "edition_to": 1806,
+  "laws_from": 12,
+  "laws_to": 12,
+  "laws_matched": 11,
+  "laws_removed": 1,
+  "laws_added": 1,
+  "n_changes": 31,
+  "by_op": {
+   "add": 7,
+   "remove": 1,
+   "modify": 18,
+   "move": 2,
+   "renumber": 3
+  },
+  "n_substantive": 21,
+  "text_mass_from": 5511,
+  "text_mass_to": 6135
+ },
+ "law_alignment": [
+  {
+   "section": "main",
+   "from_no": "1",
+   "to_no": "1",
+   "similarity": 0.95,
+   "from_title": "THE BALL",
+   "to_title": "THE BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "2",
+   "to_no": "2",
+   "similarity": 0.95,
+   "from_title": "THE BAT",
+   "to_title": "THE BAT",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "3",
+   "to_no": "3",
+   "similarity": 0.881,
+   "from_title": "THE STUMPS",
+   "to_title": "THE STUMPS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "4",
+   "to_no": "4",
+   "similarity": 0.95,
+   "from_title": "THE BOWLING CREASE",
+   "to_title": "THE BOWLING CREASE",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "5",
+   "to_no": "5",
+   "similarity": 0.95,
+   "from_title": "THE POPPING CREASE",
+   "to_title": "THE POPPING CREASE",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "6",
+   "to_no": "6",
+   "similarity": 0.564,
+   "from_title": "THE WICKETS",
+   "to_title": "THE WICKETS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "7",
+   "to_no": "10",
+   "similarity": 0.995,
+   "from_title": "THE WICKET-KEEPER",
+   "to_title": "THE WICKET KEEPERS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "9",
+   "to_no": "7",
+   "similarity": 0.886,
+   "from_title": "THE BOWLER",
+   "to_title": "THE BOWLER",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "10",
+   "to_no": "9",
+   "similarity": 0.952,
+   "from_title": "THE STRIKER IS OUT",
+   "to_title": "THE STRIKER IS OUT",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "11",
+   "to_no": "11",
+   "similarity": 0.94,
+   "from_title": "THE UMPIRES",
+   "to_title": "THE UMPIRES",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "12",
+   "to_no": "12",
+   "similarity": 0.95,
+   "from_title": "BETS",
+   "to_title": "BETS",
+   "collapsed": false
+  }
+ ]
+}

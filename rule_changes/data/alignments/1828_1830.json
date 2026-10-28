@@ -1,0 +1,123 @@
+{
+ "stats": {
+  "edition_from": 1828,
+  "edition_to": 1830,
+  "laws_from": 43,
+  "laws_to": 14,
+  "laws_matched": 11,
+  "laws_removed": 32,
+  "laws_added": 3,
+  "n_changes": 73,
+  "by_op": {
+   "add": 8,
+   "remove": 32,
+   "modify": 16,
+   "move": 7,
+   "renumber": 10
+  },
+  "n_substantive": 61,
+  "text_mass_from": 8292,
+  "text_mass_to": 6836
+ },
+ "law_alignment": [
+  {
+   "section": "main",
+   "from_no": "1",
+   "to_no": "5",
+   "similarity": 0.944,
+   "from_title": "",
+   "to_title": "The Ball",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "2",
+   "to_no": "6",
+   "similarity": 0.94,
+   "from_title": "",
+   "to_title": "The Bat",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "3",
+   "to_no": "7",
+   "similarity": 0.635,
+   "from_title": "",
+   "to_title": "The Stumps",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "5",
+   "to_no": "9",
+   "similarity": 0.85,
+   "from_title": "",
+   "to_title": "The Popping-Crease",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "7",
+   "to_no": "10",
+   "similarity": 0.814,
+   "from_title": "",
+   "to_title": "The Wickets",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "8",
+   "to_no": "8",
+   "similarity": 0.511,
+   "from_title": "",
+   "to_title": "The Bowling-Crease",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "9",
+   "to_no": "11",
+   "similarity": 0.827,
+   "from_title": "",
+   "to_title": "The Bowler",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "10",
+   "to_no": "12",
+   "similarity": 0.696,
+   "from_title": "",
+   "to_title": "The ball",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "36",
+   "to_no": "14",
+   "similarity": 0.784,
+   "from_title": "",
+   "to_title": "The Wicket-keepers",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "37",
+   "to_no": "4",
+   "similarity": 0.826,
+   "from_title": "",
+   "to_title": "Umpires",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "43",
+   "to_no": "13",
+   "similarity": 0.607,
+   "from_title": "",
+   "to_title": "The Striker is Out",
+   "collapsed": false
+  }
+ ]
+}

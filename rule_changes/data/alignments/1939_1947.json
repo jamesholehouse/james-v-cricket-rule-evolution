@@ -1,0 +1,366 @@
+{
+ "stats": {
+  "edition_from": 1939,
+  "edition_to": 1947,
+  "laws_from": 72,
+  "laws_to": 47,
+  "laws_matched": 38,
+  "laws_removed": 19,
+  "laws_added": 9,
+  "n_changes": 458,
+  "by_op": {
+   "add": 71,
+   "remove": 162,
+   "modify": 144,
+   "move": 44,
+   "renumber": 37
+  },
+  "n_substantive": 400,
+  "text_mass_from": 52541,
+  "text_mass_to": 44735
+ },
+ "law_alignment": [
+  {
+   "section": "main",
+   "from_no": "1",
+   "to_no": "13",
+   "similarity": 0.742,
+   "from_title": "THE GAME",
+   "to_title": "INNINGS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "2",
+   "to_no": "19",
+   "similarity": 0.9,
+   "from_title": "RUNS",
+   "to_title": "SCORING",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "3",
+   "to_no": "3",
+   "similarity": 0.545,
+   "from_title": "APPOINTMENT OF UMPIRES",
+   "to_title": "SUBSTITUTES THE APPOINTMENT OF UMPIRES",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "4",
+   "to_no": "5",
+   "similarity": 0.747,
+   "from_title": "THE BALL",
+   "to_title": "THE GROUND THE BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "5",
+   "to_no": "6",
+   "similarity": 0.843,
+   "from_title": "THE BAT",
+   "to_title": "THE BAT",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "6",
+   "to_no": "8",
+   "similarity": 0.763,
+   "from_title": "THE WICKETS",
+   "to_title": "THE WICKETS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "7",
+   "to_no": "9",
+   "similarity": 0.862,
+   "from_title": "THE BOWLING CREASE",
+   "to_title": "THE BOWLING AND POPPING CREASES",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "9",
+   "to_no": "10",
+   "similarity": 0.661,
+   "from_title": "THE GROUND",
+   "to_title": "PITCH",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "12",
+   "to_no": "28",
+   "similarity": 0.69,
+   "from_title": "WIDE BALL",
+   "to_title": "WIDE BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "13",
+   "to_no": "23",
+   "similarity": 0.644,
+   "from_title": "THE OVER",
+   "to_title": "THE OVER",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "16",
+   "to_no": "29",
+   "similarity": 0.641,
+   "from_title": "SCORING OF “NO BALLS” AND “WIDES",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "17",
+   "to_no": "30",
+   "similarity": 0.927,
+   "from_title": "BYE” AND “LEG BYE",
+   "to_title": "BYE AND LEG BYE",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "18",
+   "to_no": "17",
+   "similarity": 0.634,
+   "from_title": "PLAY",
+   "to_title": "COMMENCEMENT AND CLOSE OF PLAY AND INTERVALS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "19",
+   "to_no": "32",
+   "similarity": 0.91,
+   "from_title": "OUT OF HIS GROUND",
+   "to_title": "OUT OF HIS GROUND",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "20",
+   "to_no": "31",
+   "similarity": 0.759,
+   "from_title": "WICKET IS “DOWN",
+   "to_title": "THE WICKET IS DOWN",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "21",
+   "to_no": "34",
+   "similarity": 0.807,
+   "from_title": "",
+   "to_title": "BOWLED",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "22",
+   "to_no": "35",
+   "similarity": 0.688,
+   "from_title": "CAUGHT",
+   "to_title": "CAUGHT",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "23",
+   "to_no": "42",
+   "similarity": 0.634,
+   "from_title": "STUMPED",
+   "to_title": "STUMPED",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "24",
+   "to_no": "39",
+   "similarity": 0.722,
+   "from_title": "L.B.W",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "25",
+   "to_no": "38",
+   "similarity": 0.772,
+   "from_title": "HIT WICKET",
+   "to_title": "HIT WICKET",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "26",
+   "to_no": "40",
+   "similarity": 0.685,
+   "from_title": "OBSTRUCTING THE FIELD",
+   "to_title": "OBSTRUCTING THE FIELD",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "27",
+   "to_no": "27",
+   "similarity": 0.544,
+   "from_title": "HIT THE BALL TWICE",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "28",
+   "to_no": "37",
+   "similarity": 0.609,
+   "from_title": "",
+   "to_title": "HIT THE BALL TWICE",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "29",
+   "to_no": "36",
+   "similarity": 0.749,
+   "from_title": "HANDLED THE BALL",
+   "to_title": "HANDLED THE BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "34",
+   "to_no": "21",
+   "similarity": 0.909,
+   "from_title": "LOST BALL",
+   "to_title": "LOST BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "35",
+   "to_no": "25",
+   "similarity": 0.646,
+   "from_title": "DEAD BALL, ETC",
+   "to_title": "DEAD BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "36",
+   "to_no": "33",
+   "similarity": 0.688,
+   "from_title": "BATSMAN RETIRING FROM HIS WICKET",
+   "to_title": "BATSMAN RETIRING",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "37",
+   "to_no": "2",
+   "similarity": 0.657,
+   "from_title": "SUBSTITUTES",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "39",
+   "to_no": "41",
+   "similarity": 0.615,
+   "from_title": "",
+   "to_title": "RUN OUT",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "41",
+   "to_no": "44",
+   "similarity": 0.802,
+   "from_title": "THE FIELDSMAN",
+   "to_title": "THE FIELDSMAN",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "42",
+   "to_no": "43",
+   "similarity": 0.619,
+   "from_title": "WICKET-KEEPER",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "43",
+   "to_no": "46",
+   "similarity": 0.779,
+   "from_title": "DUTIES OF UMPIRES",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "44",
+   "to_no": "20",
+   "similarity": 0.726,
+   "from_title": "",
+   "to_title": "BOUNDARIES",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "46",
+   "to_no": "47",
+   "similarity": 0.507,
+   "from_title": "APPEALS",
+   "to_title": "APPEALS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "48",
+   "to_no": "26",
+   "similarity": 0.523,
+   "from_title": "NO BALL",
+   "to_title": "NO BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "50",
+   "to_no": "18",
+   "similarity": 0.612,
+   "from_title": "APPEALS",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "53",
+   "to_no": "14",
+   "similarity": 0.776,
+   "from_title": "FOLLOWING INNINGS",
+   "to_title": "FOLLOWING INNINGS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "54",
+   "to_no": "15",
+   "similarity": 0.727,
+   "from_title": "DECLARATIONS",
+   "to_title": "DECLARATIONS",
+   "collapsed": false
+  }
+ ]
+}

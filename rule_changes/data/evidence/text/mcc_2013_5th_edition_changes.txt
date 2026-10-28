@@ -1,0 +1,1142 @@
+  Explanation of changes to the Laws of Cricket for the 5th Edition of the 2000
+                   Code – coming into effect on 1st October 2013.
+
+
+
+Some of the changes made in the 5th Edition of the Laws of Cricket are significant and
+materially alter the outcome from the 4th Edition, whilst others are simply aimed at
+creating more clarity or consistency with other Laws, rather than involving a change
+in policy. Below is an explanation of the more significant changes, together with
+some reasoning for them and a guide for their interpretation and application. A full
+list of all of the changes is available to view on MCC’s website, together with an
+online version of this document, with video examples to help to clarify the changes.
+See www.lords.org/lawchanges2013.          Any changes from the 4th Edition are
+highlighted in yellow.
+
+
+
+Law 2          Substitutes and runners; batsman or fielder leaving the field;
+               batsman retiring; batsman commencing innings
+
+Law 2.8.       Transgression of the Laws by a batsman who has a runner
+   (a) A batsman’s runner is subject to the Laws. He will be regarded as a batsman
+        except where there are special provisions for his role as a runner. See 7
+        above and Law 29.2 (Which is a batsman’s ground).
+   (b) A batsman who has a runner will suffer the penalty for any infringement of
+        the Laws by his runner as if he had been himself responsible for the
+        infringement. In particular he will be out if his runner is out under either of
+        Laws 37 (Obstructing the field) or 38 (Run out).
+  (c) When a batsman who has a runner is striker he remains himself subject to the
+      Laws and will be liable to the penalties that any infringement of them
+      demands. In the case of Run out and Stumped, however, special provisions, set
+      out in (d) and (e) below, apply to him as a striker who has a runner.
+  (d) If a striker who has a runner is out of his ground when the wicket at the
+      wicket-keeper’s end is fairly put down by the action of a fielder, otherwise than
+      in (e) below, then, notwithstanding (b) above and irrespective of the position of
+      the non-striker and the runner, he will be out Run out. However, Laws 38.2(a)
+      and 38.2(b)(ii) (Batsman not Run out) shall apply.
+  (e) If a striker who has a runner is out of his ground when the wicket at the
+      wicket-keeper’s end is fairly put down by the wicket-keeper, without the
+      intervention of another fielder, and if both the following conditions are
+      satisfied,
+            his runner is within his ground
+            he makes no movement towards the bowler’s end other than action in
+                  receiving and/or playing or playing at the ball,
+    he is
+
+
+For more information, visit www.lords.org/lawchanges2013                             1
+                (i)    Not out if No ball has been called.
+               (ii)    Out Stumped if the delivery is not a No ball. In this case,
+                       however, Law 39.3(a) (Not out Stumped) shall apply.
+                  If either of the two conditions is not satisfied, then he is out Run out.
+                  Law 38.2(a) will apply.
+   (f) If a striker who has a runner is himself dismissed as in either (d) or (e) above,
+       runs completed by the runner and the other batsman before the wicket is put
+       down shall be disallowed. However, any runs for penalties awarded to either
+       side shall stand. See Law 18.6 (Runs awarded for penalties). The non-striker
+       shall return to his original end.
+   (g) When a batsman who has a runner is not the striker
+            (i) he remains subject to Law 37 (Obstructing the field) but is otherwise
+                 out of the game.
+           (ii) he shall stand where directed by the striker’s end umpire so as not to
+                 interfere with play.
+          (iii) he will be liable, notwithstanding (i) above, to any penalty demanded
+                 by the Laws should he commit any act of unfair play.
+
+Reason for the changes
+
+Law 2.8 parts (b) and (g) cover an agreed clarification on when Handled the ball
+becomes Obstructing the field (see Laws 33 and 37 below), which affects numerous
+references throughout the Laws, which is the case here.
+
+Law 2.8(e) covers the instance of an injured striker (with a runner) being stumped
+off a No ball. Now, he should be afforded the same protection as a “normal”
+batsman, and not be penalised for, essentially, being injured.
+
+Interpretation & application
+The conditions for a striker who has a runner (informally referred to as an ‘injured
+striker’) to be out Stumped have been revised. Because an ‘injured striker’ has only
+one end – the wicket-keeper’s end – he cannot ‘make good his ground from end to
+end’ and so cannot be considered to be attempting a run or, more significantly for
+stumping, not doing so. It is only when the putting down of the wicket is by the
+wicket-keeper alone that the question of stumping can arise. Paragraph (e) is for this
+situation.
+Paragraph (d) is about the wicket being put down in any other way. In paragraph (d),
+nothing fundamental has changed. It is still true in this case that if the ‘injured striker’
+is out of his ground at this point, then he is out Run out irrespective of where the
+runner and non-striker are.
+
+In paragraph (e), where the wicket is put down solely by the wicket-keeper, there are
+two further conditions. The umpire must know whether, in addition to the ‘injured
+striker’, the runner is or is not within his ground. It is possible that he is not. In
+addition, the umpire must judge whether any movement that the ‘injured striker’
+makes towards the bowler’s end is solely in receiving or playing (or attempting to
+
+
+For more information, visit www.lords.org/lawchanges2013                                  2
+play) the ball. This is nearly the same as, for an ordinary batsman, distinguishing
+between merely playing (at) the ball and attempting a run. If both these conditions are
+satisfied (in addition to the wicket-keeper alone putting down the wicket), paragraph
+(e) sets out the outcomes for a No ball and not a No ball. If either condition is not
+satisfied (or both are not), the ‘injured striker’ will not be out Stumped, with the usual
+fall back that he may be out Run out. This situation mirrors as closely as possible that
+for a normal batsman as set out in Laws 38 and 39, including the exceptions stated
+therein.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                                3
+Law 5     The ball
+
+5.4. New ball in match of more than one day’s duration
+     In a match of more than one day’s duration, the captain of the fielding side may
+     demand a new ball when the number of overs, excluding any part overs, bowled
+     with the old one is equal to or greater than the prescribed number of overs. The
+     Governing Body responsible for the match concerned shall decide the number of
+     overs applicable in that match. This number shall not be less than 75 overs.
+     The umpire shall inform the other umpire and indicate to the batsmen and the
+     scorers whenever a new ball is taken into play.
+
+Reason for the changes
+
+The first change is to give clarity to the rare occasion when the third new ball may
+be taken. The second change confirms that it is now the Governing Body for the
+match which will decide what the minimum is, not the Governing Body for the
+country.
+
+Interpretation & application
+
+If a new ball is taken in mid-over – say after 76.4 overs, i.e. during the 77th over –
+then the counting of overs before the next new ball can be taken must start with the
+next whole over, the 78th, not the 77th, as only part of that over (the last two balls in
+this example) is with the new ball. In this example, if the minimum is 75 overs, then
+the next new ball will not be available until the start of the 153rd over.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                               4
+Law 17      Practice on the field
+
+
+
+17.1. Practice on the pitch or the rest of the square
+   (a) There shall be no practice of any kind, at any time on any day of the match, on
+       the pitch or on either of the two strips parallel and immediately adjacent to the
+       pitch, one on either side of it, each of the same dimensions as the pitch.
+   (b) There shall be no practice of any kind on any other part of the square at any
+       time on any day of the match, except before the start of play on that day or
+       after the close of play on that day. Practice before the start of play
+             (i) must not continue later than 30 minutes before the scheduled time or
+                   any rescheduled time for play to start on that day.
+            (ii) shall not be allowed if the umpires consider that it will significantly
+                   impair the surface of the square.
+17.2. Practice on the outfield
+     All forms of practice are permitted on the outfield
+               before the start of the day’s play on any day or after the close of play on
+any day
+           or during the lunch and tea intervals
+           or between innings,
+      providing the umpires are satisfied that such practice will not cause significant
+      deterioration in the condition of the outfield.
+      Such practice must not continue later than 5 minutes before the scheduled or
+      any rescheduled time for play to commence or to resume.
+  17.3 Practice on the outfield between the call of Play and the call of Time
+   (a) The restrictions in (b), (c) and (d) below shall apply not only between the call
+       of Play and the call of Time but also during an interval for drinks, or on any
+       other occasion when Time has been called but the players remain on the field
+       of play.
+   (b) No ball other than the match ball may be used on the field of play.
+   (c) There shall be no bowling or batting practice on the outfield. However,
+       bowling a ball to a player in the outfield, using arm action only, although a
+       form of practice shall not be regarded as bowling practice.
+   (d) All other forms of practice are permitted on the outfield either at the fall of a
+       wicket or during other gaps in play for legitimate activities providing that
+           (i) only the fielders as defined in Appendix D participate in such practice
+          (ii) the umpire is satisfied that it will not contravene either of Laws 42.3
+                (The match ball – changing its condition) or 42.9 (Time wasting by
+                the fielding side).
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                                5
+17.4.Trial run up
+   A bowler is permitted to have a trial run up provided the umpire is satisfied that it
+   will not contravene either of Laws 42.9 (Time wasting by the fielding side) or 42.13
+   (Fielder damaging the pitch).
+
+17.5 Penalties for contravention
+   All forms of practice are subject to the provisions of Laws 42.3 (The match ball –
+   changing its condition), 42.9 (Time wasting by the fielding side) and 42.13 (Fielder
+   damaging the pitch). Additionally, if there is a contravention of any of the
+   provisions of 1, 2, or 3 above, the following penalties will apply. If the
+   contravention is
+  (a) by a fielder, he shall not be allowed to bowl after the contravention until
+           either at least one hour has elapsed
+               or there has been at least 30 minutes of playing time
+    since the contravention, whichever is sooner.
+     If the contravention is by the bowler during an over, he shall not be allowed
+     even to complete that over. It shall be completed by another bowler, who shall
+     neither have bowled any part of the previous over nor be allowed to bowl any
+     part of the next over.
+  (b) by a batsman,
+     (i) in the first instance, the umpire shall warn the player that the practice is not
+          permitted, and inform the other umpire, the captain of the fielding side and,
+          as soon as practicable, the captain of the batting side of the reason for this
+          action. This warning shall apply throughout the innings which is about to
+          begin or is in progress. The umpire shall so inform each incoming
+          batsman.
+     (ii) if during that innings there is any further contravention by any batsman, the
+          umpire shall award 5 penalty runs to the fielding side. He shall inform the
+          other umpire, the captain of the fielding side and as soon as practicable the
+          captain of the batting side.
+
+
+Reasons for the changes
+
+It was acknowledged that a bowler bowling a practice delivery (e.g. to a fielder at
+mid off) was now commonplace. The change made in 2010 to outlaw this practice
+has been over-written by playing regulations in all professional and most amateur
+cricket. There was a need to ensure that such practice did not waste time or damage
+the condition of the ball. Such practice will now be allowed, subject to those
+restrictions.
+
+Clarifications have also been added that prohibit coaches or non-players from
+practising with players from outside the boundary, and that the only cricket ball(s)
+on the field during the hours of play is(are) the official match ball(s).
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                               6
+Finally, there is the addition of a penalty for a batsman infringing this Law, which
+provides equity between both the batsmen and fielders who find themselves
+contravening this Law.
+
+Interpretation & application
+
+There has been a general tightening up in this Law. The changes all relate to the time
+when the players are on the field as players, whether play is in progress or not. Even
+though not between the call of Play and the call of Time, drinks intervals, occasions
+when the umpires leave the field to investigate the non- appearance of a new batsman,
+etc, are all included.
+
+No one may practise except the actual players. Coaches on the boundary are banned
+from giving fielders a bit of throwing and catching practice or any other kind of
+practice.
+
+Only the match ball may be used for practice. Fielders cannot introduce their own
+ball for practising. As the umpires are to take possession of the match ball at the fall
+of a wicket, at any interval or at any interruption, this leaves very little time when the
+match ball is available to players. It may be that the umpire does not take the ball
+when the sight-screen is being adjusted or at other times when there is to be only a
+short gap in play. Certainly the bowler about to make the next delivery must have the
+ball! Equally, the players will not have the ball during a drinks interval.
+
+Even when a player has the ball, he cannot use it for batting practice or for bowling
+practice. Throwing and catching and other forms of fielding practice are allowed. A
+trial run up is allowed, but must not involve running on the pitch. There is also
+another concession to bowlers. They are allowed to ‘bowl’ a ball to a fielder in the
+outfield (no practice on the square) without a run up, using arm action only. This is
+not counted as bowling practice.
+
+However, all these permitted forms of practice are subject to two overriding
+embargos:
+    1. Time must not be wasted.
+    2. There is to be no avoidable damage to the ball.
+Umpires are to be strict in applying the appropriate penalties for contravention.
+Whilst the bowler is permitted to have a quick ‘bowl’ to another fielder before starting
+his over, if the whole field is waiting for the over to begin, time wasting could be a
+consideration. If instead of merely bowling the ball to a fielder he hurls it hard into
+the ground, avoidable damage cannot be ruled out.
+
+In addition to the prescribed penalties for time wasting, pitch damage and ball damage
+(all stated elsewhere in the Laws), Section 5 sets out penalties for breaches of any
+section of Law 17. Included in Section 5 is a new penalty for batsmen who
+
+
+For more information, visit www.lords.org/lawchanges2013                                7
+contravene any of the provisions of Law 17. Not being allowed to bowl for a period
+of time – the penalty for errant bowlers – is not appropriate for batsmen. For them the
+standard procedure for warning and then imposition of 5 penalty runs and reporting is
+to be followed.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                             8
+Law 18    Scoring runs
+
+
+18.6. Runs awarded for penalties
+    Runs shall be awarded for penalties under 5 above, and Laws 2.6 (Player
+    returning without permission), 17.5 (penalties for contravention), 24 (No ball),
+    25 (Wide ball), 41.2(Fielding the ball), 41.3 (Protective helmets belonging to the
+    fielding side) and 42 (Fair and unfair play). Note, however, the restrictions on
+    the award of penalty runs in Laws 26 (Bye and Leg bye), 34 (Hit the ball twice),
+    41.3 (Protective helmets belonging to the fielding side) and 41.4 (Penalty runs
+    not to be awarded).
+
+
+18.9. Runs scored when a batsman is dismissed
+      When a batsman is dismissed, any runs for penalties awarded to either side shall
+      stand. No other runs shall be credited to the batting side, except as follows. If a
+      batsman is
+    (a) dismissed Obstructing the field, the batting side shall also score the runs
+         completed before the offence.
+         If, however, the obstruction prevented a catch being made, no runs other than
+         penalties shall be scored.
+    (b) dismissed Run out, the batting side shall also score runs completed before the
+         wicket was put down.
+If, however, a striker who has a runner is himself dismissed Run out, under Law
+2.8(d), runs completed by the runner and the other batsman shall be disallowed.
+
+
+10. Runs scored when the ball becomes dead other than at the fall of a wicket
+   When the ball becomes dead for any reason other than the fall of a wicket, or is
+   called dead by an umpire, unless there is specific provision otherwise in the Laws
+   (a) any runs for penalties awarded to either side shall be scored. Note however the
+        provisions of Laws 26.3 (Leg byes not to be awarded) and 41.4 (Penalties not
+        to be awarded).
+   (b) additionally the batting side shall be credited with
+            (i) all runs completed by the batsmen before the incident or call
+      and (ii) the run in progress if the batsmen had already crossed at the instant
+                 of the incident or call. Note specifically, however, the provisions of
+                 Law 42.5(f) (Deliberate distraction or obstruction of batsman).
+
+11. Batsman returning to original end
+   (a) When a batsman is dismissed, the not out batsman shall return to his original
+       end
+          (i) if the striker is himself dismissed in the circumstances of Law 2.8(d)
+               (Transgression of the Laws by a batsman who has a runner).
+         (ii) and, with the three exceptions of
+
+
+
+For more information, visit www.lords.org/lawchanges2013                               9
+                        Run out other than in (i) above
+                        Caught
+                        Obstructing the field,
+                for all other methods of dismissal.
+   (b) Other than at the fall of a wicket, the batsmen shall return to their original ends
+       in the cases of, and only in the cases of
+           (i) a boundary
+          (ii) disallowance of runs for any reason
+         (iii) a decision by the batsmen at the wicket to do so, under Law
+                42.5(g),(Deliberate distraction or obstruction of batsman)
+
+12. Batsman returning to wicket he has left
+   (a) When a batsman is dismissed Caught, Obstructing the field or Run out other
+       than under Law 2.8, the not out batsman shall return to the wicket he has left
+       but only if the batsmen had not already crossed at the instant of the incident
+       causing the dismissal.
+   (b) Except in the cases listed in 11(b) above, if while a run is in progress the ball is
+       called dead by an umpire or becomes dead for any other reason except the
+       dismissal of a batsman, the batsmen shall return to the wickets they had left,
+       but only if they had not already crossed in running when the ball became dead.
+
+Reason for the changes
+
+Law 18.6 (Runs awarded for penalties) – a reference to new Law 17.5 (above) has
+been added, as has, for clarity, a note about the restrictions on the award of penalty
+runs.
+
+Law 18.9 (Runs scored when a batsman is dismissed) – this has been reworded and
+renumbered as a result of the Handled the ball clarification.
+
+Law 18.10 (Runs scored when the ball becomes dead other than at the fall of a
+wicket) – the reference to Law 34.4(c) has been removed.
+
+Laws 18.11 (Batsman returning to original end) and 18.12(a) (Batsman returning to
+wicket he has left) – these Laws have been reworded as a result of the Handled the
+ball clarification.
+
+Law 18.12(b) – there has been a grammatical rewording of the Law.
+
+Interpretation & application
+
+All the changes here are the result of changes to other Laws. Each should be read in
+conjunction with the Law change from which it has arisen.
+
+18.6 The list of offences for which penalty runs will be awarded has had the new
+penalty in Law 17 added.
+
+
+For more information, visit www.lords.org/lawchanges2013                                10
+In Law 33, the offence of Handled the ball can now occur only when the striker is
+playing or trying to play the ball. At other times such action is to be considered as
+Obstructing the field. As a result, no question of scoring runs or of retuning to a
+particular end can arise. Consequently, Laws 18.8, 18.10, 18.11 and 18.12 have had
+all references to Handled the ball removed.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                          11
+Law 19         Boundaries
+
+Law 19.3. Scoring a boundary
+  (a) A boundary shall be scored and signalled by the bowler’s end umpire
+       whenever, while the ball is in play, in his opinion,
+           (i) the ball touches the boundary, or is grounded beyond the boundary.
+          (ii) a fielder with some part of his person in contact with the ball, touches
+                 the boundary or has some part of his person grounded beyond the
+                 boundary.
+         (iii) the ball, having crossed the boundary in the air, is first touched by a
+                 fielder who has not satisfied the conditions in 4(i) below.
+   (b) The phrases ‘touches the boundary’ and ‘touching the boundary’ shall mean
+       contact with
+              either (i) the boundary edge as defined in 2 above
+                  or (ii) any person or obstacle within the field of play which has
+                           been designated a boundary by the umpires before the toss.
+  (c) The phrase ‘grounded beyond the boundary’ shall mean contact with
+              either (i) any part of a line or solid object marking the boundary
+                          except the boundary edge
+                  or (ii) the ground beyond the boundary edge
+                 or (iii) any object in contact with the ground beyond the boundary
+                          edge.
+4. Ball beyond the boundary
+  After it has crossed the boundary in the air, a ball may be caught, subject to the
+  provisions of Law 32, or fielded provided that
+           (i) the first contact with the ball is by a fielder, not touching or grounded
+                beyond the boundary, who has some part of his person grounded
+                within the boundary or whose final contact with the ground before
+                touching the ball was entirely within the boundary.
+                Any fielder subsequently touching the ball is not subject to this
+                restriction.
+.         (ii) neither the ball, nor any fielder in contact with the ball touches, or is
+                grounded beyond, the boundary at any time during the act of making
+                the catch or of fielding the ball.
+   The act of making the catch, or of fielding the ball, shall start from the time when
+   the ball first comes into contact with some part of a fielder’s person and shall end
+   when a fielder obtains complete control both over the ball and over his own
+   movement.
+5. Runs allowed for boundaries
+  (a) Before the toss the umpires shall agree with both captains the runs to be
+      allowed for boundaries. In deciding the allowances the umpires and captains
+      shall be guided by the prevailing custom of the ground.
+
+
+
+For more information, visit www.lords.org/lawchanges2013                             12
+  (b) Unless agreed differently under (a) above, the allowances for boundaries shall
+      be 6 runs if the ball having been struck by the bat pitches beyond the
+      boundary, but otherwise 4 runs. These shall be described as a Boundary 6 and
+      a Boundary 4 respectively, although the number of runs awarded may not be 6
+      or 4 if other allowances have been agreed under (a) above.
+      These allowances shall still apply even though the ball has previously touched
+      a fielder. See also (c) below.
+  (c) A Boundary 6 will be scored if and only if the ball has been struck by the bat
+      and pitches beyond the boundary. The ball is to be regarded as pitching
+      beyond the boundary even though before it has pitched, a fielder
+          (i) catches it within the boundary but either has some part of his person
+               touching the boundary or grounded beyond the boundary when he
+               catches the ball or, after catching it, subsequently touches the
+               boundary or grounds some part of his person beyond the boundary
+               while carrying the ball but before completing the catch. See Law 32
+               (Caught).
+          ii) comes into contact with the ball in the circumstances of 3a (iii) above.
+  (d) The award for all other boundaries scored under 3 above, for which either the
+      ball was not struck by the bat or did not pitch beyond the boundary as defined
+      above, will be a Boundary 4, including a case under 3(a)(iii) when the ball has
+      pitched within the boundary before contact with the fielder.
+
+Reason for the changes
+
+Law 19.3 (Scoring a boundary) and Law 19.4 (Ball beyond the boundary) – these
+Laws have been amended to give additional clarity to the definition of when the ball
+has crossed the boundary. It particularly clarifies the position when fielders work as
+a team for a piece of fielding on the boundary.
+
+Law 19.5 (Runs allowed for boundaries) – this Law has been reworded in order to
+clarify that it is possible for a different number of runs to be agreed at the toss for
+the scoring of boundaries, and that references to the two types of boundaries scored
+are Boundary 4 and Boundary 6, even if four or six runs are not to be scored from
+them.
+
+Interpretation & application
+
+There has been no change in the definition of a boundary, but the wording relating to
+the scoring of runs has been set out in more precise detail.
+
+
+It has always been true that Boundary 6 and Boundary 4 describe the two types of
+boundary but that the runs for them may be agreed as different from 6 and 4. This
+principle has now been applied to Law 19.5(c). If a fielder is grounded on, is beyond,
+or carries the ball over the boundary before completing the act of catching or fielding
+
+
+
+For more information, visit www.lords.org/lawchanges2013                            13
+the ball, then the batting side will be awarded a Boundary 6 or a Boundary 4, that is to
+say the number of runs agreed for those sorts of boundaries.
+
+There is no other basic change to this Law except to add the penalty. If the conditions
+laid down for taking the ball, by catching it or fielding it, after it has crossed the
+boundary in the air, are not satisfied then a boundary will be scored, either a Boundary
+4 or a Boundary 6 according to circumstances. In particular, the wording of section
+5(c) has been clarified to emphasise that, when fielding or catching a ball after it has
+crossed the boundary in the air, the first fielder to touch the ball must not only have
+some part of his person in contact with the ground within the boundary, but must have
+no part grounded on or beyond the boundary (or he must have jumped up from such a
+position). A second fielder making contact with the ball after a team-mate has already
+touched it may, however, jump up from a position beyond the boundary on the basis
+that it is likely to be in reaction to the deflection from his colleague.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                             14
+Law 23         Dead ball
+
+    Law 23.1(a) The ball becomes dead when
+
+             (x) the match is concluded in any of the ways stated in Law 16.9
+             (Conclusion of match).
+
+    Law 23.4(b) Either umpire shall call and signal Dead ball when
+
+       (ix) the ball does not leave the bowler’s hand for any reason other than an
+       attempt to run out the non-striker under Law 42.15 (Bowler attempting to run
+       out non-striker before delivery).
+
+Reason for the changes
+
+A new clause has been added, stating explicitly what is already implicit in the Law,
+namely that the ball becomes dead at the conclusion of the match. The ways in which
+the match will be concluded are already listed in Law 16.9.
+
+There is a clarification in 23.4(b)(ix) that, unless there is an attempt to run out the
+non-striker under Law 42.15 (Bowler attempting to run out non-striker before
+delivery), the umpire should call and signal Dead ball if the bowler does not release
+the ball. This will apply to situations under the new Law 24.6 (see below), when the
+bowler breaks the wicket during delivery. If the bowler does break the wicket in this
+way but does not release the ball, Dead ball should be called.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                            15
+Law 24         No ball
+
+24.6.   Bowler breaking wicket in delivering ball
+
+   Either umpire shall call and signal No ball if, other than in an attempt to run out
+   the non-striker under Law 42.15, the bowler breaks the wicket at any time after
+   the ball comes into play and before he completes the stride after the delivery
+   stride. See Appendix D. Laws 23.4(b)(viii), 23.4(b)(ix) and 10 below will apply.
+
+Reason for the change
+
+It has been decided to introduce a new Law 24.6, making it a No ball if the bowler
+breaks the wicket at the non-striker’s end, except in an attempt to run out the non-
+striker as permitted by Law 42.15. This change removes any doubt over whether the
+striker may have been distracted by the disturbance, but provides the striker with
+protection from most forms of dismissal, whilst crediting him with any runs he may
+score.
+
+Interpretation and application
+
+A new clause had been introduced – which means the following sections have been
+renumbered – requiring the call and signal of No ball if the bowler breaks the wicket
+at the bowler’s end while delivering the ball. ‘While delivering the ball’ is defined as
+from the moment the ball comes into play until not only has the bowler’s front foot
+landed to complete his delivery stride but another stride has been completed, by the
+landing of his other foot – the one that was the back foot in the delivery stride.
+Below are some photographs to help to illustrate this.
+
+
+
+
+                                                                    Delivery stride – back
+                                                                    foot landing
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                             16
+                                                                     Bowler puts wicket
+                                                                     down – “no ball” to be
+                                                                     called
+
+
+
+
+                                                                     Delivery stride after –
+                                                                     back foot lands again
+                                                                     (illustration)
+
+Clearly the bowler is not going to break the wicket at the start of a long run up, but the
+provision ‘from when the ball comes into play’ is equivalent to ‘whenever he is
+physically within reach of the stumps, with his feet, his hands, his arms or any other
+part of his body’. Either umpire can make the call and signal. The umpires may need
+to consult if there is doubt about how the wicket was broken. If a bail is found on the
+ground, and neither umpire knows how the wicket was broken, no action should be
+taken.
+
+If play is taking place without bails, either umpire should still call and signal No ball
+if he is confident that the bowler made contact with the wicket.
+
+Should the bowler not make contact with the stumps and a bail falls from the non striker’s
+end stumps (blown by the wind), then there is no need to do anything – play should still
+continue as it normally would have done in the past. No ball not to be called and no call of
+Dead ball unless the umpire feels it appropriate based on when this happens in the run up.
+
+
+
+For more information, visit www.lords.org/lawchanges2013                               17
+Law 25         Wide ball
+
+
+25.8. Out from a Wide
+    When Wide ball has been called, neither batsman shall be out under any of the
+    Laws except 35 (Hit wicket), 37 (Obstructing the field), 38 (Run out) or 39
+    (Stumped).
+
+Reason for the change
+
+It is no longer possible to be out Handled the ball off a Wide and there are now only 4
+possible methods of dismissal off a Wide ball.
+
+If the striker handles the ball while playing (at) it, it cannot be out of his reach. The
+delivery cannot qualify as a Wide. Now that Handled the ball is a dismissal restricted
+solely to when he is playing (at) the ball, it is therefore not possible for the striker to
+be out Handled the ball if the delivery is a Wide. Handled the ball has therefore been
+deleted from the ways of dismissal possible from a Wide.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                                18
+Law 30         Bowled
+
+    30.1(b) Notwithstanding (a) above he shall not be out Bowled if before striking
+        the wicket the ball has been in contact with any other player or an umpire.
+        He will, however, be subject to Laws 37 (Obstructing the field), 38 (Run out)
+        and 39 (Stumped).
+
+Reason for the change
+
+
+Handled the ball has been removed from the list of methods of dismissal after the ball
+has made contact with any other player or umpire.
+
+
+Law 30.1(b) states that once the ball has been touched by a fielder or an umpire, the
+striker will not be out Bowled and lists the ways in which he could be out. However,
+the striker is not allowed to play the ball once it has been touched by a fielder or an
+umpire. He can therefore not be out Handled the ball, since this can happen only
+when he is playing (at) the ball.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                            19
+Law 32           Caught
+32.1. Out Caught
+    The striker is out Caught if a ball delivered by the bowler, not being a No
+    ball, touches his bat without having previously been in contact with any
+    fielder, and is subsequently held by a fielder as a fair catch, as described in
+    3 below, before it touches the ground.
+
+32.3. A fair catch
+    Providing that in every case
+           neither (i) at any time the ball
+              nor (ii) throughout the act of making the catch as defined in Law 19.4, any
+                        fielder in contact with the ball
+       is, as described in Law 19.3(b), touching the boundary or grounded beyond the
+       boundary, a catch shall be considered to be fair if
+     (a) the ball is hugged to the body of the catcher or accidentally lodges in his
+           clothing or, in the case of a wicket-keeper only, in his pads. However, it is not
+           a fair catch if the ball lodges in a protective helmet worn by a fielder.
+     (b) the ball does not touch the ground even though the hand holding it does so in
+           effecting the catch.
+     (c) a fielder catches the ball after it has been lawfully struck more than once by
+           the striker, but only if it has not been grounded since it was first struck.
+     (d) a fielder catches the ball after it has touched an umpire, another fielder or the
+           other batsman.
+           However, it is not a fair catch if at any time after having been struck by the bat
+           and before a catch is completed the ball has touched a protective helmet worn
+           by a fielder.
+     (e) a fielder catches the ball after it has crossed the boundary in the air, provided
+           that after being struck by the bat, the first contact with the ball is by a fielder,
+           not touching or grounded beyond the boundary, who has some part of his
+           person grounded within the boundary or whose final contact with the ground
+           before touching the ball was entirely within the boundary.
+           Any fielder subsequently touching the ball is not subject to this restriction. See
+           Law 19.4 (Ball beyond the boundary).
+     (f) the ball is caught off an obstruction within the boundary that has not been
+           designated a boundary by the umpires before the toss.
+
+4.    Fielder beyond the boundary
+     A catch shall not be made and a Boundary 6 shall be scored if after the ball has
+     been struck by the bat a fielder
+        (i)    has some part of his person touching or grounded beyond the boundary
+               when he catches the ball, or after catching it subsequently touches the
+               boundary or grounds some part of his person beyond the boundary while
+               carrying the ball but before completing the catch as defined in Law 19.4.
+
+
+
+For more information, visit www.lords.org/lawchanges2013                                    20
+      ii)   catches the ball after it has crossed the boundary in the air without the
+            conditions in 3(e) above being satisfied.
+   See Laws 19.3 (Scoring a boundary) and 19.5 (Runs allowed for boundaries).
+
+Reason for the changes
+
+Law 32.1 (Out Caught) – additional wording has been included to clarify what
+constitutes a fair catch.
+
+Law 32.3 (A fair catch) – this Law has been reworded and renumbered to add
+clarification to what constitutes a fair catch. For emphasis and clarity, what was
+part (a) has been as an overarching statement of the basic requirements for a catch to
+be fair. In consequence, all subsequent parts have been re-lettered.
+
+In part (d) [formerly (e)], the words “has previously touched”, which have caused
+some confusion, have been replaced by a fuller description of the circumstances in
+which touching a helmet worn by a fielder prevents a catch from being fair.
+
+In part (e) the circumstances surrounding what constitutes a fair catch on the
+boundary have been fully clarified.
+
+Law 32.4 (Fielder beyond the boundary) – this Law has been re-titled and reworded
+as the former wording, which is considered incompatible with the new title of this
+Law, defined a fielder not within the field of play.
+
+Interpretation & application
+
+For clarification, there is an adjustment of wording in 32.3(d). This is to make it clear
+that the embargo on catching the ball, after it has touched a helmet worn by a fielder,
+applies whenever the contact occurs, from leaving the bat to being held by a fielder.
+
+Otherwise, the changes, which relate to catching the ball after it has crossed the
+boundary in the air, mirror the conditions in Law 19, to which reference is made here.
+Of course, in this Law, only catching is relevant, whereas Law 19 includes fielding.
+There is no alteration to the conditions. As a reminder, a fielder can catch the ball (as
+a fair catch) beyond the boundary, providing that at any time during ‘the act of
+making the catch’ he is not in contact with the boundary or the ground beyond it at the
+same time as he is in contact with ball. Moreover, if he is the first fielder to touch it
+after it has been struck by the bat, to make the catch he must have some contact with
+the ground within the boundary (and none on or beyond it) or have jumped up from
+such a position.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                              21
+Law 33         Handled the ball
+
+1. Out Handled the ball
+   The striker is out Handled the ball if, except in the circumstances of 2 below, in the
+   act of playing a ball delivered by the bowler, he wilfully strikes the ball with a
+   hand not holding the bat. This will apply whether No ball has been called or not
+   and whether it is the first strike or a second or subsequent strike.
+   The act of playing the ball shall also encompass both playing at the ball and
+   striking the ball more than once in defence of his wicket.
+2. Not out Handled the ball
+   Notwithstanding 1 above,
+   (a) the striker will not be out Handled the ball if the strike with a hand not holding
+        the bat is in order to avoid injury.
+   (b) the striker will not be out Handled the ball but will be liable to be out
+        Obstructing the field if he makes a strike with a hand not holding the bat
+            (i) unless trying to avoid injury, as a lawful second or subsequent strike
+                  which prevents a catch. See Law 37.3 (Obstructing a ball from being
+                  caught).
+           (ii) unless trying to avoid injury, after he has completed the act of playing
+                  the ball, as defined in 1 above.
+          (iii) at any time while the ball is in play, to return the ball to any fielder,
+                  without the consent of a fielder. See Law 37.4 (Returning the ball to a
+                  fielder).
+3. Bowler does not get credit
+  The bowler does not get credit for the wicket.
+
+Reason for the changes
+
+There has been some confusion over both the Handled the ball and Obstructing the
+field Laws, most notably which Law should apply in given situations, but also when
+self-defence gave the batsman immunity. It has been agreed that the demarcation
+between the two should be when the striker has “finished playing the ball” – before
+that point in time Handled the ball applies, and afterwards Obstructing the field
+takes over. The result is that the striker can be dismissed Handled the ball but only
+for a very short period.
+
+This change not only affects Laws 33 and 37, but also any references in the Laws
+whereby both methods of dismissal could apply simultaneously – now that there is a
+specified “cut-off point”, both cannot apply at the same time.
+
+Interpretation and application
+
+There has been a major change to this Law. Defining what constitutes handling the
+ball – ball in play, no consent from a fielder, wilful use of a hand not holding the bat –
+has not altered. Handling the ball to avoid injury is still permitted without penalty.
+
+
+For more information, visit www.lords.org/lawchanges2013                               22
+The big difference is that all this applies only to the time when the striker is playing,
+or attempting to play the ball, either as a first or as a subsequent stroke. In all other
+situations, handling the ball comes under Obstructing the field. It is still, as before,
+Obstructing the field if using a hand not holding the bat in making a second or
+subsequent stroke prevents a catch.
+
+It has already been explained how this affects Laws 18, 25, and 30. The impact on
+Law 37 (Obstructing the field) will be dealt with under that Law.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                              23
+Law 34         Hit the ball twice
+
+
+34.4. Runs scored from ball lawfully struck more than once
+  When the ball is lawfully struck more than once, as permitted in 3 above, only the
+  first strike is to be considered in determining what runs may be scored.
+   (a) If on the first strike the umpire is satisfied that
+                  (i) the ball first struck the bat
+             or (ii) the striker attempted to hit the ball with his bat
+             or (iii) the striker attempted to avoid being hit by the ball
+        the batting side shall not be credited with any runs but any penalties that may
+        be applicable shall stand except that a penalty under Law 41.3 (Protective
+        helmets belonging to the fielding side) is not to be awarded.
+   (b) If the umpire considers that on the first strike none of the conditions in (a) has
+       been met, then no runs or penalties will be credited to the batting side other
+       than the one run penalty for a No ball if applicable.
+
+34.5. No runs permitted from ball lawfully struck more than once – action by the
+umpire
+    (a) If no run is attempted but the ball reaches the boundary the umpire shall call
+        and signal Dead ball and disallow the boundary.
+    (b) If the batsmen run, and
+          (i) neither batsman is dismissed and the ball does not become dead for any
+              other reason, the umpire shall call and signal Dead ball as soon as one
+              run is completed or the ball reaches the boundary. The run or boundary
+              shall be disallowed. The batsmen shall be returned to their original
+              ends.
+         (ii) a batsman is dismissed or for any other reason the ball becomes dead
+              before one run is completed or the ball reaches the boundary, all the
+              provisions of the Laws will apply except that the batting side shall not be
+              credited with any runs, except the penalties permitted under 4(a) or 4(b)
+              above as appropriate.
+
+Reason for the change
+
+Law 34.4 (Runs scored from ball lawfully struck more than once) – it has been
+decided that runs can no longer be scored after a lawful second strike. Currently,
+runs can be taken only after an overthrow, but it is now agreed that a lawful second
+strike (in defence of his wicket) was enough of a privilege for the striker and that no
+runs should be able to accrue.
+
+Interpretation and application
+
+The change is that now the batsmen are not allowed to take runs, even for overthrows.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                              24
+The basic facts remain the same. The striker is permitted to make a second stroke
+(and subsequent strokes)
+          • if it is solely an attempt to prevent the ball striking his wicket
+          • if he uses his bat or his person but not a hand not holding the bat
+          • if it does not interfere with a fielder attempting to take a catch.
+
+If the batsmen run, the procedure is exactly the same as for batsmen taking illegal Leg
+byes. The only question about runs is whether penalties can be allowed. This
+depends on whether or not the umpire is satisfied that the first strike was on the bat or,
+if on the person, that the striker made a genuine attempt either to play the ball with his
+bat or to avoid being hit by the ball. It the umpire is satisfied of this, then any
+penalties, with one exception, will stand. If he is not satisfied, the only penalty that
+can be awarded is the one run for a No ball, if applicable. The one exception noted
+above is the 5 runs for the ball hitting the helmet. This is not to be awarded whatever
+the circumstances of the second strike.
+
+The Law specifies that Handled the ball will apply in the case of a second or
+subsequent stroke unless a catch is prevented.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                               25
+   Law 37      Obstructing the field
+
+1. Out Obstructing the field
+   Either batsman is out Obstructing the field if he wilfully attempts to obstruct or
+   distract the fielding side by word or action. In particular, but not solely, it shall be
+   regarded as obstruction and either batsman will be out Obstructing the field if
+   while the ball is in play and after the striker has completed the act of playing the
+   ball, as defined in Law 33.1, he wilfully strikes the ball with
+     (i) a hand not holding the bat, unless this is in order to avoid injury. See also
+         Law 33.2 (Not out Handled the ball).
+    (ii) any other part of his person or with his bat. See also Law 34 (Hit the ball
+             twice).
+2. Accidental obstruction
+   It is for either umpire to decide whether any obstruction or distraction is wilful or
+   not. He shall consult the other umpire if he has any doubt.
+3. Obstructing a ball from being caught
+   The striker is out should wilful obstruction or distraction by either batsman prevent
+   a catch being made. This shall apply even though the obstruction is caused by the
+   striker himself in lawfully guarding his wicket under the provision of Law 34.3
+   (Ball lawfully struck more than once).
+4. Returning the ball to a fielder
+   Either batsman is out Obstructing the field if, at any time while the ball is in play
+   and without the consent of a fielder, he uses his bat or any part of his person,
+   including a hand not holding the bat, to return the ball to any fielder.
+5. Runs scored
+    When either batsman is dismissed Obstructing the field,
+    (a) unless the obstruction prevents a catch from being made, runs completed by
+          the batsmen before the offence shall be scored, together with any runs
+          awarded for penalties to either side. See Laws 18.6 (Runs awarded for
+          penalties) and 18.9 (Runs scored when a batsman is dismissed).
+    (b)   if the obstruction prevents a catch from being made, runs completed by the
+          batsmen shall not be scored but any penalties awarded to either side shall
+          stand.
+
+Reasons for the changes
+
+Further to the comments relating to Law 33 (Handled the ball) above, much of the
+wording of Law 37 has been amended to tighten the wording and to clarify that self-
+defence can be allowed.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                                26
+Interpretation and application
+
+As well as continuing largely in its present form, Obstructing the field now takes over
+all the instances that in the past might have been Handled the ball, but now are not so
+because he is not playing (at) the ball. It is still paramount that any action is wilful.
+
+
+    37.1 It has been made clear that it will be obstruction, although not the only form
+    of obstruction, if, once the striker has finished playing (at) the ball, either batsman
+    wilfully strikes the ball with his bat or person. It must be remembered that
+    ‘playing (at) the ball’ includes any second or later stroke in defence of his wicket
+    and ‘person’ includes a hand not holding the bat. This includes the previous
+    situation in which the illegal strike was after the ball has been touched by a
+    fielder. In the case of a hand not holding the bat, as usual, no penalty will be
+    incurred if it was an attempt to avoid injury.
+
+    37.3 It is confirmed that obstructing a fielder from making a catch is always a
+    case of Obstructing the field, even though the action is by a hand not holding the
+    bat and even though it arose from the striker making a second or further stroke in
+    defence of his wicket.
+
+    37.4 Either batsman returning the ball to a fielder, without consent and while the
+    ball is in play, is always to be regarded as obstruction, even though the action is
+    by the striker using a hand not holding the bat. If, of course, he is returning the
+    ball to a fielder, he is not playing the ball.
+
+    37.5 There is no substantive change here, only an adjustment to the wording.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                                27
+   Law 38        Run out
+
+38.1. Out Run out
+    (a) Either batsman is out Run out, except as in 2 below, if, at any time while the
+        ball is in play,
+             (i) he is out of his ground
+       and (ii) his wicket is fairly put down by the action of a fielder.
+   (b) (a) above shall apply even though No ball has been called, except in the
+       circumstances of 2(b)(ii) below, and whether or not a run is being attempted.
+
+38.2.     Batsman not Run out
+        Notwithstanding 1 above,
+  (a) A batsman is not out Run out if
+          (i) he has been within his ground and has subsequently left it to avoid
+               injury, when the wicket is put down.
+               Note also the provisions of Law 29.1(b) (When out of his ground).
+         (ii) the ball has not subsequently been touched by a fielder, after the
+               bowler has entered his delivery stride, before the wicket is put down.
+        (iii) the ball, having been played by the striker, or having come off his
+               person, directly strikes a protective helmet worn by a fielder and,
+               without any other contact with him or any contact with any other
+               fielder, rebounds directly on to the wicket. However, the ball remains
+               in play and either batsman may be Run out in the circumstances of 1
+               above if a wicket is subsequently put down.
+  (b) The striker is not out Run out
+          (i) if he is out Stumped. See Laws 2.8(e)(ii) (Transgression of the Laws
+               by a batsman who has a runner) and 39.1(b) (Out Stumped).
+              (ii) either in the circumstances of Law 2.8(e)(i) (Transgression of the
+           Laws by a batsman who has a runner) or, otherwise,
+                  if No ball has been called
+   and           he is out of his ground not attempting a run
+   and       the wicket is fairly put down by the wicket-keeper without the intervention
+             of another fielder.
+
+
+38.4. Runs scored
+    If either batsman is dismissed Run out, the run in progress when the wicket is put
+    down shall not be scored, but runs completed by the batsmen shall stand, together
+    with any runs for penalties awarded to either side. See Laws 18.6 (Runs awarded
+    for penalties) and 18.9 (Runs scored when a batsman is dismissed).
+    If, however, a striker who has a runner is himself dismissed Run out, runs
+    completed by the runner and the other batsman before the wicket is put down
+    shall be disallowed, but any runs for penalties awarded to either side shall stand.
+
+
+
+For more information, visit www.lords.org/lawchanges2013                             28
+    The non-striker shall return to his original end. See Law 2.8 (Transgression of
+    the Laws by a batsman who has a runner).
+
+
+Reason for the changes
+
+Law 38.1 (Out Run out) – this Law has been reworded to allow for the renumbering
+in 38.2 below, but the meaning and outcome has not changed.
+
+Law 38.2 (Batsman not Run out) – this Law has been reworded and renumbered for
+additional clarity, including references to the “batsman” being changed to “striker”
+where necessary to cater for different situations applicable to any batsman or solely
+to the striker. There are no 'policy changes'.
+
+Interpretation and application
+
+38.1(a) The change below in 38.2 necessitated a change of numbering of the various
+sections. This change, in 38.1(b) is to take account of that renumbering.
+
+38.2 The Law has been split into two sections. Paragraph (a) applies to any batsman.
+Paragraph (b) applies only to the striker. As noted above, this has entailed some
+renumbering.
+
+Paragraph (b)(i) notes that the striker will not be out Run out if in fact he is Stumped.
+This is as before and is the natural result of Stumped being, in essence, Run out plus a
+few more conditions. Paragraph 38.2(b)(ii) embodies the reverse of this. If he is not
+out Stumped, because not all the conditions are satisfied, it may be that nevertheless
+the requirements for Run out are met. Then he could be out Run out.
+
+However, there are two exceptions, noted in 38.2(b)(ii). Both are situations in which
+all the conditions for Stumped are satisfied except that the delivery is a No ball. Then
+he will not be out Run out either. Law 2.8(e)(i) covers this for a striker with a runner.
+Law 38.2(b)(ii) and 39.3(b) between them cover it for a normal striker.
+
+
+As an example, assume the striker plays at the ball and it goes 2 or 3 metres towards
+mid-wicket on the leg side. The striker sets off for a run but changes his mind and
+turns back. Meanwhile, the wicket-keeper has run to collect the ball. He throws it at
+the stumps and, with the striker out of his ground, the ball breaks the wicket. The
+striker would be out Run out, not Stumped, as he had attempted a run and so it is
+irrelevant whether or not it was a No ball.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                              29
+Law 39         Stumped
+
+
+39.3. Not out Stumped
+    (a) Notwithstanding 1 above, the striker will not be out Stumped if he has left his
+        ground in order to avoid injury.
+    (b) If the striker is not out Stumped he may, except in the circumstances of either
+        of Laws 2.8(e)(i) or 38.2(b)(ii), be out Run out if the conditions of Law 38.1
+        (Out Run out) apply.
+
+Reason for the changes
+
+Law 39.3 (Not out Stumped) – in (a), the wording has been amended for more
+clarity; and in (b), a rewording has taken place to amend cross references of other
+amended Laws, as discussed under Law 2.8 (above) with the effect of a No ball on a
+would-be stumping when the striker has a runner and under Law 38.2 when he does
+not have a runner.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                            30
+Law 41    The fielder
+
+41.3. Protective helmets belonging to the fielding side
+    Protective helmets, when not in use by fielders, should, if above the surface, be
+    placed only on the ground behind the wicket-keeper and in line with both sets of
+    stumps.
+    If a protective helmet belonging to the fielding side is on the ground within the
+    field of play, and the ball while in play strikes it, the ball shall become dead and,
+    except in the circumstances of Law 34 (Hit the ball twice), 5 penalty runs shall
+    then be awarded to the batting side, in addition to the penalty for a No ball or a
+    Wide, if applicable.
+    Additionally runs completed by the batsmen before the ball strikes the protective
+    helmet shall be scored, together with the run in progress if the batsmen had
+    already crossed at the instant of the ball striking the protective helmet. See Law
+    18.10 (Runs scored when the ball becomes dead other than at the fall of a wicket).
+    If, however, the circumstances of Law 34 apply, neither the 5 penalty runs nor
+    any runs to the batsman are to be awarded. See Law 34.4 (Runs scored from a
+    ball lawfully struck more than once).
+
+Reason for the changes
+
+Law 41.3 (Protective helmets belonging to the fielding side) – the words “except in
+the circumstances of Law 34 (Hit the ball twice)” have been added to clarify an
+exception to when penalty runs are not awarded, and this is further clarified in a new
+final paragraph. (See the explanation of Law 34 above.)
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                              31
+Appendix D      Definitions and explanations of words or phrases not defined in
+                the text
+
+
+
+Delivery stride is the stride during which the delivery swing is made, whether the ball
+is released or not. It starts when the bowler’s back foot lands for that stride and ends
+when the front foot lands in the same stride. The stride after the delivery stride is
+completed when the next foot lands, i.e. when the back foot of the delivery stride lands
+again.
+
+
+The addition to the definition of the delivery stride is to take account of the new Law
+24.6. The meat of this extra definition has been incorporated into the comment on
+Law 24.6.
+
+
+Runs disallowed/not scored. A run to be disallowed is one that in Law should not
+have been taken. It is not only to be cancelled but the batsmen are to be returned to
+their original ends. A run not to be scored is not illegal, but one which in Law is not
+recognised as a proper run. It is to be regarded as not existing, so that the question
+of cancellation does not arise. It incurs no penalty other than the loss of the run.
+
+There is nothing new in the definition, distinguishing between ‘runs disallowed’ and
+‘runs not scored’. It has been inserted for the avoidance of doubt. It is an important
+distinction, since the batsmen are to be returned to their original ends in one case but
+not in the other. Each of the relevant Laws states whether sending back is to apply or
+not.
+
+As examples:
+A deliberate short run is to be disallowed and the batsmen sent back.
+An accidental short run is not scored and there is no sending back.
+
+
+
+
+For more information, visit www.lords.org/lawchanges2013                             32
+

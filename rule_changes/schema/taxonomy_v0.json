@@ -1,0 +1,98 @@
+{
+  "version": "v0.2",
+  "note": "Draft. Top-level categories 1-4 and 6 are the user's proposal; STRUCTURAL holds non-causal changes (so nothing is forced into a causal box). Subtypes are free to be merged/split after the first full pass; every labelled record stores the taxonomy version it was labelled under. v0.1 adds SEMANTIC_WORDING. v0.2 adds NOT_A_CHANGE/edition_artefact (difference caused by an unreliable, misdated, mis-transcribed or printer's-variant edition).",
+  "categories": {
+    "NOVEL_EVENT": {
+      "definition": "A new on-field event, tactic or situation that had not arisen before (or not in this form) prompts a rule: e.g. the first wide bat, the first round-arm bowler, a famous umpiring incident.",
+      "subtypes": [
+        "equipment_exploit",
+        "bowling_innovation",
+        "single_incident",
+        "tactic_abuse"
+      ]
+    },
+    "EXTERNAL_FORCE": {
+      "definition": "A force from outside the game itself: technology, equipment manufacture, pitch-preparation technology, medicine/safety, law/society, dress/fashion.",
+      "subtypes": [
+        "equipment_manufacture",
+        "pitch_technology",
+        "dress_fashion",
+        "medical_safety",
+        "legal_social"
+      ]
+    },
+    "ECONOMY": {
+      "definition": "Changes whose purpose is the economy of the sport: betting and stakes, time per match/over, fixtures, professionalism, cost.",
+      "subtypes": [
+        "betting_stakes",
+        "time_saving",
+        "fixtures_scheduling",
+        "professionalism"
+      ]
+    },
+    "ENJOYMENT": {
+      "definition": "Changes to improve how the game plays or is watched: balance between bowler and batsman, fewer draws / more decisive results, quality of play, fairness and the spirit of the game.",
+      "subtypes": [
+        "bowler_batsman_balance",
+        "avoid_draws",
+        "quality_of_play",
+        "fairness_spirit"
+      ]
+    },
+    "STRUCTURAL": {
+      "definition": "Non-causal changes to the Laws themselves: codifying or defining existing practice, clarifying for umpires, reorganising, restoring omissions, adding flexibility for different conditions, consequential adjustments.",
+      "subtypes": [
+        "codification_definition",
+        "clarification_umpire_workability",
+        "reorganisation",
+        "drafting_omission",
+        "elasticity_for_conditions",
+        "consequential",
+        "documentary_first_appearance",
+        "wording_only",
+        "terminology",
+        "notes_revision",
+        "consolidation_merge"
+      ]
+    },
+    "UNCATEGORISED": {
+      "definition": "The source gives no cause and none is inferable from it. Left unlabelled on purpose rather than guessed; candidate for 'random event' once evidence is exhausted.",
+      "subtypes": [
+        "no_cause_stated"
+      ]
+    },
+    "BASELINE": {
+      "definition": "Not a change: a statement of the 1744 starting position (Rait Kerr serials 1-21).",
+      "subtypes": []
+    },
+    "NOT_A_CHANGE": {
+      "definition": "The text differs only because of transcription: punctuation, quote marks, hyphenation, list numbers, sentence splitting, OCR layout, or a value that the AI clean-up step invented (checked against raw OCR and independent transcriptions). Not a change to the Laws.",
+      "subtypes": [
+        "format_artefact",
+        "cleaning_artefact_numeric",
+        "segmentation_artefact",
+        "ocr_noise",
+        "edition_artefact"
+      ]
+    },
+    "SEMANTIC_WORDING": {
+      "definition": "A re-write of wording that does not necessarily change what the rule requires, but may change how it is read or enforced (strength words may/must/shall, qualifiers, pronouns and gender-neutral drafting, terminology). Added at the user's request (2026-10-27). Rows in this category, and rows flagged semantic_only, are excluded from the substantive-changes dataset.",
+      "subtypes": [
+        "modal_strength",
+        "qualifier_scope",
+        "pronoun_gender",
+        "terminology_term",
+        "clarifying_rewrite"
+      ]
+    }
+  },
+  "basis_values": {
+    "stated": "the source states the cause",
+    "inferred": "the source implies the cause (context, section theme, 'no doubt')",
+    "conjecture": "the source's own guess ('may well', 'probably')",
+    "attributed": "recollection or claim attributed to a named person",
+    "none": "no cause given",
+    "derived": "established mechanically from the text itself (token-level comparison or comparison with an independent transcription)"
+  },
+  "cross_cutting_pattern": "Rait Kerr's own theme: legislation 1798-1947 was consistently directed at keeping a balance between bowler and batsman; improved pitches (mowing machine, heavy roller, marl) are the root cause he gives for 1884-1947. Consider promoting bowler_batsman_balance to a top-level category in v1."
+}

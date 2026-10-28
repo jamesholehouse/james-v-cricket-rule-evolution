@@ -1,0 +1,1507 @@
+pair,event_id,verdict,event_type,law,unsupported,ref_available
+1752_1755,1752_1755_E001,unchecked,numeric_change,,[],0
+1752_1755,1752_1755_E002,unchecked,removed_provision,,[],0
+1755_1774,1755_1774_E001,unchecked,law_removed,,[],0
+1755_1774,1755_1774_E002,supported,numeric_change,The BALL,[],0
+1755_1774,1755_1774_E003,supported,numeric_change,The UMPIRES,[],0
+1755_1774,1755_1774_E004,unchecked,new_law,BETS,[],0
+1755_1774,1755_1774_E005,unchecked,new_law,SINGLE WICKET,[],0
+1755_1774,1755_1774_E006,unchecked,new_law,The BAT,[],0
+1755_1774,1755_1774_E007,supported,revision,The Stumps,[],0
+1755_1774,1755_1774_E008,unchecked,new_law,The BOWLING-CREASE,[],0
+1755_1774,1755_1774_E009,unchecked,new_law,The POPPING-CREASE,[],0
+1755_1774,1755_1774_E010,supported,numeric_change,LAWS FOR THE STRIKERS,[],0
+1755_1774,1755_1774_E011,unchecked,new_law,The Party which goes from Home,[],0
+1755_1774,1755_1774_E012,unchecked,revision,The BOWLER,[],0
+1755_1774,1755_1774_E013,unchecked,rewording,The WICKET-KEEPER,[],0
+1774_1785,1774_1785_E001,unchecked,new_law,Party,[],0
+1774_1785,1774_1785_E002,unchecked,relocation,Party,[],0
+1774_1785,1774_1785_E003,unchecked,rewording,WICKET KEEPER,[],0
+1774_1785,1774_1785_E004,unchecked,revision,THE UMPIRES,[],0
+1774_1785,1774_1785_E005,unchecked,law_removed,SINGLE WICKET,[],0
+1774_1785,1774_1785_E006,unchecked,rewording,BETS,[],0
+1774_1785,1774_1785_E007,unchecked,numeric_change,THE STUMPS,[],0
+1774_1785,1774_1785_E008,unchecked,rewording,THE BOWLING CREASE,[],0
+1774_1785,1774_1785_E009,unchecked,rewording,THE PARTY,[],0
+1774_1785,1774_1785_E010,unchecked,rewording,THE BOWLER,[],0
+1774_1785,1774_1785_E011,unchecked,rewording,THE STRIKER,[],0
+1774_1785,1774_1785_E012,unchecked,removed_provision,The STRIKER is out,[],0
+1774_1785,1774_1785_E013,unchecked,new_law,the Ball,[],0
+1774_1785,1774_1785_E014,unchecked,relocation,the Ball,[],0
+1785_1786,1785_1786_E001,unchecked,law_removed,Party,[],0
+1785_1786,1785_1786_E002,supported,revision,The UMPIRES,[],0
+1785_1786,1785_1786_E003,supported,revision,STUMPS,[],0
+1785_1786,1785_1786_E004,unchecked,revision,The BOWLING-CREASE,[],0
+1785_1786,1785_1786_E005,unchecked,rewording,The BOWLER,[],0
+1785_1786,1785_1786_E006,supported,numeric_change,STRIKER,[],0
+1785_1786,1785_1786_E007,unchecked,relocation,STRIKER,[],0
+1785_1786,1785_1786_E008,unchecked,relocation,STRIKER,[],0
+1785_1786,1785_1786_E009,supported,new_provision,STRIKER,[],0
+1785_1786,1785_1786_E010,unchecked,law_removed,the Ball,[],0
+1785_1786,1785_1786_E011,unchecked,rewording,The WICKET-KEEPER,[],0
+1786_1788,1786_1788_E001,unchecked,revision,THE BALL,[],0
+1786_1788,1786_1788_E002,unchecked,new_law,Wickets,[],0
+1786_1788,1786_1788_E003,unchecked,relocation,Wickets,[],0
+1786_1788,1786_1788_E004,unchecked,rewording,THE WICKET KEEPER,[],0
+1786_1788,1786_1788_E005,supported,revision,THE UMPIRES,[],0
+1786_1788,1786_1788_E006,unchecked,rewording,BETS,[],0
+1786_1788,1786_1788_E007,unchecked,revision,THE STUMPS,[],0
+1786_1788,1786_1788_E008,unchecked,revision,THE BOWLING CREASE,[],0
+1786_1788,1786_1788_E009,supported,numeric_change,THE POPPING CREASE,[],0
+1786_1788,1786_1788_E010,unchecked,new_law,THE WICKETS,[],0
+1786_1788,1786_1788_E011,unchecked,revision,THE PARTY WHICH GOES FROM HOME,[],0
+1786_1788,1786_1788_E012,unchecked,rewording,THE BOWLER,[],0
+1786_1788,1786_1788_E013,supported,numeric_change,THE STRIKER IS OUT,[],0
+1788_1803,1788_1803_E001,unchecked,revision,THE BALL,[],0
+1788_1803,1788_1803_E002,supported,numeric_change,THE STRIKER IS OUT,[],0
+1788_1803,1788_1803_E003,unchecked,rewording,THE STRIKER IS OUT,[],0
+1788_1803,1788_1803_E004,unchecked,revision,THE UMPIRES,[],0
+1788_1803,1788_1803_E005,supported,numeric_change,THE STUMPS,[],0
+1788_1803,1788_1803_E006,supported,numeric_change,THE WICKETS,[],0
+1788_1803,1788_1803_E007,unchecked,revision,THE PARTY WHICH GOES,[],0
+1788_1803,1788_1803_E008,unchecked,law_removed,THE STRIKER IS OUT,[],0
+1788_1803,1788_1803_E009,unchecked,rewording,THE BOWLER,[],0
+1803_1806,1803_1806_E001,unchecked,rewording,THE BALL,[],0
+1803_1806,1803_1806_E002,unchecked,revision,THE UMPIRES,[],0
+1803_1806,1803_1806_E003,supported,numeric_change,THE STUMPS,[],0
+1803_1806,1803_1806_E004,supported,numeric_change,THE WICKETS,[],0
+1803_1806,1803_1806_E005,unchecked,relocation,THE WICKETS,[],0
+1803_1806,1803_1806_E006,supported,new_provision,THE BOWLER,[],0
+1803_1806,1803_1806_E007,unchecked,law_removed,THE PARTY WHICH GOES,[],0
+1803_1806,1803_1806_E008,unchecked,new_law,The Ball,[],0
+1803_1806,1803_1806_E009,supported,numeric_change,THE STRIKER IS OUT,[],0
+1803_1806,1803_1806_E010,unchecked,revision,THE STRIKER IS OUT,[],0
+1803_1806,1803_1806_E011,unchecked,rewording,THE STRIKER IS OUT,[],0
+1806_1809,1806_1809_E001,unchecked,rewording,THE BALL,[],0
+1806_1809,1806_1809_E002,supported,numeric_change,THE STRIKER IS OUT,[],0
+1806_1809,1806_1809_E003,unchecked,revision,THE STRIKER IS OUT,[],0
+1806_1809,1806_1809_E004,unchecked,new_law,NOT OUT,[],0
+1806_1809,1806_1809_E005,unchecked,removed_provision,THE UMPIRES,[],0
+1806_1809,1806_1809_E006,unchecked,rewording,THE UMPIRES,[],0
+1806_1809,1806_1809_E007,supported,numeric_change,THE STUMPS,[],0
+1806_1809,1806_1809_E008,supported,numeric_change,THE WICKETS,[],0
+1806_1809,1806_1809_E009,unchecked,law_removed,The Ball,[],0
+1806_1809,1806_1809_E010,unchecked,new_law,THE PARTY WHICH GOES FROM HOME,[],0
+1806_1809,1806_1809_E011,unchecked,relocation,THE PARTY WHICH GOES FROM HOME,[],0
+1806_1809,1806_1809_E012,supported,numeric_change,THE BOWLER,[],0
+1809_1816,1809_1816_E001,unchecked,rewording,THE BALL,[],0
+1809_1816,1809_1816_E002,unchecked,rewording,THE WICKET-KEEPERS,[],0
+1809_1816,1809_1816_E003,unchecked,law_removed,NOT OUT,[],0
+1809_1816,1809_1816_E004,unchecked,revision,THE UMPIRES,[],0
+1809_1816,1809_1816_E005,supported,numeric_change,THE BAT,[],0
+1809_1816,1809_1816_E006,supported,numeric_change,THE STUMPS,[],0
+1809_1816,1809_1816_E007,supported,numeric_change,THE WICKETS,[],0
+1809_1816,1809_1816_E008,supported,numeric_change,THE BOWLER,[],0
+1809_1816,1809_1816_E009,supported,numeric_change,The ball,[],0
+1809_1816,1809_1816_E010,unchecked,rewording,THE STRIKER IS OUT,[],0
+1809_1816,1809_1816_E011,supported,revision,THE STRIKER IS OUT,[],0
+1816_1820,1816_1820_E001,unchecked,rewording,THE BALL,[],0
+1816_1820,1816_1820_E002,unchecked,law_removed,THE WICKET-KEEPERS,[],0
+1816_1820,1816_1820_E003,unchecked,law_removed,THE UMPIRES,[],0
+1816_1820,1816_1820_E004,supported,numeric_change,THE BAT,[],0
+1816_1820,1816_1820_E005,supported,numeric_change,THE STUMPS,[],0
+1816_1820,1816_1820_E006,supported,numeric_change,THE POPPING CREASE,[],0
+1816_1820,1816_1820_E007,unchecked,relocation,THE POPPING CREASE,[],0
+1816_1820,1816_1820_E008,unchecked,relocation,THE POPPING CREASE,[],0
+1816_1820,1816_1820_E009,unchecked,law_removed,THE WICKETS,[],0
+1816_1820,1816_1820_E010,unchecked,revision,The Ball,[],0
+1816_1820,1816_1820_E011,unchecked,relocation,The Ball,[],0
+1816_1820,1816_1820_E012,unchecked,relocation,The Ball,[],0
+1816_1820,1816_1820_E013,unchecked,relocation,The Ball,[],0
+1816_1820,1816_1820_E014,unchecked,law_removed,THE BOWLER,[],0
+1816_1820,1816_1820_E015,unchecked,law_removed,THE STRIKER IS OUT,[],0
+1820_1823,1820_1823_E001,unchecked,rewording,The Ball,[],0
+1820_1823,1820_1823_E002,unchecked,new_law,Wicket,[],0
+1820_1823,1820_1823_E003,unchecked,relocation,Wicket,[],0
+1820_1823,1820_1823_E004,unchecked,new_law,The Wicket Keeper,[],0
+1820_1823,1820_1823_E005,unchecked,relocation,The Wicket Keeper,[],0
+1820_1823,1820_1823_E006,unchecked,new_law,The Umpires,[],0
+1820_1823,1820_1823_E007,supported,numeric_change,The Umpires,[],0
+1820_1823,1820_1823_E008,unchecked,new_law,LAWS FOR SINGLE WICKET,[],0
+1820_1823,1820_1823_E009,unchecked,new_law,The Ball,[],0
+1820_1823,1820_1823_E010,unchecked,rewording,BETS,[],0
+1820_1823,1820_1823_E011,supported,new_provision,The Stumps,[],0
+1820_1823,1820_1823_E012,supported,numeric_change,The Bowling crease,[],0
+1820_1823,1820_1823_E013,supported,removed_provision,THE POPPING CREASE,[],0
+1820_1823,1820_1823_E014,unchecked,new_law,The wickets,[],0
+1820_1823,1820_1823_E015,unchecked,relocation,The wickets,[],0
+1820_1823,1820_1823_E016,unchecked,removed_provision,The Ball,[],0
+1820_1823,1820_1823_E017,supported,removed_provision,The Ball,[],0
+1820_1823,1820_1823_E018,unchecked,removed_provision,The Ball,[],0
+1820_1823,1820_1823_E019,unchecked,removed_provision,The Ball,[],0
+1820_1823,1820_1823_E020,unchecked,new_law,The Bowler,[],0
+1820_1823,1820_1823_E021,unchecked,relocation,The Bowler,[],0
+1820_1823,1820_1823_E022,unchecked,rewording,The Ball,[],0
+1820_1823,1820_1823_E023,unchecked,new_law,The Striker is Out,[],0
+1820_1823,1820_1823_E024,unchecked,relocation,The Striker is Out,[],0
+1823_1828,1823_1828_E001,unchecked,rewording,,[],0
+1823_1828,1823_1828_E002,unchecked,rewording,,[],0
+1823_1828,1823_1828_E003,unchecked,removed_provision,Wicket,[],0
+1823_1828,1823_1828_E004,unchecked,removed_provision,Wicket,[],0
+1823_1828,1823_1828_E005,unchecked,new_law,,[],0
+1823_1828,1823_1828_E006,unchecked,relocation,The Ball,[],0
+1823_1828,1823_1828_E007,unchecked,new_law,,[],0
+1823_1828,1823_1828_E008,unchecked,relocation,The Ball,[],0
+1823_1828,1823_1828_E009,unchecked,law_removed,LAWS FOR SINGLE WICKET,[],0
+1823_1828,1823_1828_E010,unchecked,new_law,,[],0
+1823_1828,1823_1828_E011,unchecked,relocation,The Ball,[],0
+1823_1828,1823_1828_E012,unchecked,new_law,,[],0
+1823_1828,1823_1828_E013,unchecked,relocation,The Ball,[],0
+1823_1828,1823_1828_E014,unchecked,law_removed,BETS,[],0
+1823_1828,1823_1828_E015,unchecked,new_law,,[],0
+1823_1828,1823_1828_E016,unchecked,relocation,The Ball,[],0
+1823_1828,1823_1828_E017,unchecked,rewording,,[],0
+1823_1828,1823_1828_E018,unchecked,new_law,,[],0
+1823_1828,1823_1828_E019,unchecked,relocation,The Striker is Out,[],0
+1823_1828,1823_1828_E020,unchecked,new_law,,[],0
+1823_1828,1823_1828_E021,unchecked,relocation,The Striker is Out,[],0
+1823_1828,1823_1828_E022,unchecked,new_law,,[],0
+1823_1828,1823_1828_E023,unchecked,relocation,The Striker is Out,[],0
+1823_1828,1823_1828_E024,unchecked,rewording,,[],0
+1823_1828,1823_1828_E025,unchecked,new_law,,[],0
+1823_1828,1823_1828_E026,unchecked,relocation,The Striker is Out,[],0
+1823_1828,1823_1828_E027,unchecked,new_law,,[],0
+1823_1828,1823_1828_E028,unchecked,new_law,,[],0
+1823_1828,1823_1828_E029,unchecked,new_law,,[],0
+1823_1828,1823_1828_E030,unchecked,relocation,The Striker is Out,[],0
+1823_1828,1823_1828_E031,unchecked,new_law,,[],0
+1823_1828,1823_1828_E032,unchecked,relocation,Wicket,[],0
+1823_1828,1823_1828_E033,unchecked,new_law,,[],0
+1823_1828,1823_1828_E034,unchecked,relocation,Wicket,[],0
+1823_1828,1823_1828_E035,unchecked,new_law,,[],0
+1823_1828,1823_1828_E036,unchecked,relocation,Wicket,[],0
+1823_1828,1823_1828_E037,unchecked,new_law,,[],0
+1823_1828,1823_1828_E038,unchecked,new_law,,[],0
+1823_1828,1823_1828_E039,unchecked,relocation,Wicket,[],0
+1823_1828,1823_1828_E040,supported,revision,,[],0
+1823_1828,1823_1828_E041,unchecked,new_law,,[],0
+1823_1828,1823_1828_E042,unchecked,relocation,Wicket,[],0
+1823_1828,1823_1828_E043,unchecked,new_law,,[],0
+1823_1828,1823_1828_E044,unchecked,relocation,Wicket,[],0
+1823_1828,1823_1828_E045,unchecked,new_law,,[],0
+1823_1828,1823_1828_E046,unchecked,relocation,Wicket,[],0
+1823_1828,1823_1828_E047,unchecked,new_law,,[],0
+1823_1828,1823_1828_E048,unchecked,relocation,Wicket,[],0
+1823_1828,1823_1828_E049,unchecked,new_law,,[],0
+1823_1828,1823_1828_E050,unchecked,relocation,Wicket,[],0
+1823_1828,1823_1828_E051,unchecked,new_law,,[],0
+1823_1828,1823_1828_E052,unchecked,relocation,Wicket,[],0
+1823_1828,1823_1828_E053,unchecked,rewording,,[],0
+1823_1828,1823_1828_E054,unchecked,rewording,,[],0
+1823_1828,1823_1828_E055,unchecked,new_law,,[],0
+1823_1828,1823_1828_E056,unchecked,relocation,The Umpires,[],0
+1823_1828,1823_1828_E057,unchecked,new_law,,[],0
+1823_1828,1823_1828_E058,unchecked,relocation,The Umpires,[],0
+1823_1828,1823_1828_E059,supported,numeric_change,,[],0
+1823_1828,1823_1828_E060,unchecked,new_law,,[],0
+1823_1828,1823_1828_E061,unchecked,relocation,The Umpires,[],0
+1823_1828,1823_1828_E062,unchecked,new_law,,[],0
+1823_1828,1823_1828_E063,unchecked,relocation,The Umpires,[],0
+1823_1828,1823_1828_E064,unchecked,new_law,,[],0
+1823_1828,1823_1828_E065,supported,numeric_change,The Umpires,[],0
+1823_1828,1823_1828_E066,unchecked,relocation,The Umpires,[],0
+1823_1828,1823_1828_E067,unchecked,relocation,LAWS FOR SINGLE WICKET,[],0
+1823_1828,1823_1828_E068,supported,numeric_change,,[],0
+1823_1828,1823_1828_E069,unchecked,relocation,BETS,[],0
+1823_1828,1823_1828_E070,unchecked,rewording,,[],0
+1823_1828,1823_1828_E071,unchecked,revision,,[],0
+1823_1828,1823_1828_E072,unchecked,new_law,,[],0
+1823_1828,1823_1828_E073,unchecked,new_law,,[],0
+1823_1828,1823_1828_E074,unchecked,relocation,The wickets,[],0
+1823_1828,1823_1828_E075,supported,numeric_change,,[],0
+1823_1828,1823_1828_E076,unchecked,removed_provision,The Striker is Out,[],0
+1828_1830,1828_1830_E001,unchecked,new_law,,[],0
+1828_1830,1828_1830_E002,supported,revision,The Wickets,[],0
+1828_1830,1828_1830_E003,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E004,supported,numeric_change,The Bowler,[],0
+1828_1830,1828_1830_E005,unchecked,relocation,The Bowler,[],0
+1828_1830,1828_1830_E006,unchecked,relocation,The Bowler,[],0
+1828_1830,1828_1830_E007,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E008,supported,numeric_change,The ball,[],0
+1828_1830,1828_1830_E009,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E010,supported,numeric_change,The Striker is Out,[],0
+1828_1830,1828_1830_E011,supported,numeric_change,The Striker is Out,[],0
+1828_1830,1828_1830_E012,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E013,supported,revision,The Wicket-keepers,[],0
+1828_1830,1828_1830_E014,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E015,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E016,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E017,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E018,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E019,unchecked,new_law,Number of Players,[],0
+1828_1830,1828_1830_E020,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E021,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E022,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E023,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E024,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E025,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E026,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E027,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E028,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E029,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E030,unchecked,new_law,Choice of Ground,[],0
+1828_1830,1828_1830_E031,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E032,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E033,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E034,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E035,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E036,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E037,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E038,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E039,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E040,unchecked,rewording,Umpires,[],0
+1828_1830,1828_1830_E041,unchecked,relocation,Umpires,[],0
+1828_1830,1828_1830_E042,unchecked,relocation,Umpires,[],0
+1828_1830,1828_1830_E043,unchecked,relocation,Umpires,[],0
+1828_1830,1828_1830_E044,unchecked,relocation,Umpires,[],0
+1828_1830,1828_1830_E045,unchecked,relocation,Umpires,[],0
+1828_1830,1828_1830_E046,unchecked,new_provision,Umpires,[],0
+1828_1830,1828_1830_E047,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E048,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E049,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E050,unchecked,rewording,The Ball,[],0
+1828_1830,1828_1830_E051,unchecked,law_removed,,[],0
+1828_1830,1828_1830_E052,unchecked,rewording,The Bat,[],0
+1828_1830,1828_1830_E053,unchecked,revision,The Stumps,[],0
+1828_1830,1828_1830_E054,supported,numeric_change,The Bowling-Crease,[],0
+1828_1830,1828_1830_E055,unchecked,rewording,The Popping-Crease,[],0
+1830_1835,1830_1835_E001,unchecked,law_removed,,[],0
+1830_1835,1830_1835_E002,supported,revision,The Ball,[],0
+1830_1835,1830_1835_E003,unchecked,new_law,,[],0
+1830_1835,1830_1835_E004,unchecked,new_law,,[],0
+1830_1835,1830_1835_E005,unchecked,law_removed,The ball,[],0
+1830_1835,1830_1835_E006,unchecked,new_law,,[],0
+1830_1835,1830_1835_E007,unchecked,new_law,,[],0
+1830_1835,1830_1835_E008,unchecked,new_law,,[],0
+1830_1835,1830_1835_E009,unchecked,new_law,,[],0
+1830_1835,1830_1835_E010,unchecked,new_law,,[],0
+1830_1835,1830_1835_E011,unchecked,new_law,,[],0
+1830_1835,1830_1835_E012,unchecked,new_law,,[],0
+1830_1835,1830_1835_E013,unchecked,new_law,,[],0
+1830_1835,1830_1835_E014,unchecked,law_removed,Number of Players,[],0
+1830_1835,1830_1835_E015,unchecked,revision,The Bat,[],0
+1830_1835,1830_1835_E016,unchecked,new_law,,[],0
+1830_1835,1830_1835_E017,unchecked,new_law,,[],0
+1830_1835,1830_1835_E018,unchecked,new_law,,[],0
+1830_1835,1830_1835_E019,unchecked,new_law,,[],0
+1830_1835,1830_1835_E020,unchecked,new_law,,[],0
+1830_1835,1830_1835_E021,unchecked,new_law,,[],0
+1830_1835,1830_1835_E022,unchecked,new_law,,[],0
+1830_1835,1830_1835_E023,unchecked,new_law,,[],0
+1830_1835,1830_1835_E024,unchecked,new_law,,[],0
+1830_1835,1830_1835_E025,unchecked,new_law,,[],0
+1830_1835,1830_1835_E026,unchecked,law_removed,Choice of Ground,[],0
+1830_1835,1830_1835_E027,supported,numeric_change,The Stumps,[],0
+1830_1835,1830_1835_E028,unchecked,new_law,,[],0
+1830_1835,1830_1835_E029,unchecked,new_law,,[],0
+1830_1835,1830_1835_E030,unchecked,new_law,,[],0
+1830_1835,1830_1835_E031,unchecked,new_law,,[],0
+1830_1835,1830_1835_E032,unchecked,new_law,,[],0
+1830_1835,1830_1835_E033,supported,revision,,[],0
+1830_1835,1830_1835_E034,supported,revision,,[],0
+1830_1835,1830_1835_E035,unchecked,new_law,,[],0
+1830_1835,1830_1835_E036,unchecked,relocation,Umpires,[],0
+1830_1835,1830_1835_E037,unchecked,new_law,,[],0
+1830_1835,1830_1835_E038,unchecked,new_law,,[],0
+1830_1835,1830_1835_E039,unchecked,relocation,Umpires,[],0
+1830_1835,1830_1835_E040,supported,numeric_change,The Bowling Crease,[],0
+1830_1835,1830_1835_E041,unchecked,removed_provision,Umpires,[],0
+1830_1835,1830_1835_E042,unchecked,new_law,,[],0
+1830_1835,1830_1835_E043,supported,numeric_change,Umpires,[],0
+1830_1835,1830_1835_E044,unchecked,new_law,,[],0
+1830_1835,1830_1835_E045,supported,numeric_change,Umpires,[],0
+1830_1835,1830_1835_E046,unchecked,new_law,,[],0
+1830_1835,1830_1835_E047,unchecked,new_law,,[],0
+1830_1835,1830_1835_E048,unchecked,new_law,,[],0
+1830_1835,1830_1835_E049,unchecked,new_law,,[],0
+1830_1835,1830_1835_E050,unchecked,new_law,,[],0
+1830_1835,1830_1835_E051,supported,numeric_change,,[],0
+1830_1835,1830_1835_E052,unchecked,revision,The Popping Crease,[],0
+1830_1835,1830_1835_E053,supported,numeric_change,The Wickets,[],0
+1830_1835,1830_1835_E054,unchecked,new_law,,[],0
+1830_1835,1830_1835_E055,unchecked,relocation,The Wickets,[],0
+1830_1835,1830_1835_E056,unchecked,new_law,,[],0
+1830_1835,1830_1835_E057,unchecked,revision,The Bowler,[],0
+1835_1857,1835_1857_E001,supported,numeric_change,,[],0
+1835_1857,1835_1857_E002,unchecked,rewording,,[],0
+1835_1857,1835_1857_E003,unchecked,new_provision,,[],0
+1835_1857,1835_1857_E004,unchecked,removed_provision,,[],0
+1835_1857,1835_1857_E005,unchecked,rewording,,[],0
+1835_1857,1835_1857_E006,unchecked,rewording,,[],0
+1835_1857,1835_1857_E007,supported,numeric_change,,[],0
+1835_1857,1835_1857_E008,unchecked,rewording,,[],0
+1835_1857,1835_1857_E009,unchecked,rewording,,[],0
+1835_1857,1835_1857_E010,supported,numeric_change,,[],0
+1835_1857,1835_1857_E011,unchecked,revision,,[],0
+1835_1857,1835_1857_E012,unchecked,law_removed,,[],0
+1835_1857,1835_1857_E013,unchecked,new_law,,[],0
+1835_1857,1835_1857_E014,unchecked,revision,,[],0
+1835_1857,1835_1857_E015,unchecked,rewording,,[],0
+1835_1857,1835_1857_E016,supported,numeric_change,,[],0
+1835_1857,1835_1857_E017,unchecked,rewording,,[],0
+1835_1857,1835_1857_E018,unchecked,rewording,,[],0
+1835_1857,1835_1857_E019,unchecked,rewording,,[],0
+1835_1857,1835_1857_E020,unchecked,rewording,,[],0
+1835_1857,1835_1857_E021,unchecked,rewording,,[],0
+1835_1857,1835_1857_E022,unchecked,numeric_change,,[],0
+1835_1857,1835_1857_E023,supported,numeric_change,,[],0
+1835_1857,1835_1857_E024,unchecked,rewording,,[],0
+1835_1857,1835_1857_E025,supported,numeric_change,,[],0
+1835_1857,1835_1857_E026,supported,numeric_change,,[],0
+1835_1857,1835_1857_E027,unchecked,rewording,,[],0
+1857_1884,1857_1884_E001,unchecked,new_law,,[],0
+1857_1884,1857_1884_E002,unchecked,new_law,,[],0
+1857_1884,1857_1884_E003,supported,numeric_change,,[],0
+1857_1884,1857_1884_E004,supported,numeric_change,,[],0
+1857_1884,1857_1884_E005,supported,numeric_change,,[],0
+1857_1884,1857_1884_E006,unchecked,relocation,,[],0
+1857_1884,1857_1884_E007,supported,numeric_change,,[],0
+1857_1884,1857_1884_E008,supported,numeric_change,,[],0
+1857_1884,1857_1884_E009,unchecked,relocation,,[],0
+1857_1884,1857_1884_E010,unchecked,new_law,,[],0
+1857_1884,1857_1884_E011,unchecked,new_law,,[],0
+1857_1884,1857_1884_E012,supported,numeric_change,,[],0
+1857_1884,1857_1884_E013,unchecked,law_removed,,[],0
+1857_1884,1857_1884_E014,unchecked,new_law,,[],0
+1857_1884,1857_1884_E015,unchecked,law_removed,,[],0
+1857_1884,1857_1884_E016,unchecked,new_law,,[],0
+1857_1884,1857_1884_E017,unchecked,new_law,Over,[],0
+1857_1884,1857_1884_E018,unchecked,rewording,,[],0
+1857_1884,1857_1884_E019,unchecked,new_law,,[],0
+1857_1884,1857_1884_E020,unchecked,law_removed,,[],0
+1857_1884,1857_1884_E021,unchecked,new_law,,[],0
+1857_1884,1857_1884_E022,unchecked,law_removed,,[],0
+1857_1884,1857_1884_E023,supported,numeric_change,,[],0
+1857_1884,1857_1884_E024,unchecked,new_law,,[],0
+1857_1884,1857_1884_E025,unchecked,new_law,,[],0
+1857_1884,1857_1884_E026,unchecked,law_removed,,[],0
+1857_1884,1857_1884_E027,unchecked,revision,,[],0
+1857_1884,1857_1884_E028,unchecked,new_law,,[],0
+1857_1884,1857_1884_E029,unchecked,law_removed,,[],0
+1857_1884,1857_1884_E030,unchecked,rewording,Bowled,[],0
+1857_1884,1857_1884_E031,unchecked,new_law,,[],0
+1857_1884,1857_1884_E032,unchecked,rewording,,[],0
+1857_1884,1857_1884_E033,unchecked,new_law,,[],0
+1857_1884,1857_1884_E034,unchecked,revision,,[],0
+1857_1884,1857_1884_E035,unchecked,law_removed,,[],0
+1857_1884,1857_1884_E036,unchecked,new_law,,[],0
+1857_1884,1857_1884_E037,unchecked,revision,,[],0
+1857_1884,1857_1884_E038,unchecked,revision,,[],0
+1857_1884,1857_1884_E039,unchecked,law_removed,,[],0
+1857_1884,1857_1884_E040,unchecked,new_law,,[],0
+1857_1884,1857_1884_E041,unchecked,new_law,VI,[],0
+1857_1884,1857_1884_E042,unchecked,revision,,[],0
+1857_1884,1857_1884_E043,unchecked,revision,,[],0
+1857_1884,1857_1884_E044,unchecked,new_law,,[],0
+1857_1884,1857_1884_E045,unchecked,law_removed,,[],0
+1857_1884,1857_1884_E046,unchecked,revision,,[],0
+1857_1884,1857_1884_E047,supported,numeric_change,,[],0
+1857_1884,1857_1884_E048,unchecked,rewording,,[],0
+1857_1884,1857_1884_E049,unchecked,new_law,,[],0
+1857_1884,1857_1884_E050,unchecked,rewording,,[],0
+1857_1884,1857_1884_E051,unchecked,revision,,[],0
+1857_1884,1857_1884_E052,suspect,numeric_change,,"[{""side"": ""added"", ""value"": 5.5}, {""side"": ""added"", ""value"": 5.75}, {""side"": ""added"", ""value"": 9.25}]",0
+1857_1884,1857_1884_E053,unchecked,law_removed,,[],0
+1857_1884,1857_1884_E054,unchecked,new_law,,[],0
+1857_1884,1857_1884_E055,unchecked,revision,,[],0
+1857_1884,1857_1884_E056,unchecked,revision,,[],0
+1857_1884,1857_1884_E057,unchecked,new_law,,[],0
+1857_1884,1857_1884_E058,unchecked,law_removed,,[],0
+1857_1884,1857_1884_E059,unchecked,numeric_change,,[],0
+1857_1884,1857_1884_E060,unchecked,rewording,,[],0
+1857_1884,1857_1884_E061,unchecked,revision,,[],0
+1857_1884,1857_1884_E062,unchecked,law_removed,,[],0
+1857_1884,1857_1884_E063,unchecked,revision,,[],0
+1857_1884,1857_1884_E064,unchecked,revision,,[],0
+1857_1884,1857_1884_E065,unchecked,rewording,,[],0
+1857_1884,1857_1884_E066,suspect,numeric_change,,"[{""side"": ""added"", ""value"": 4.25}]",0
+1857_1884,1857_1884_E067,unchecked,revision,,[],0
+1857_1884,1857_1884_E068,unchecked,new_law,,[],0
+1857_1884,1857_1884_E069,supported,numeric_change,,[],0
+1857_1884,1857_1884_E070,suspect,numeric_change,,"[{""side"": ""removed"", ""value"": 100.0}]",0
+1857_1884,1857_1884_E071,suspect,numeric_change,,"[{""side"": ""added"", ""value"": 0.75}, {""side"": ""added"", ""value"": 4.75}]",0
+1857_1884,1857_1884_E072,unchecked,revision,,[],0
+1857_1884,1857_1884_E073,unchecked,law_removed,,[],0
+1857_1884,1857_1884_E074,unchecked,revision,,[],0
+1857_1884,1857_1884_E075,supported,numeric_change,,[],0
+1884_1890,1884_1890_E001,unchecked,rewording,,[],0
+1884_1890,1884_1890_E002,unchecked,relocation,,[],0
+1884_1890,1884_1890_E003,unchecked,law_removed,,[],0
+1884_1890,1884_1890_E004,supported,numeric_change,,[],0
+1884_1890,1884_1890_E005,supported,numeric_change,,[],0
+1884_1890,1884_1890_E006,unchecked,rewording,,[],0
+1884_1890,1884_1890_E007,unchecked,rewording,,[],0
+1884_1890,1884_1890_E008,unchecked,rewording,The Game,[],0
+1884_1890,1884_1890_E009,unchecked,rewording,The Bowler. No Ball,[],0
+1884_1890,1884_1890_E010,unchecked,rewording,,[],0
+1884_1890,1884_1890_E011,supported,numeric_change,The Over,[],0
+1884_1890,1884_1890_E012,supported,numeric_change,,[],0
+1884_1890,1884_1890_E013,unchecked,rewording,Wide Balls,[],0
+1884_1890,1884_1890_E014,unchecked,rewording,Bye,[],0
+1884_1890,1884_1890_E015,unchecked,rewording,"Bowled,",[],0
+1884_1890,1884_1890_E016,unchecked,rewording,Caught,[],0
+1884_1890,1884_1890_E017,unchecked,rewording,,[],0
+1884_1890,1884_1890_E018,unchecked,rewording,,[],0
+1884_1890,1884_1890_E019,unchecked,rewording,The Ball,[],0
+1884_1890,1884_1890_E020,unchecked,revision,The Fieldsman,[],0
+1884_1890,1884_1890_E021,unchecked,rewording,,[],0
+1884_1890,1884_1890_E022,unchecked,rewording,,[],0
+1884_1890,1884_1890_E023,unchecked,new_law,,[],0
+1884_1890,1884_1890_E024,suspect,numeric_change,The Wickets,"[{""side"": ""added"", ""value"": 4.5}, {""side"": ""removed"", ""value"": 4.75}]",0
+1884_1890,1884_1890_E025,unchecked,rewording,The Ground,[],0
+1890_1892,1890_1892_E001,unchecked,new_law,,[],0
+1890_1892,1890_1892_E002,unchecked,relocation,,[],0
+1890_1892,1890_1892_E003,supported,numeric_change,,[],0
+1890_1892,1890_1892_E004,supported,numeric_change,,[],0
+1890_1892,1890_1892_E005,unchecked,rewording,,[],0
+1890_1892,1890_1892_E006,unchecked,rewording,,[],0
+1890_1892,1890_1892_E007,unchecked,rewording,,[],0
+1890_1892,1890_1892_E008,unchecked,rewording,,[],0
+1890_1892,1890_1892_E009,unchecked,rewording,,[],0
+1890_1892,1890_1892_E010,unchecked,rewording,,[],0
+1890_1892,1890_1892_E011,unchecked,rewording,,[],0
+1890_1892,1890_1892_E012,unchecked,rewording,,[],0
+1890_1892,1890_1892_E013,unchecked,rewording,,[],0
+1890_1892,1890_1892_E014,unchecked,rewording,,[],0
+1890_1892,1890_1892_E015,unchecked,rewording,,[],0
+1890_1892,1890_1892_E016,unchecked,rewording,,[],0
+1890_1892,1890_1892_E017,unchecked,revision,,[],0
+1890_1892,1890_1892_E018,supported,numeric_change,,[],0
+1890_1892,1890_1892_E019,unchecked,relocation,,[],0
+1890_1892,1890_1892_E020,unchecked,law_removed,,[],0
+1890_1892,1890_1892_E021,suspect,numeric_change,,"[{""side"": ""added"", ""value"": 4.5}, {""side"": ""removed"", ""value"": 4.25}]",0
+1890_1892,1890_1892_E022,unchecked,rewording,,[],0
+1890_1892,1890_1892_E023,suspect,numeric_change,,"[{""side"": ""added"", ""value"": 4.625}, {""side"": ""removed"", ""value"": 4.5}]",0
+1890_1892,1890_1892_E024,unchecked,rewording,,[],0
+1892_1896,1892_1896_E001,unchecked,rewording,,[],0
+1892_1896,1892_1896_E002,unchecked,rewording,,[],0
+1892_1896,1892_1896_E003,unchecked,revision,,[],0
+1892_1896,1892_1896_E004,unchecked,rewording,,[],0
+1892_1896,1892_1896_E005,suspect,numeric_change,,"[{""side"": ""added"", ""value"": 9.5}, {""side"": ""removed"", ""value"": 9.25}]",0
+1892_1896,1892_1896_E006,suspect,numeric_change,,"[{""side"": ""added"", ""value"": 48.5}]",0
+1892_1896,1892_1896_E007,suspect,numeric_change,,"[{""side"": ""added"", ""value"": 4.25}, {""side"": ""removed"", ""value"": 4.5}]",0
+1892_1896,1892_1896_E008,supported,numeric_change,,[],0
+1892_1896,1892_1896_E009,suspect,numeric_change,,"[{""side"": ""added"", ""value"": 4.25}, {""side"": ""removed"", ""value"": 4.625}]",0
+1896_1900,1896_1900_E001,unchecked,new_law,,[],0
+1896_1900,1896_1900_E002,unchecked,relocation,,[],0
+1896_1900,1896_1900_E003,unchecked,relocation,,[],0
+1896_1900,1896_1900_E004,unchecked,relocation,,[],0
+1896_1900,1896_1900_E005,unchecked,relocation,,[],0
+1896_1900,1896_1900_E006,unchecked,relocation,,[],0
+1896_1900,1896_1900_E007,unchecked,relocation,,[],0
+1896_1900,1896_1900_E008,unchecked,relocation,,[],0
+1896_1900,1896_1900_E009,unchecked,relocation,,[],0
+1896_1900,1896_1900_E010,unchecked,relocation,,[],0
+1896_1900,1896_1900_E011,unchecked,relocation,,[],0
+1896_1900,1896_1900_E012,suspect,numeric_change,,"[{""side"": ""removed"", ""value"": 60.0}]",0
+1896_1900,1896_1900_E013,unchecked,rewording,,[],0
+1896_1900,1896_1900_E014,unchecked,law_removed,,[],0
+1896_1900,1896_1900_E015,unchecked,numeric_change,THE GAME,[],0
+1896_1900,1896_1900_E016,unchecked,rewording,THE BOWLER. NO BALL,[],0
+1896_1900,1896_1900_E017,supported,numeric_change,THE OVER,[],0
+1896_1900,1896_1900_E018,supported,numeric_change,,[],0
+1896_1900,1896_1900_E019,unchecked,rewording,SCORING OFF NO BALLS AND WIDE BALLS,[],0
+1896_1900,1896_1900_E020,supported,numeric_change,RUNS,[],0
+1896_1900,1896_1900_E021,unchecked,rewording,THE STRIKER,[],0
+1896_1900,1896_1900_E022,unchecked,rewording,THE BATSMEN,[],0
+1896_1900,1896_1900_E023,unchecked,rewording,LOST BALL,[],0
+1896_1900,1896_1900_E024,unchecked,rewording,,[],0
+1896_1900,1896_1900_E025,suspect,numeric_change,THE BALL,"[{""side"": ""removed"", ""value"": 5.5}, {""side"": ""removed"", ""value"": 5.75}, {""side"": ""removed"", ""value"": 9.5}]",0
+1896_1900,1896_1900_E026,unchecked,rewording,,[],0
+1896_1900,1896_1900_E027,unchecked,revision,THE FIELDSMAN,[],0
+1896_1900,1896_1900_E028,unchecked,rewording,,[],0
+1896_1900,1896_1900_E029,suspect,numeric_change,,"[{""side"": ""removed"", ""value"": 48.5}]",0
+1896_1900,1896_1900_E030,unchecked,new_law,,[],0
+1896_1900,1896_1900_E031,unchecked,relocation,,[],0
+1896_1900,1896_1900_E032,suspect,numeric_change,THE BAT,"[{""side"": ""removed"", ""value"": 4.25}]",0
+1896_1900,1896_1900_E033,unchecked,rewording,,[],0
+1896_1900,1896_1900_E034,supported,numeric_change,FOLLOWING INNINGS,[],0
+1896_1900,1896_1900_E035,unchecked,law_removed,,[],0
+1896_1900,1896_1900_E036,suspect,numeric_change,THE WICKETS,"[{""side"": ""removed"", ""value"": 0.75}, {""side"": ""removed"", ""value"": 4.25}]",0
+1896_1900,1896_1900_E037,unchecked,rewording,THE BOWLING CREASE,[],0
+1896_1900,1896_1900_E038,unchecked,rewording,THE POPPING CREASE,[],0
+1900_1902,1900_1902_E001,unchecked,law_removed,,[],0
+1900_1902,1900_1902_E002,unchecked,revision,,[],0
+1900_1902,1900_1902_E003,unchecked,relocation,,[],0
+1900_1902,1900_1902_E004,unchecked,new_provision,,[],0
+1900_1902,1900_1902_E005,unchecked,law_removed,,[],0
+1900_1902,1900_1902_E006,unchecked,new_law,,[],0
+1900_1902,1900_1902_E007,supported,numeric_change,,[],0
+1900_1902,1900_1902_E008,unchecked,relocation,,[],0
+1900_1902,1900_1902_E009,supported,numeric_change,,[],0
+1900_1902,1900_1902_E010,unchecked,relocation,,[],0
+1900_1902,1900_1902_E011,unchecked,relocation,,[],0
+1900_1902,1900_1902_E012,unchecked,relocation,,[],0
+1900_1902,1900_1902_E013,unchecked,relocation,,[],0
+1900_1902,1900_1902_E014,unchecked,relocation,,[],0
+1900_1902,1900_1902_E015,unchecked,relocation,,[],0
+1900_1902,1900_1902_E016,unchecked,relocation,,[],0
+1900_1902,1900_1902_E017,unchecked,numeric_change,,[],0
+1900_1902,1900_1902_E018,supported,new_provision,,[],0
+1900_1902,1900_1902_E019,supported,new_provision,,[],0
+1900_1902,1900_1902_E020,supported,new_provision,,[],0
+1900_1902,1900_1902_E021,supported,numeric_change,,[],0
+1900_1902,1900_1902_E022,unchecked,revision,,[],0
+1900_1902,1900_1902_E023,unchecked,rewording,,[],0
+1900_1902,1900_1902_E024,unchecked,revision,,[],0
+1900_1902,1900_1902_E025,unchecked,new_provision,,[],0
+1900_1902,1900_1902_E026,supported,numeric_change,,[],0
+1900_1902,1900_1902_E027,supported,new_provision,,[],0
+1900_1902,1900_1902_E028,supported,new_provision,,[],0
+1900_1902,1900_1902_E029,unchecked,revision,,[],0
+1900_1902,1900_1902_E030,unchecked,new_provision,,[],0
+1900_1902,1900_1902_E031,supported,new_provision,,[],0
+1900_1902,1900_1902_E032,supported,revision,,[],0
+1900_1902,1900_1902_E033,unchecked,new_provision,,[],0
+1900_1902,1900_1902_E034,unchecked,new_provision,,[],0
+1900_1902,1900_1902_E035,supported,new_provision,,[],0
+1900_1902,1900_1902_E036,unchecked,revision,,[],0
+1900_1902,1900_1902_E037,supported,new_provision,,[],0
+1900_1902,1900_1902_E038,unchecked,new_provision,,[],0
+1900_1902,1900_1902_E039,unchecked,new_provision,,[],0
+1900_1902,1900_1902_E040,unchecked,new_law,,[],0
+1900_1902,1900_1902_E041,unchecked,revision,,[],0
+1900_1902,1900_1902_E042,supported,revision,,[],0
+1900_1902,1900_1902_E043,supported,numeric_change,,[],0
+1900_1902,1900_1902_E044,unchecked,new_provision,,[],0
+1900_1902,1900_1902_E045,unchecked,revision,,[],0
+1900_1902,1900_1902_E046,unchecked,rewording,,[],0
+1900_1902,1900_1902_E047,supported,new_provision,,[],0
+1900_1902,1900_1902_E048,unchecked,new_provision,,[],0
+1900_1902,1900_1902_E049,supported,new_provision,,[],0
+1900_1902,1900_1902_E050,unchecked,revision,,[],0
+1900_1902,1900_1902_E051,unchecked,new_provision,,[],0
+1900_1902,1900_1902_E052,unchecked,new_provision,,[],0
+1900_1902,1900_1902_E053,unchecked,revision,,[],0
+1900_1902,1900_1902_E054,supported,numeric_change,,[],0
+1900_1902,1900_1902_E055,supported,new_provision,,[],0
+1900_1902,1900_1902_E056,unchecked,rewording,,[],0
+1900_1902,1900_1902_E057,supported,numeric_change,,[],0
+1900_1902,1900_1902_E058,unchecked,new_law,,[],0
+1900_1902,1900_1902_E059,supported,numeric_change,,[],0
+1900_1902,1900_1902_E060,unchecked,revision,,[],0
+1900_1902,1900_1902_E061,supported,new_provision,,[],0
+1902_1906,1902_1906_E001,supported,numeric_change,,[],0
+1902_1906,1902_1906_E002,unchecked,rewording,,[],0
+1902_1906,1902_1906_E003,unchecked,new_provision,,[],0
+1902_1906,1902_1906_E004,unchecked,rewording,,[],0
+1902_1906,1902_1906_E005,supported,numeric_change,,[],0
+1902_1906,1902_1906_E006,supported,numeric_change,,[],0
+1902_1906,1902_1906_E007,unchecked,rewording,,[],0
+1902_1906,1902_1906_E008,unchecked,rewording,,[],0
+1902_1906,1902_1906_E009,supported,numeric_change,,[],0
+1902_1906,1902_1906_E010,supported,numeric_change,,[],0
+1902_1906,1902_1906_E011,supported,numeric_change,,[],0
+1902_1906,1902_1906_E012,unchecked,revision,,[],0
+1902_1906,1902_1906_E013,supported,numeric_change,,[],0
+1902_1906,1902_1906_E014,unchecked,new_provision,,[],0
+1902_1906,1902_1906_E015,supported,numeric_change,,[],0
+1902_1906,1902_1906_E016,supported,numeric_change,,[],0
+1902_1906,1902_1906_E017,supported,removed_provision,,[],0
+1902_1906,1902_1906_E018,unchecked,new_provision,,[],0
+1906_1908,1906_1908_E001,supported,numeric_change,,[],0
+1906_1908,1906_1908_E002,unchecked,rewording,,[],0
+1906_1908,1906_1908_E003,unchecked,new_provision,,[],0
+1906_1908,1906_1908_E004,supported,new_provision,,[],0
+1906_1908,1906_1908_E005,supported,revision,,[],0
+1906_1908,1906_1908_E006,unchecked,rewording,,[],0
+1906_1908,1906_1908_E007,unchecked,rewording,,[],0
+1906_1908,1906_1908_E008,unchecked,rewording,,[],0
+1906_1908,1906_1908_E009,supported,numeric_change,,[],0
+1906_1908,1906_1908_E010,unchecked,revision,,[],0
+1906_1908,1906_1908_E011,supported,numeric_change,,[],0
+1906_1908,1906_1908_E012,unchecked,new_provision,,[],0
+1906_1908,1906_1908_E013,unchecked,new_provision,,[],0
+1908_1910,1908_1910_E001,supported,numeric_change,,[],0
+1908_1910,1908_1910_E002,unchecked,rewording,,[],0
+1908_1910,1908_1910_E003,unchecked,rewording,,[],0
+1908_1910,1908_1910_E004,unchecked,numeric_change,,[],0
+1908_1910,1908_1910_E005,supported,numeric_change,,[],0
+1908_1910,1908_1910_E006,unchecked,rewording,,[],0
+1908_1910,1908_1910_E007,unchecked,rewording,,[],0
+1908_1910,1908_1910_E008,unchecked,rewording,,[],0
+1908_1910,1908_1910_E009,supported,numeric_change,,[],0
+1908_1910,1908_1910_E010,supported,numeric_change,,[],0
+1908_1910,1908_1910_E011,unchecked,revision,,[],0
+1908_1910,1908_1910_E012,supported,numeric_change,,[],0
+1908_1910,1908_1910_E013,unchecked,rewording,,[],0
+1908_1910,1908_1910_E014,supported,new_provision,,[],0
+1910_1911,1910_1911_E001,unchecked,numeric_change,,[],0
+1910_1911,1910_1911_E002,unchecked,numeric_change,,[],0
+1910_1911,1910_1911_E003,unchecked,new_provision,,[],0
+1910_1911,1910_1911_E004,supported,numeric_change,,[],0
+1910_1911,1910_1911_E005,unchecked,rewording,,[],0
+1910_1911,1910_1911_E006,unchecked,rewording,,[],0
+1910_1911,1910_1911_E007,supported,numeric_change,,[],0
+1910_1911,1910_1911_E008,unchecked,rewording,,[],0
+1910_1911,1910_1911_E009,unchecked,rewording,,[],0
+1910_1911,1910_1911_E010,unchecked,rewording,,[],0
+1910_1911,1910_1911_E011,unchecked,rewording,,[],0
+1910_1911,1910_1911_E012,supported,numeric_change,,[],0
+1911_1913,1911_1913_E001,supported,numeric_change,,[],0
+1911_1913,1911_1913_E002,unchecked,rewording,,[],0
+1911_1913,1911_1913_E003,unchecked,rewording,,[],0
+1911_1913,1911_1913_E004,unchecked,new_provision,,[],0
+1911_1913,1911_1913_E005,unchecked,rewording,,[],0
+1911_1913,1911_1913_E006,unchecked,removed_provision,,[],0
+1911_1913,1911_1913_E007,unchecked,new_provision,,[],0
+1911_1913,1911_1913_E008,unchecked,new_provision,,[],0
+1911_1913,1911_1913_E009,supported,numeric_change,,[],0
+1911_1913,1911_1913_E010,unchecked,rewording,,[],0
+1911_1913,1911_1913_E011,unchecked,rewording,,[],0
+1911_1913,1911_1913_E012,supported,numeric_change,,[],0
+1911_1913,1911_1913_E013,unchecked,revision,,[],0
+1911_1913,1911_1913_E014,supported,numeric_change,,[],0
+1911_1913,1911_1913_E015,unchecked,rewording,,[],0
+1913_1914,1913_1914_E001,supported,numeric_change,,[],0
+1913_1914,1913_1914_E002,supported,numeric_change,,[],0
+1913_1914,1913_1914_E003,unchecked,rewording,,[],0
+1913_1914,1913_1914_E004,unchecked,revision,,[],0
+1913_1914,1913_1914_E005,supported,numeric_change,,[],0
+1913_1914,1913_1914_E006,unchecked,numeric_change,,[],0
+1913_1914,1913_1914_E007,supported,new_provision,,[],0
+1913_1914,1913_1914_E008,unchecked,new_provision,,[],0
+1913_1914,1913_1914_E009,supported,numeric_change,,[],0
+1913_1914,1913_1914_E010,unchecked,rewording,,[],0
+1913_1914,1913_1914_E011,unchecked,rewording,,[],0
+1913_1914,1913_1914_E012,supported,numeric_change,,[],0
+1913_1914,1913_1914_E013,unchecked,removed_provision,,[],0
+1913_1914,1913_1914_E014,unchecked,rewording,Either Batsman,[],0
+1913_1914,1913_1914_E015,supported,numeric_change,,[],0
+1913_1914,1913_1914_E016,unchecked,revision,,[],0
+1913_1914,1913_1914_E017,unchecked,rewording,,[],0
+1913_1914,1913_1914_E018,unchecked,rewording,,[],0
+1913_1914,1913_1914_E019,supported,numeric_change,,[],0
+1913_1914,1913_1914_E020,unchecked,rewording,,[],0
+1913_1914,1913_1914_E021,unchecked,new_law,,[],0
+1913_1914,1913_1914_E022,unchecked,rewording,,[],0
+1913_1914,1913_1914_E023,unchecked,numeric_change,,[],0
+1914_1918,1914_1918_E001,unchecked,rewording,,[],0
+1914_1918,1914_1918_E002,unchecked,rewording,,[],0
+1914_1918,1914_1918_E003,supported,numeric_change,,[],0
+1914_1918,1914_1918_E004,unchecked,rewording,,[],0
+1914_1918,1914_1918_E005,unchecked,revision,,[],0
+1914_1918,1914_1918_E006,unchecked,numeric_change,,[],0
+1914_1918,1914_1918_E007,unchecked,rewording,,[],0
+1914_1918,1914_1918_E008,supported,numeric_change,,[],0
+1914_1918,1914_1918_E009,supported,numeric_change,,[],0
+1914_1918,1914_1918_E010,unchecked,rewording,,[],0
+1914_1918,1914_1918_E011,unchecked,revision,,[],0
+1914_1918,1914_1918_E012,supported,numeric_change,,[],0
+1914_1918,1914_1918_E013,unchecked,rewording,,[],0
+1914_1918,1914_1918_E014,unchecked,rewording,,[],0
+1914_1918,1914_1918_E015,supported,numeric_change,,[],0
+1914_1918,1914_1918_E016,unchecked,revision,,[],0
+1914_1918,1914_1918_E017,supported,numeric_change,,[],0
+1914_1918,1914_1918_E018,unchecked,rewording,,[],0
+1914_1918,1914_1918_E019,supported,numeric_change,,[],0
+1914_1918,1914_1918_E020,unchecked,rewording,,[],0
+1914_1918,1914_1918_E021,unchecked,numeric_change,,[],0
+1918_1920,1918_1920_E001,unchecked,rewording,,[],0
+1918_1920,1918_1920_E002,unchecked,rewording,,[],0
+1918_1920,1918_1920_E003,unchecked,rewording,IG,[],0
+1918_1920,1918_1920_E004,unchecked,rewording,,[],0
+1918_1920,1918_1920_E005,unchecked,rewording,,[],0
+1918_1920,1918_1920_E006,unchecked,rewording,,[],0
+1918_1920,1918_1920_E007,unchecked,rewording,,[],0
+1918_1920,1918_1920_E008,unchecked,rewording,,[],0
+1918_1920,1918_1920_E009,unchecked,rewording,,[],0
+1918_1920,1918_1920_E010,unchecked,rewording,,[],0
+1918_1920,1918_1920_E011,unchecked,rewording,,[],0
+1918_1920,1918_1920_E012,unchecked,revision,,[],0
+1918_1920,1918_1920_E013,supported,numeric_change,,[],0
+1918_1920,1918_1920_E014,supported,numeric_change,,[],0
+1918_1920,1918_1920_E015,supported,numeric_change,,[],0
+1918_1920,1918_1920_E016,unchecked,rewording,,[],0
+1918_1920,1918_1920_E017,supported,numeric_change,,[],0
+1918_1920,1918_1920_E018,supported,numeric_change,,[],0
+1918_1920,1918_1920_E019,supported,numeric_change,,[],0
+1918_1920,1918_1920_E020,supported,numeric_change,,[],0
+1918_1920,1918_1920_E021,unchecked,revision,,[],0
+1918_1920,1918_1920_E022,supported,numeric_change,,[],0
+1918_1920,1918_1920_E023,unchecked,numeric_change,,[],0
+1918_1920,1918_1920_E024,unchecked,revision,,[],0
+1918_1920,1918_1920_E025,supported,numeric_change,,[],0
+1918_1920,1918_1920_E026,supported,numeric_change,,[],0
+1918_1920,1918_1920_E027,unchecked,rewording,,[],0
+1918_1920,1918_1920_E028,unchecked,revision,,[],0
+1918_1920,1918_1920_E029,supported,numeric_change,,[],0
+1920_1923,1920_1923_E001,unchecked,rewording,,[],0
+1920_1923,1920_1923_E002,unchecked,rewording,,[],0
+1920_1923,1920_1923_E003,supported,numeric_change,,[],0
+1920_1923,1920_1923_E004,unchecked,rewording,,[],0
+1920_1923,1920_1923_E005,unchecked,numeric_change,,[],0
+1920_1923,1920_1923_E006,unchecked,rewording,,[],0
+1920_1923,1920_1923_E007,unchecked,rewording,,[],0
+1920_1923,1920_1923_E008,unchecked,rewording,,[],0
+1920_1923,1920_1923_E009,unchecked,rewording,,[],0
+1920_1923,1920_1923_E010,unchecked,revision,,[],0
+1920_1923,1920_1923_E011,unchecked,numeric_change,,[],0
+1920_1923,1920_1923_E012,unchecked,rewording,,[],0
+1920_1923,1920_1923_E013,unchecked,rewording,,[],0
+1920_1923,1920_1923_E014,unchecked,revision,,[],0
+1920_1923,1920_1923_E015,supported,numeric_change,,[],0
+1920_1923,1920_1923_E016,unchecked,rewording,,[],0
+1920_1923,1920_1923_E017,supported,numeric_change,,[],0
+1920_1923,1920_1923_E018,supported,numeric_change,,[],0
+1920_1923,1920_1923_E019,unchecked,rewording,,[],0
+1920_1923,1920_1923_E020,supported,numeric_change,,[],0
+1920_1923,1920_1923_E021,unchecked,rewording,,[],0
+1920_1923,1920_1923_E022,unchecked,rewording,,[],0
+1920_1923,1920_1923_E023,supported,numeric_change,,[],0
+1920_1923,1920_1923_E024,unchecked,rewording,,[],0
+1920_1923,1920_1923_E025,unchecked,revision,,[],0
+1920_1923,1920_1923_E026,unchecked,rewording,,[],0
+1920_1923,1920_1923_E027,unchecked,rewording,,[],0
+1920_1923,1920_1923_E028,unchecked,revision,,[],0
+1920_1923,1920_1923_E029,unchecked,numeric_change,,[],0
+1920_1923,1920_1923_E030,unchecked,revision,,[],0
+1920_1923,1920_1923_E031,supported,numeric_change,,[],0
+1920_1923,1920_1923_E032,unchecked,rewording,,[],0
+1920_1923,1920_1923_E033,supported,numeric_change,,[],0
+1920_1923,1920_1923_E034,unchecked,rewording,,[],0
+1920_1923,1920_1923_E035,unchecked,revision,,[],0
+1920_1923,1920_1923_E036,supported,numeric_change,,[],0
+1923_1932,1923_1932_E001,unchecked,rewording,,[],0
+1923_1932,1923_1932_E002,supported,numeric_change,,[],0
+1923_1932,1923_1932_E003,supported,numeric_change,,[],0
+1923_1932,1923_1932_E004,unchecked,numeric_change,,[],0
+1923_1932,1923_1932_E005,supported,new_provision,,[],0
+1923_1932,1923_1932_E006,unchecked,rewording,,[],0
+1923_1932,1923_1932_E007,supported,new_provision,,[],0
+1923_1932,1923_1932_E008,unchecked,numeric_change,,[],0
+1923_1932,1923_1932_E009,unchecked,new_provision,,[],0
+1923_1932,1923_1932_E010,unchecked,revision,,[],0
+1923_1932,1923_1932_E011,unchecked,revision,,[],0
+1923_1932,1923_1932_E012,unchecked,removed_provision,,[],0
+1923_1932,1923_1932_E013,unchecked,new_provision,,[],0
+1923_1932,1923_1932_E014,unchecked,revision,,[],0
+1923_1932,1923_1932_E015,unchecked,rewording,,[],0
+1923_1932,1923_1932_E016,unchecked,rewording,,[],0
+1923_1932,1923_1932_E017,unchecked,revision,,[],0
+1923_1932,1923_1932_E018,unchecked,rewording,,[],0
+1923_1932,1923_1932_E019,unchecked,new_provision,,[],0
+1923_1932,1923_1932_E020,unchecked,rewording,,[],0
+1923_1932,1923_1932_E021,supported,numeric_change,,[],0
+1923_1932,1923_1932_E022,unchecked,revision,,[],0
+1923_1932,1923_1932_E023,supported,numeric_change,Lost Ball,[],0
+1923_1932,1923_1932_E024,supported,numeric_change,,[],0
+1923_1932,1923_1932_E025,unchecked,new_provision,,[],0
+1923_1932,1923_1932_E026,unchecked,rewording,,[],0
+1923_1932,1923_1932_E027,unchecked,revision,,[],0
+1923_1932,1923_1932_E028,supported,numeric_change,,[],0
+1923_1932,1923_1932_E029,supported,removed_provision,,[],0
+1923_1932,1923_1932_E030,unchecked,revision,,[],0
+1923_1932,1923_1932_E031,supported,numeric_change,,[],0
+1923_1932,1923_1932_E032,unchecked,rewording,,[],0
+1923_1932,1923_1932_E033,supported,numeric_change,,[],0
+1923_1932,1923_1932_E034,supported,numeric_change,,[],0
+1923_1932,1923_1932_E035,supported,numeric_change,,[],0
+1923_1932,1923_1932_E036,supported,revision,,[],0
+1923_1932,1923_1932_E037,supported,numeric_change,,[],0
+1923_1932,1923_1932_E038,supported,new_provision,,[],0
+1923_1932,1923_1932_E039,supported,numeric_change,,[],0
+1932_1939,1932_1939_E001,unchecked,new_law,,[],0
+1932_1939,1932_1939_E002,supported,revision,,[],0
+1932_1939,1932_1939_E003,supported,removed_provision,,[],0
+1932_1939,1932_1939_E004,supported,revision,NO BALL,[],0
+1932_1939,1932_1939_E005,unchecked,rewording,,[],0
+1932_1939,1932_1939_E006,unchecked,revision,,[],0
+1932_1939,1932_1939_E007,unchecked,revision,WIDE BALL,[],0
+1932_1939,1932_1939_E008,supported,revision,THE OVER,[],0
+1932_1939,1932_1939_E009,supported,new_provision,CHANGING ENDS,[],0
+1932_1939,1932_1939_E010,unchecked,revision,SCORING OF “NO BALLS” AND “WIDES,[],0
+1932_1939,1932_1939_E011,unchecked,revision,PLAY,[],0
+1932_1939,1932_1939_E012,supported,new_provision,RUNS,[],0
+1932_1939,1932_1939_E013,supported,new_provision,WICKET IS “DOWN,[],0
+1932_1939,1932_1939_E014,unchecked,relocation,WICKET IS “DOWN,[],0
+1932_1939,1932_1939_E015,unchecked,revision,,[],0
+1932_1939,1932_1939_E016,unchecked,rewording,CAUGHT,[],0
+1932_1939,1932_1939_E017,unchecked,revision,CAUGHT,[],0
+1932_1939,1932_1939_E018,unchecked,revision,STUMPED,[],0
+1932_1939,1932_1939_E019,supported,numeric_change,L.B.W,[],0
+1932_1939,1932_1939_E020,unchecked,revision,HIT WICKET,[],0
+1932_1939,1932_1939_E021,unchecked,new_provision,OBSTRUCTING THE FIELD,[],0
+1932_1939,1932_1939_E022,unchecked,revision,HIT THE BALL TWICE,[],0
+1932_1939,1932_1939_E023,supported,revision,,[],0
+1932_1939,1932_1939_E024,supported,revision,,[],0
+1932_1939,1932_1939_E025,unchecked,new_provision,HANDLED THE BALL,[],0
+1932_1939,1932_1939_E026,supported,revision,APPOINTMENT OF UMPIRES,[],0
+1932_1939,1932_1939_E027,unchecked,relocation,OBSTRUCTING THE FIELD,[],0
+1932_1939,1932_1939_E028,unchecked,revision,RUNS,[],0
+1932_1939,1932_1939_E029,supported,new_provision,,[],0
+1932_1939,1932_1939_E030,supported,new_provision,LOST BALL,[],0
+1932_1939,1932_1939_E031,supported,revision,"DEAD BALL, ETC",[],0
+1932_1939,1932_1939_E032,supported,numeric_change,"DEAD BALL, ETC",[],0
+1932_1939,1932_1939_E033,unchecked,relocation,"DEAD BALL, ETC",[],0
+1932_1939,1932_1939_E034,unchecked,new_provision,BATSMAN RETIRING FROM HIS WICKET,[],0
+1932_1939,1932_1939_E035,unchecked,revision,SUBSTITUTES,[],0
+1932_1939,1932_1939_E036,unchecked,revision,,[],0
+1932_1939,1932_1939_E037,supported,new_provision,THE BALL,[],0
+1932_1939,1932_1939_E038,supported,new_provision,THE BALL,[],0
+1932_1939,1932_1939_E039,supported,revision,THE FIELDSMAN,[],0
+1932_1939,1932_1939_E040,supported,revision,,[],0
+1932_1939,1932_1939_E041,supported,new_provision,,[],0
+1932_1939,1932_1939_E042,supported,new_provision,INTERVALS,[],0
+1932_1939,1932_1939_E043,supported,revision,APPEALS,[],0
+1932_1939,1932_1939_E044,supported,revision,JURISDICTION OF UMPIRES,[],0
+1932_1939,1932_1939_E045,supported,numeric_change,NO BALL,[],0
+1932_1939,1932_1939_E046,unchecked,relocation,SHORT RUNS,[],0
+1932_1939,1932_1939_E047,supported,new_provision,SHORT RUNS,[],0
+1932_1939,1932_1939_E048,unchecked,new_provision,THE BAT,[],0
+1932_1939,1932_1939_E049,supported,new_provision,APPEALS,[],0
+1932_1939,1932_1939_E050,supported,new_provision,FOLLOWING INNINGS,[],0
+1932_1939,1932_1939_E051,supported,numeric_change,DECLARATIONS,[],0
+1932_1939,1932_1939_E052,supported,revision,,[],0
+1932_1939,1932_1939_E053,supported,revision,THE WICKETS,[],0
+1932_1939,1932_1939_E054,supported,new_provision,THE BOWLING CREASE,[],0
+1932_1939,1932_1939_E055,unchecked,rewording,THE POPPING CREASE,[],0
+1932_1939,1932_1939_E056,supported,revision,THE GROUND,[],0
+1939_1947,1939_1947_E001,unchecked,law_removed,,[],1
+1939_1947,1939_1947_E002,unchecked,law_removed,,[],1
+1939_1947,1939_1947_E003,unchecked,law_removed,,[],1
+1939_1947,1939_1947_E004,unchecked,new_law,SIDES,[],1
+1939_1947,1939_1947_E005,unchecked,law_removed,NO BALL,[],1
+1939_1947,1939_1947_E006,supported,numeric_change,PITCH,[],1
+1939_1947,1939_1947_E007,supported,numeric_change,PITCH,[],1
+1939_1947,1939_1947_E008,unchecked,law_removed,,[],1
+1939_1947,1939_1947_E009,unchecked,new_law,COVERING THE PITCH,[],1
+1939_1947,1939_1947_E010,unchecked,new_law,MAINTENANCE OF THE PITCH,[],1
+1939_1947,1939_1947_E011,supported,numeric_change,INNINGS,[],1
+1939_1947,1939_1947_E012,unchecked,relocation,INNINGS,[],1
+1939_1947,1939_1947_E013,unchecked,law_removed,CHANGING ENDS,[],1
+1939_1947,1939_1947_E014,supported,numeric_change,FOLLOWING INNINGS,[],1
+1939_1947,1939_1947_E015,unchecked,law_removed,,[],1
+1939_1947,1939_1947_E016,supported,numeric_change,DECLARATIONS,[],1
+1939_1947,1939_1947_E017,unchecked,new_law,,[],1
+1939_1947,1939_1947_E018,supported,removed_provision,SCORING OF “NO BALLS” AND “WIDES,[],1
+1939_1947,1939_1947_E019,supported,revision,COMMENCEMENT AND CLOSE OF PLAY AND INTERVALS,[],1
+1939_1947,1939_1947_E020,unchecked,relocation,COMMENCEMENT AND CLOSE OF PLAY AND INTERVALS,[],1
+1939_1947,1939_1947_E021,supported,numeric_change,,[],1
+1939_1947,1939_1947_E022,supported,numeric_change,SCORING,[],1
+1939_1947,1939_1947_E023,supported,numeric_change,,[],1
+1939_1947,1939_1947_E024,supported,numeric_change,BOUNDARIES,[],1
+1939_1947,1939_1947_E025,supported,revision,LOST BALL,[],1
+1939_1947,1939_1947_E026,unchecked,new_law,THE RESULT,[],1
+1939_1947,1939_1947_E027,supported,numeric_change,THE OVER,[],1
+1939_1947,1939_1947_E028,unchecked,new_law,,[],1
+1939_1947,1939_1947_E029,unchecked,relocation,CHANGING ENDS,[],1
+1939_1947,1939_1947_E030,unchecked,relocation,,[],1
+1939_1947,1939_1947_E031,unchecked,removed_provision,L.B.W,[],1
+1939_1947,1939_1947_E032,supported,numeric_change,DEAD BALL,[],1
+1939_1947,1939_1947_E033,unchecked,relocation,DEAD BALL,[],1
+1939_1947,1939_1947_E034,supported,numeric_change,NO BALL,[],1
+1939_1947,1939_1947_E035,supported,numeric_change,,[],1
+1939_1947,1939_1947_E036,supported,numeric_change,WIDE BALL,[],1
+1939_1947,1939_1947_E037,unchecked,revision,,[],1
+1939_1947,1939_1947_E038,unchecked,revision,SUBSTITUTES THE APPOINTMENT OF UMPIRES,[],1
+1939_1947,1939_1947_E039,unchecked,law_removed,OBSTRUCTING THE FIELD,[],1
+1939_1947,1939_1947_E040,unchecked,revision,BYE AND LEG BYE,[],1
+1939_1947,1939_1947_E041,unchecked,law_removed,BATSMEN CROSSING,[],1
+1939_1947,1939_1947_E042,supported,numeric_change,THE WICKET IS DOWN,[],1
+1939_1947,1939_1947_E043,unchecked,law_removed,RUNS,[],1
+1939_1947,1939_1947_E044,unchecked,revision,OUT OF HIS GROUND,[],1
+1939_1947,1939_1947_E045,unchecked,revision,BATSMAN RETIRING,[],1
+1939_1947,1939_1947_E046,unchecked,law_removed,DEAD BALL,[],1
+1939_1947,1939_1947_E047,unchecked,law_removed,,[],1
+1939_1947,1939_1947_E048,unchecked,revision,BOWLED,[],1
+1939_1947,1939_1947_E049,unchecked,revision,CAUGHT,[],1
+1939_1947,1939_1947_E050,unchecked,revision,HANDLED THE BALL,[],1
+1939_1947,1939_1947_E051,supported,numeric_change,HIT THE BALL TWICE,[],1
+1939_1947,1939_1947_E052,unchecked,law_removed,,[],1
+1939_1947,1939_1947_E053,unchecked,revision,HIT WICKET,[],1
+1939_1947,1939_1947_E054,supported,numeric_change,,[],1
+1939_1947,1939_1947_E055,unchecked,new_law,THE SCORERS,[],1
+1939_1947,1939_1947_E056,unchecked,removed_provision,THE BALL,[],1
+1939_1947,1939_1947_E057,unchecked,law_removed,,[],1
+1939_1947,1939_1947_E058,unchecked,revision,OBSTRUCTING THE FIELD,[],1
+1939_1947,1939_1947_E059,unchecked,revision,RUN OUT,[],1
+1939_1947,1939_1947_E060,supported,revision,STUMPED,[],1
+1939_1947,1939_1947_E061,unchecked,revision,,[],1
+1939_1947,1939_1947_E062,supported,numeric_change,THE FIELDSMAN,[],1
+1939_1947,1939_1947_E063,unchecked,law_removed,INTERVALS,[],1
+1939_1947,1939_1947_E064,unchecked,new_law,,[],1
+1939_1947,1939_1947_E065,supported,numeric_change,,[],1
+1939_1947,1939_1947_E066,supported,numeric_change,,[],1
+1939_1947,1939_1947_E067,supported,numeric_change,,[],1
+1939_1947,1939_1947_E068,supported,numeric_change,,[],1
+1939_1947,1939_1947_E069,unchecked,law_removed,JURISDICTION OF UMPIRES,[],1
+1939_1947,1939_1947_E070,supported,numeric_change,APPEALS,[],1
+1939_1947,1939_1947_E071,unchecked,relocation,APPEALS,[],1
+1939_1947,1939_1947_E072,unchecked,numeric_change,APPEALS,[],1
+1939_1947,1939_1947_E073,unchecked,relocation,APPEALS,[],1
+1939_1947,1939_1947_E074,unchecked,relocation,APPEALS,[],1
+1939_1947,1939_1947_E075,supported,new_provision,APPEALS,[],1
+1939_1947,1939_1947_E076,unchecked,numeric_change,APPEALS,[],1
+1939_1947,1939_1947_E077,supported,new_provision,APPEALS,[],1
+1939_1947,1939_1947_E078,unchecked,revision,APPEALS,[],1
+1939_1947,1939_1947_E079,unchecked,law_removed,,[],1
+1939_1947,1939_1947_E080,unchecked,law_removed,SHORT RUNS,[],1
+1939_1947,1939_1947_E081,suspect,numeric_change,THE GROUND THE BALL,"[{""side"": ""added"", ""value"": 9.125}]",1
+1939_1947,1939_1947_E082,unchecked,law_removed,,[],1
+1939_1947,1939_1947_E083,unchecked,law_removed,,[],1
+1939_1947,1939_1947_E084,unchecked,law_removed,,[],1
+1939_1947,1939_1947_E085,supported,numeric_change,THE BAT,[],1
+1939_1947,1939_1947_E086,unchecked,new_law,THE PITCH,[],1
+1939_1947,1939_1947_E087,unchecked,relocation,THE PITCH,[],1
+1939_1947,1939_1947_E088,unchecked,law_removed,THE POPPING CREASE,[],1
+1939_1947,1939_1947_E089,supported,numeric_change,THE WICKETS,[],1
+1939_1947,1939_1947_E090,supported,revision,THE BOWLING AND POPPING CREASES,[],1
+1947_1952,1947_1952_E001,supported,revision,SIDES,[],1
+1947_1952,1947_1952_E002,supported,numeric_change,"PITCH ROLLING, MOWING AND WATERING",[],1
+1947_1952,1947_1952_E003,unchecked,revision,"PITCH ROLLING, MOWING AND WATERING",[],1
+1947_1952,1947_1952_E004,supported,removed_provision,INNINGS,[],1
+1947_1952,1947_1952_E005,supported,removed_provision,FOLLOWING INNINGS,[],1
+1947_1952,1947_1952_E006,supported,removed_provision,,[],1
+1947_1952,1947_1952_E007,unchecked,new_provision,BOUNDARIES,[],1
+1947_1952,1947_1952_E008,supported,numeric_change,THE RESULT,[],1
+1947_1952,1947_1952_E009,unchecked,new_provision,DEAD BALL,[],1
+1947_1952,1947_1952_E010,unchecked,rewording,WIDE BALL,[],1
+1947_1952,1947_1952_E011,unchecked,rewording,,[],1
+1947_1952,1947_1952_E012,unchecked,revision,BYE AND LEG BYE,[],1
+1947_1952,1947_1952_E013,unchecked,revision,THE WICKET IS DOWN,[],1
+1947_1952,1947_1952_E014,unchecked,revision,THE WICKET IS DOWN,[],1
+1947_1952,1947_1952_E015,unchecked,revision,BATSMAN RETIRING,[],1
+1947_1952,1947_1952_E016,unchecked,new_provision,BOWLED,[],1
+1947_1952,1947_1952_E017,unchecked,rewording,CAUGHT,[],1
+1947_1952,1947_1952_E018,supported,new_provision,HIT THE BALL TWICE,[],1
+1947_1952,1947_1952_E019,unchecked,rewording,,[],1
+1947_1952,1947_1952_E020,unchecked,rewording,,[],1
+1947_1952,1947_1952_E021,unchecked,rewording,RUN OUT,[],1
+1947_1952,1947_1952_E022,unchecked,revision,STUMPED,[],1
+1947_1952,1947_1952_E023,unchecked,revision,THE WICKET-KEEPER,[],1
+1947_1952,1947_1952_E024,unchecked,removed_provision,,[],1
+1947_1952,1947_1952_E025,unchecked,new_provision,,[],1
+1947_1952,1947_1952_E026,unchecked,revision,,[],1
+1947_1952,1947_1952_E027,unchecked,revision,APPEALS,[],1
+1947_1952,1947_1952_E028,unchecked,rewording,APPEALS,[],1
+1947_1952,1947_1952_E029,supported,numeric_change,APPEALS,[],1
+1947_1952,1947_1952_E030,unchecked,revision,APPEALS,[],1
+1947_1952,1947_1952_E031,supported,numeric_change,APPEALS,[],1
+1947_1952,1947_1952_E032,supported,numeric_change,APPEALS,[],1
+1947_1952,1947_1952_E033,unchecked,rewording,APPEALS,[],1
+1947_1952,1947_1952_E034,unchecked,revision,APPEALS,[],1
+1947_1952,1947_1952_E035,unchecked,removed_provision,APPEALS,[],1
+1947_1952,1947_1952_E036,suspect,numeric_change,GROUND THE BALL,"[{""side"": ""added"", ""value"": 8.875}, {""side"": ""removed"", ""value"": 9.125}]",1
+1947_1952,1947_1952_E037,supported,revision,GROUND THE BALL,[],1
+1947_1952,1947_1952_E038,suspect,numeric_change,THE BAT,"[{""side"": ""added"", ""value"": 4.5}]",1
+1947_1952,1947_1952_E039,suspect,numeric_change,THE WICKETS,"[{""side"": ""added"", ""value"": 4.5}]",1
+1952_1962,1952_1962_E001,unchecked,rewording,"PITCH ROLLING, MOWING AND WATERING",[],1
+1952_1962,1952_1962_E002,supported,numeric_change,DECLARATIONS,[],1
+1952_1962,1952_1962_E003,unchecked,rewording,,[],1
+1952_1962,1952_1962_E004,unchecked,new_provision,,[],1
+1952_1962,1952_1962_E005,supported,numeric_change,SCORING,[],1
+1952_1962,1952_1962_E006,supported,numeric_change,THE RESULT,[],1
+1952_1962,1952_1962_E007,unchecked,revision,THE OVER,[],1
+1952_1962,1952_1962_E008,unchecked,revision,WIDE BALL,[],1
+1952_1962,1952_1962_E009,unchecked,rewording,,[],1
+1952_1962,1952_1962_E010,unchecked,revision,BYE AND LEG BYE,[],1
+1952_1962,1952_1962_E011,supported,numeric_change,THE WICKET IS DOWN,[],1
+1952_1962,1952_1962_E012,unchecked,rewording,CAUGHT,[],1
+1952_1962,1952_1962_E013,unchecked,revision,,[],1
+1952_1962,1952_1962_E014,unchecked,revision,STUMPED,[],1
+1952_1962,1952_1962_E015,unchecked,revision,,[],1
+1952_1962,1952_1962_E016,unchecked,revision,,[],1
+1952_1962,1952_1962_E017,unchecked,revision,APPEALS,[],1
+1952_1962,1952_1962_E018,unchecked,revision,APPEALS,[],1
+1952_1962,1952_1962_E019,suspect,numeric_change,THE GROUND THE BALL,"[{""side"": ""removed"", ""value"": 8.875}]",1
+1952_1962,1952_1962_E020,unchecked,removed_provision,GROUND THE BALL,[],1
+1952_1962,1952_1962_E021,supported,numeric_change,THE WICKETS,[],1
+1962_1968,1962_1968_E001,supported,numeric_change,"PITCH ROLLING, MOWING AND WATERING",[],1
+1962_1968,1962_1968_E002,supported,numeric_change,COVERING THE PITCH,[],1
+1962_1968,1962_1968_E003,unchecked,rewording,INNINGS,[],1
+1962_1968,1962_1968_E004,supported,new_provision,DECLARATIONS,[],1
+1962_1968,1962_1968_E005,unchecked,rewording,START AND CLOSE OF PLAY AND INTERVALS,[],1
+1962_1968,1962_1968_E006,supported,new_provision,,[],1
+1962_1968,1962_1968_E007,supported,numeric_change,THE RESULT,[],1
+1962_1968,1962_1968_E008,unchecked,revision,NO BALL,[],1
+1962_1968,1962_1968_E009,unchecked,rewording,WIDE BALL,[],1
+1962_1968,1962_1968_E010,unchecked,rewording,,[],1
+1962_1968,1962_1968_E011,unchecked,revision,BYE AND LEG BYE,[],1
+1962_1968,1962_1968_E012,unchecked,rewording,HANDLED THE BALL,[],1
+1962_1968,1962_1968_E013,unchecked,rewording,HIT THE BALL TWICE,[],1
+1962_1968,1962_1968_E014,unchecked,revision,RUN OUT,[],1
+1962_1968,1962_1968_E015,unchecked,new_provision,THE WICKET-KEEPER,[],1
+1962_1968,1962_1968_E016,unchecked,revision,,[],1
+1962_1968,1962_1968_E017,unchecked,rewording,,[],1
+1962_1968,1962_1968_E018,unchecked,rewording,APPEALS,[],1
+1962_1968,1962_1968_E019,unchecked,rewording,APPEALS,[],1
+1962_1968,1962_1968_E020,supported,numeric_change,THE GROUND THE BALL,[],1
+1962_1968,1962_1968_E021,suspect,numeric_change,THE WICKETS,"[{""side"": ""added"", ""value"": 4.312}, {""side"": ""removed"", ""value"": 4.5}]",1
+1968_1980,1968_1980_E001,supported,numeric_change,THE PLAYERS,[],1
+1968_1980,1968_1980_E002,unchecked,numeric_change,"ROLLING, SWEEPING, MOWING, WATERING THE PITCH AND RE-MARKING OF CREASES",[],1
+1968_1980,1968_1980_E003,supported,numeric_change,"ROLLING, SWEEPING, MOWING, WATERING THE PITCH AND RE-MARKING OF CREASES",[],1
+1968_1980,1968_1980_E004,unchecked,revision,"ROLLING, SWEEPING, MOWING, WATERING THE PITCH AND RE-MARKING OF CREASES",[],1
+1968_1980,1968_1980_E005,supported,numeric_change,"ROLLING, SWEEPING, MOWING, WATERING THE PITCH AND RE-MARKING OF CREASES",[],1
+1968_1980,1968_1980_E006,supported,numeric_change,COVERING THE PITCH,[],1
+1968_1980,1968_1980_E007,unchecked,law_removed,MAINTENANCE OF THE PITCH,[],1
+1968_1980,1968_1980_E008,supported,numeric_change,INNINGS,[],1
+1968_1980,1968_1980_E009,supported,numeric_change,THE FOLLOW-ON,[],1
+1968_1980,1968_1980_E010,unchecked,numeric_change,DECLARATIONS,[],1
+1968_1980,1968_1980_E011,unchecked,new_law,START OF PLAY,[],1
+1968_1980,1968_1980_E012,unchecked,law_removed,,[],1
+1968_1980,1968_1980_E013,supported,numeric_change,INTERVALS,[],1
+1968_1980,1968_1980_E014,supported,numeric_change,CESSATION OF PLAY,[],1
+1968_1980,1968_1980_E015,suspect,numeric_change,SCORING,"[{""side"": ""added"", ""value"": 24.0}, {""side"": ""added"", ""value"": 25.0}]",1
+1968_1980,1968_1980_E016,unchecked,numeric_change,BOUNDARIES,[],1
+1968_1980,1968_1980_E017,supported,numeric_change,SUBSTITUTES AND RUNNERS: BATSMAN OR FIELDSMAN LEAVING THE FIELD: BATSMAN RETIRING: BATSMAN COMMENCING INNINGS,[],1
+1968_1980,1968_1980_E018,unchecked,revision,LOST BALL,[],1
+1968_1980,1968_1980_E019,supported,numeric_change,THE RESULT,[],1
+1968_1980,1968_1980_E020,supported,revision,THE OVER,[],1
+1968_1980,1968_1980_E021,supported,numeric_change,THE OVER,[],1
+1968_1980,1968_1980_E022,unchecked,revision,DEAD BALL,[],1
+1968_1980,1968_1980_E023,unchecked,revision,DEAD BALL,[],1
+1968_1980,1968_1980_E024,unchecked,rewording,DEAD BALL,[],1
+1968_1980,1968_1980_E025,unchecked,revision,DEAD BALL,[],1
+1968_1980,1968_1980_E026,unchecked,revision,DEAD BALL,[],1
+1968_1980,1968_1980_E027,unchecked,law_removed,,[],1
+1968_1980,1968_1980_E028,supported,numeric_change,NO BALL,[],1
+1968_1980,1968_1980_E029,supported,revision,WIDE BALL,[],1
+1968_1980,1968_1980_E030,supported,revision,BYE AND LEG-BYE,[],1
+1968_1980,1968_1980_E031,unchecked,law_removed,,[],1
+1968_1980,1968_1980_E032,supported,numeric_change,APPEALS,[],1
+1968_1980,1968_1980_E033,unchecked,revision,THE WICKET IS DOWN,[],1
+1968_1980,1968_1980_E034,unchecked,law_removed,,[],1
+1968_1980,1968_1980_E035,unchecked,rewording,BATSMAN OUT OF HIS GROUND,[],1
+1968_1980,1968_1980_E036,unchecked,revision,THE UMPIRES,[],1
+1968_1980,1968_1980_E037,unchecked,relocation,THE UMPIRES,[],1
+1968_1980,1968_1980_E038,unchecked,numeric_change,THE UMPIRES,[],1
+1968_1980,1968_1980_E039,unchecked,revision,THE UMPIRES,[],1
+1968_1980,1968_1980_E040,supported,revision,BOWLED,[],1
+1968_1980,1968_1980_E041,unchecked,new_law,TIMED OUT,[],1
+1968_1980,1968_1980_E042,unchecked,relocation,TIMED OUT,[],1
+1968_1980,1968_1980_E043,supported,revision,CAUGHT,[],1
+1968_1980,1968_1980_E044,unchecked,law_removed,BATSMAN RETIRING,[],1
+1968_1980,1968_1980_E045,unchecked,revision,HANDLED THE BALL,[],1
+1968_1980,1968_1980_E046,supported,numeric_change,HIT THE BALL TWICE,[],1
+1968_1980,1968_1980_E047,supported,numeric_change,HIT WICKET,[],1
+1968_1980,1968_1980_E048,supported,numeric_change,LEG BEFORE WICKET,[],1
+1968_1980,1968_1980_E049,unchecked,revision,OBSTRUCTING THE FIELD,[],1
+1968_1980,1968_1980_E050,unchecked,revision,RUN OUT,[],1
+1968_1980,1968_1980_E051,supported,numeric_change,STUMPED,[],1
+1968_1980,1968_1980_E052,supported,numeric_change,THE SCORERS,[],1
+1968_1980,1968_1980_E053,supported,revision,THE WICKET-KEEPER,[],1
+1968_1980,1968_1980_E054,supported,numeric_change,THE FIELDSMAN,[],1
+1968_1980,1968_1980_E055,unchecked,new_law,UNFAIR PLAY,[],1
+1968_1980,1968_1980_E056,unchecked,relocation,UNFAIR PLAY,[],1
+1968_1980,1968_1980_E057,unchecked,law_removed,,[],1
+1968_1980,1968_1980_E058,unchecked,law_removed,,[],1
+1968_1980,1968_1980_E059,supported,removed_provision,APPEALS,[],1
+1968_1980,1968_1980_E060,supported,numeric_change,THE BALL,[],1
+1968_1980,1968_1980_E061,suspect,numeric_change,THE BAT,"[{""side"": ""removed"", ""value"": 4.5}]",1
+1968_1980,1968_1980_E062,supported,numeric_change,THE PITCH,[],1
+1968_1980,1968_1980_E063,suspect,numeric_change,THE WICKETS,"[{""side"": ""removed"", ""value"": 4.312}]",1
+1968_1980,1968_1980_E064,supported,numeric_change,"THE BOWLING, POPPING AND RETURN CREASES",[],1
+1980_1992,1980_1992_E001,unchecked,revision,"ROLLING, SWEEPING, MOWING, WATERING THE PITCH AND RE-MARKING OF CREASES",[],1
+1980_1992,1980_1992_E002,unchecked,removed_provision,CESSATION OF PLAY,[],1
+1980_1992,1980_1992_E003,unchecked,revision,CESSATION OF PLAY,[],1
+1980_1992,1980_1992_E004,unchecked,rewording,SCORING,[],1
+1980_1992,1980_1992_E005,unchecked,revision,SUBSTITUTES AND RUNNERS: BATSMAN OR FIELDSMAN LEAVING THE FIELD: BATSMAN RETIRING: BATSMAN COMMENCING INNINGS,[],1
+1980_1992,1980_1992_E006,unchecked,revision,SUBSTITUTES AND RUNNERS: BATSMAN OR FIELDSMAN LEAVING THE FIELD: BATSMAN RETIRING: BATSMAN COMMENCING INNINGS,[],1
+1980_1992,1980_1992_E007,unchecked,revision,SUBSTITUTES AND RUNNERS: BATSMAN OR FIELDSMAN LEAVING THE FIELD: BATSMAN RETIRING: BATSMAN COMMENCING INNINGS,[],1
+1980_1992,1980_1992_E008,unchecked,revision,DEAD BALL,[],1
+1980_1992,1980_1992_E009,unchecked,rewording,THE WICKET IS DOWN,[],1
+1980_1992,1980_1992_E010,unchecked,rewording,THE UMPIRES,[],1
+1980_1992,1980_1992_E011,supported,numeric_change,BOWLED,[],1
+1980_1992,1980_1992_E012,unchecked,rewording,LEG BEFORE WICKET,[],1
+1980_1992,1980_1992_E013,unchecked,rewording,OBSTRUCTING THE FIELD,[],1
+1980_1992,1980_1992_E014,unchecked,new_provision,RUN OUT,[],1
+1980_1992,1980_1992_E015,unchecked,rewording,STUMPED,[],1
+1980_1992,1980_1992_E016,supported,new_provision,THE FIELDSMAN,[],1
+1980_1992,1980_1992_E017,supported,numeric_change,UNFAIR PLAY,[],1
+1980_1992,1980_1992_E018,supported,numeric_change,UNFAIR PLAY,[],1
+1980_1992,1980_1992_E019,supported,numeric_change,THE BALL,[],1
+1992_2000,1992_2000_E001,unchecked,new_law,,[],0
+1992_2000,1992_2000_E002,unchecked,new_law,,[],0
+1992_2000,1992_2000_E003,unchecked,revision,THE PLAYERS,[],0
+1992_2000,1992_2000_E004,supported,numeric_change,PREPARATION AND MAINTENANCE OF THE PLAYING AREA,[],0
+1992_2000,1992_2000_E005,supported,numeric_change,PREPARATION AND MAINTENANCE OF THE PLAYING AREA,[],0
+1992_2000,1992_2000_E006,supported,numeric_change,COVERING THE PITCH,[],0
+1992_2000,1992_2000_E007,supported,numeric_change,INNINGS,[],0
+1992_2000,1992_2000_E008,supported,numeric_change,THE FOLLOW-ON,[],0
+1992_2000,1992_2000_E009,supported,numeric_change,DECLARATION AND FORFEITURE,[],0
+1992_2000,1992_2000_E010,unchecked,law_removed,START OF PLAY,[],0
+1992_2000,1992_2000_E011,supported,numeric_change,INTERVALS,[],0
+1992_2000,1992_2000_E012,supported,numeric_change,START OF PLAY; CESSATION OF PLAY,[],0
+1992_2000,1992_2000_E013,supported,numeric_change,START OF PLAY; CESSATION OF PLAY,[],0
+1992_2000,1992_2000_E014,unchecked,new_law,PRACTICE ON THE FIELD,[],0
+1992_2000,1992_2000_E015,unchecked,rewording,SCORING RUNS,[],0
+1992_2000,1992_2000_E016,supported,numeric_change,SCORING RUNS,[],0
+1992_2000,1992_2000_E017,supported,numeric_change,BOUNDARIES,[],0
+1992_2000,1992_2000_E018,supported,numeric_change,SUBSTITUTES AND RUNNERS; BATSMAN OR FIELDER LEAVING THE FIELD; BATSMAN RETIRING; BATSMAN COMMENCING INNINGS,[],0
+1992_2000,1992_2000_E019,supported,numeric_change,LOST BALL,[],0
+1992_2000,1992_2000_E020,supported,numeric_change,THE RESULT,[],0
+1992_2000,1992_2000_E021,supported,numeric_change,THE OVER,[],0
+1992_2000,1992_2000_E022,supported,revision,DEAD BALL,[],0
+1992_2000,1992_2000_E023,supported,numeric_change,NO BALL,[],0
+1992_2000,1992_2000_E024,supported,numeric_change,WIDE BALL,[],0
+1992_2000,1992_2000_E025,unchecked,numeric_change,BYE AND LEG BYE,[],0
+1992_2000,1992_2000_E026,supported,numeric_change,APPEALS,[],0
+1992_2000,1992_2000_E027,supported,numeric_change,THE WICKET IS DOWN,[],0
+1992_2000,1992_2000_E028,unchecked,revision,THE WICKET IS DOWN,[],0
+1992_2000,1992_2000_E029,supported,numeric_change,THE WICKET IS DOWN,[],0
+1992_2000,1992_2000_E030,supported,revision,BATSMAN OUT OF HIS GROUND,[],0
+1992_2000,1992_2000_E031,unchecked,relocation,BATSMAN OUT OF HIS GROUND,[],0
+1992_2000,1992_2000_E032,supported,numeric_change,THE UMPIRES,[],0
+1992_2000,1992_2000_E033,supported,numeric_change,BOWLED,[],0
+1992_2000,1992_2000_E034,supported,numeric_change,TIMED OUT,[],0
+1992_2000,1992_2000_E035,unchecked,revision,TIMED OUT,[],0
+1992_2000,1992_2000_E036,supported,numeric_change,CAUGHT,[],0
+1992_2000,1992_2000_E037,supported,revision,HANDLED THE BALL,[],0
+1992_2000,1992_2000_E038,supported,numeric_change,HIT THE BALL TWICE,[],0
+1992_2000,1992_2000_E039,unchecked,numeric_change,HIT WICKET,[],0
+1992_2000,1992_2000_E040,supported,numeric_change,LEG BEFORE WICKET,[],0
+1992_2000,1992_2000_E041,unchecked,revision,LEG BEFORE WICKET,[],0
+1992_2000,1992_2000_E042,unchecked,revision,OBSTRUCTING THE FIELD,[],0
+1992_2000,1992_2000_E043,unchecked,relocation,OBSTRUCTING THE FIELD,[],0
+1992_2000,1992_2000_E044,supported,numeric_change,RUNOUT,[],0
+1992_2000,1992_2000_E045,supported,numeric_change,STUMPED,[],0
+1992_2000,1992_2000_E046,unchecked,numeric_change,THE SCORERS,[],0
+1992_2000,1992_2000_E047,supported,revision,THE WICKET-KEEPER,[],0
+1992_2000,1992_2000_E048,supported,numeric_change,THE FIELDER,[],0
+1992_2000,1992_2000_E049,supported,numeric_change,FAIR AND UNFAIR PLAY,[],0
+1992_2000,1992_2000_E050,supported,numeric_change,FAIR AND UNFAIR PLAY,[],0
+1992_2000,1992_2000_E051,suspect,numeric_change,THE BALL,"[{""side"": ""added"", ""value"": 4.688}, {""side"": ""added"", ""value"": 4.875}, {""side"": ""added"", ""value"": 5.625}, {""side"": ""added"", ""value"": 8.75}, {""side"": ""removed"", ""value"": 4.312}, {""side"": ""removed"", ""value"": 4.938}, {""side"": ""removed"", ""value"": 5.312}, {""side"": ""removed"", ""value"": 5.812}, {""side"": ""removed"", ""value"": 8.812}, {""side"": ""removed"", ""value"": 9.062}]",0
+1992_2000,1992_2000_E052,unchecked,numeric_change,THE BAT,[],0
+1992_2000,1992_2000_E053,supported,numeric_change,THE PITCH,[],0
+1992_2000,1992_2000_E054,unchecked,revision,THE PITCH,[],0
+1992_2000,1992_2000_E055,suspect,numeric_change,THE WICKETS,"[{""side"": ""added"", ""value"": 0.75}, {""side"": ""added"", ""value"": 0.812}, {""side"": ""added"", ""value"": 1.25}, {""side"": ""added"", ""value"": 1.27}, {""side"": ""added"", ""value"": 1.375}, {""side"": ""added"", ""value"": 1.5}, {""side"": ""added"", ""value"": 1.812}, {""side"": ""added"", ""value"": 2.125}, {""side"": ""added"", ""value"": 3.812}, {""side"": ""added"", ""value"": 4.312}, {""side"": ""added"", ""value"": 18.29}, {""side"": ""removed"", ""value"": 3.875}, {""side"": ""removed"", ""value"": 4.375}]",0
+1992_2000,1992_2000_E056,supported,numeric_change,"THE BOWLING, POPPING AND RETURN CREASES",[],0
+2000_2008,2000_2008_E001,unchecked,new_provision,,[],0
+2000_2008,2000_2008_E002,unchecked,revision,,[],0
+2000_2008,2000_2008_E003,supported,new_provision,,[],0
+2000_2008,2000_2008_E004,unchecked,revision,THE FOLLOW-ON,[],0
+2000_2008,2000_2008_E005,supported,numeric_change,INTERVALS,[],0
+2000_2008,2000_2008_E006,unchecked,revision,START OF PLAY; CESSATION OF PLAY,[],0
+2000_2008,2000_2008_E007,supported,numeric_change,PRACTICE ON THE FIELD,[],0
+2000_2008,2000_2008_E008,unchecked,revision,SCORING RUNS,[],0
+2000_2008,2000_2008_E009,unchecked,revision,SCORING RUNS,[],0
+2000_2008,2000_2008_E010,unchecked,removed_provision,SCORING RUNS,[],0
+2000_2008,2000_2008_E011,unchecked,new_provision,SCORING RUNS,[],0
+2000_2008,2000_2008_E012,supported,numeric_change,BOUNDARIES,[],0
+2000_2008,2000_2008_E013,unchecked,revision,BOUNDARIES,[],0
+2000_2008,2000_2008_E014,unchecked,rewording,BOUNDARIES,[],0
+2000_2008,2000_2008_E015,supported,new_provision,SUBSTITUTES AND RUNNERS; BATSMAN OR FIELDER LEAVING THE FIELD; BATSMAN RETIRING; BATSMAN COMMENCING INNINGS,[],0
+2000_2008,2000_2008_E016,unchecked,revision,SUBSTITUTES AND RUNNERS; BATSMAN OR FIELDER LEAVING THE FIELD; BATSMAN RETIRING; BATSMAN COMMENCING INNINGS,[],0
+2000_2008,2000_2008_E017,unchecked,revision,LOST BALL,[],0
+2000_2008,2000_2008_E018,unchecked,revision,THE RESULT,[],0
+2000_2008,2000_2008_E019,supported,revision,THE RESULT,[],0
+2000_2008,2000_2008_E020,supported,revision,THE OVER,[],0
+2000_2008,2000_2008_E021,unchecked,rewording,NO BALL,[],0
+2000_2008,2000_2008_E022,supported,numeric_change,WIDE BALL,[],0
+2000_2008,2000_2008_E023,unchecked,revision,BYE AND LEG BYE,[],0
+2000_2008,2000_2008_E024,unchecked,new_provision,APPEALS,[],0
+2000_2008,2000_2008_E025,supported,numeric_change,THE WICKET IS DOWN,[],0
+2000_2008,2000_2008_E026,unchecked,rewording,BATSMAN OUT OF HIS GROUND,[],0
+2000_2008,2000_2008_E027,unchecked,new_provision,THE UMPIRES,[],0
+2000_2008,2000_2008_E028,supported,numeric_change,THE UMPIRES,[],0
+2000_2008,2000_2008_E029,unchecked,revision,THE UMPIRES,[],0
+2000_2008,2000_2008_E030,unchecked,revision,THE UMPIRES,[],0
+2000_2008,2000_2008_E031,unchecked,rewording,THE UMPIRES,[],0
+2000_2008,2000_2008_E032,supported,numeric_change,CAUGHT,[],0
+2000_2008,2000_2008_E033,unchecked,revision,HANDLED THE BALL,[],0
+2000_2008,2000_2008_E034,unchecked,rewording,HIT THE BALL TWICE,[],0
+2000_2008,2000_2008_E035,unchecked,revision,HIT WICKET,[],0
+2000_2008,2000_2008_E036,unchecked,revision,HIT WICKET,[],0
+2000_2008,2000_2008_E037,unchecked,rewording,LEG BEFORE WICKET,[],0
+2000_2008,2000_2008_E038,supported,numeric_change,RUN OUT,[],0
+2000_2008,2000_2008_E039,unchecked,rewording,STUMPED,[],0
+2000_2008,2000_2008_E040,unchecked,revision,THE WICKET-KEEPER,[],0
+2000_2008,2000_2008_E041,unchecked,revision,THE WICKET-KEEPER,[],0
+2000_2008,2000_2008_E042,supported,new_provision,THE FIELDER,[],0
+2000_2008,2000_2008_E043,unchecked,rewording,THE FIELDER,[],0
+2000_2008,2000_2008_E044,supported,new_provision,FAIR AND UNFAIR PLAY,[],0
+2000_2008,2000_2008_E045,unchecked,revision,FAIR AND UNFAIR PLAY,[],0
+2000_2008,2000_2008_E046,unchecked,rewording,FAIR AND UNFAIR PLAY,[],0
+2000_2008,2000_2008_E047,unchecked,revision,FAIR AND UNFAIR PLAY,[],0
+2000_2008,2000_2008_E048,unchecked,new_provision,FAIR AND UNFAIR PLAY,[],0
+2000_2008,2000_2008_E049,unchecked,numeric_change,FAIR AND UNFAIR PLAY,[],0
+2000_2008,2000_2008_E050,unchecked,numeric_change,FAIR AND UNFAIR PLAY,[],0
+2000_2008,2000_2008_E051,suspect,numeric_change,THE BALL,"[{""side"": ""added"", ""value"": 8.812}, {""side"": ""removed"", ""value"": 8.75}]",0
+2000_2008,2000_2008_E052,suspect,numeric_change,THE BALL,"[{""side"": ""added"", ""value"": 4.938}, {""side"": ""added"", ""value"": 5.312}, {""side"": ""removed"", ""value"": 4.875}, {""side"": ""removed"", ""value"": 5.625}]",0
+2000_2008,2000_2008_E053,suspect,numeric_change,THE BAT,"[{""side"": ""removed"", ""value"": 0.062}, {""side"": ""removed"", ""value"": 4.25}]",0
+2000_2008,2000_2008_E054,supported,revision,THE WICKETS,[],0
+2000_2008,2000_2008_E055,unchecked,numeric_change,THE WICKETS,[],0
+2008_2010,2008_2010_E001,unchecked,rewording,,[],1
+2008_2010,2008_2010_E002,supported,numeric_change,,[],1
+2008_2010,2008_2010_E003,unchecked,revision,,[],1
+2008_2010,2008_2010_E004,supported,numeric_change,- THE BAT: LAW 6,[],1
+2008_2010,2008_2010_E005,supported,numeric_change,- THE BAT: LAW 6,[],1
+2008_2010,2008_2010_E006,unchecked,rewording,- THE BAT: LAW 6,[],1
+2008_2010,2008_2010_E007,supported,numeric_change,- The bat,[],1
+2008_2010,2008_2010_E008,unchecked,rewording,,[],1
+2008_2010,2008_2010_E009,unchecked,rewording,THE PLAYERS,[],1
+2008_2010,2008_2010_E010,supported,numeric_change,THE PLAYERS,[],1
+2008_2010,2008_2010_E011,unchecked,revision,PREPARATION AND MAINTENANCE OF THE PLAYING AREA,[],1
+2008_2010,2008_2010_E012,supported,numeric_change,INNINGS,[],1
+2008_2010,2008_2010_E013,unchecked,rewording,THE FOLLOW-ON,[],1
+2008_2010,2008_2010_E014,unchecked,revision,THE FOLLOW-ON,[],1
+2008_2010,2008_2010_E015,unchecked,revision,DECLARATION AND FORFEITURE,[],1
+2008_2010,2008_2010_E016,unchecked,new_provision,INTERVALS,[],1
+2008_2010,2008_2010_E017,unchecked,rewording,INTERVALS,[],1
+2008_2010,2008_2010_E018,supported,numeric_change,INTERVALS,[],1
+2008_2010,2008_2010_E019,unchecked,rewording,INTERVALS,[],1
+2008_2010,2008_2010_E020,supported,numeric_change,INTERVALS,[],1
+2008_2010,2008_2010_E021,unchecked,rewording,START OF PLAY; CESSATION OF PLAY,[],1
+2008_2010,2008_2010_E022,unchecked,rewording,START OF PLAY; CESSATION OF PLAY,[],1
+2008_2010,2008_2010_E023,unchecked,rewording,START OF PLAY; CESSATION OF PLAY,[],1
+2008_2010,2008_2010_E024,supported,numeric_change,START OF PLAY; CESSATION OF PLAY,[],1
+2008_2010,2008_2010_E025,supported,new_provision,START OF PLAY; CESSATION OF PLAY,[],1
+2008_2010,2008_2010_E026,supported,numeric_change,PRACTICE ON THE FIELD,[],1
+2008_2010,2008_2010_E027,unchecked,relocation,PRACTICE ON THE FIELD,[],1
+2008_2010,2008_2010_E028,unchecked,rewording,SCORING RUNS,[],1
+2008_2010,2008_2010_E029,unchecked,revision,SCORING RUNS,[],1
+2008_2010,2008_2010_E030,supported,numeric_change,SCORING RUNS,[],1
+2008_2010,2008_2010_E031,unchecked,revision,BOUNDARIES,[],1
+2008_2010,2008_2010_E032,unchecked,rewording,BOUNDARIES,[],1
+2008_2010,2008_2010_E033,unchecked,revision,BOUNDARIES,[],1
+2008_2010,2008_2010_E034,supported,numeric_change,BOUNDARIES,[],1
+2008_2010,2008_2010_E035,unchecked,rewording,SUBSTITUTES AND RUNNERS; BATSMAN OR FIELDER LEAVING THE FIELD; BATSMAN RETIRING; BATSMAN COMMENCING INNINGS,[],1
+2008_2010,2008_2010_E036,unchecked,rewording,SUBSTITUTES AND RUNNERS; BATSMAN OR FIELDER LEAVING THE FIELD; BATSMAN RETIRING; BATSMAN COMMENCING INNINGS,[],1
+2008_2010,2008_2010_E037,unchecked,revision,SUBSTITUTES AND RUNNERS; BATSMAN OR FIELDER LEAVING THE FIELD; BATSMAN RETIRING; BATSMAN COMMENCING INNINGS,[],1
+2008_2010,2008_2010_E038,unchecked,revision,SUBSTITUTES AND RUNNERS; BATSMAN OR FIELDER LEAVING THE FIELD; BATSMAN RETIRING; BATSMAN COMMENCING INNINGS,[],1
+2008_2010,2008_2010_E039,unchecked,relocation,SUBSTITUTES AND RUNNERS; BATSMAN OR FIELDER LEAVING THE FIELD; BATSMAN RETIRING; BATSMAN COMMENCING INNINGS,[],1
+2008_2010,2008_2010_E040,unchecked,revision,SUBSTITUTES AND RUNNERS; BATSMAN OR FIELDER LEAVING THE FIELD; BATSMAN RETIRING; BATSMAN COMMENCING INNINGS,[],1
+2008_2010,2008_2010_E041,unchecked,rewording,SUBSTITUTES AND RUNNERS; BATSMAN OR FIELDER LEAVING THE FIELD; BATSMAN RETIRING; BATSMAN COMMENCING INNINGS,[],1
+2008_2010,2008_2010_E042,supported,numeric_change,LOST BALL,[],1
+2008_2010,2008_2010_E043,unchecked,revision,THE RESULT,[],1
+2008_2010,2008_2010_E044,supported,numeric_change,THE RESULT,[],1
+2008_2010,2008_2010_E045,unchecked,rewording,THE RESULT,[],1
+2008_2010,2008_2010_E046,unchecked,revision,THE RESULT,[],1
+2008_2010,2008_2010_E047,unchecked,revision,THE OVER,[],1
+2008_2010,2008_2010_E048,supported,numeric_change,THE OVER,[],1
+2008_2010,2008_2010_E049,supported,revision,DEAD BALL,[],1
+2008_2010,2008_2010_E050,unchecked,revision,DEAD BALL,[],1
+2008_2010,2008_2010_E051,supported,numeric_change,DEAD BALL,[],1
+2008_2010,2008_2010_E052,supported,numeric_change,NO BALL,[],1
+2008_2010,2008_2010_E053,supported,numeric_change,NO BALL,[],1
+2008_2010,2008_2010_E054,unchecked,rewording,NO BALL,[],1
+2008_2010,2008_2010_E055,unchecked,rewording,WIDE BALL,[],1
+2008_2010,2008_2010_E056,unchecked,revision,WIDE BALL,[],1
+2008_2010,2008_2010_E057,unchecked,revision,BYE AND LEG BYE,[],1
+2008_2010,2008_2010_E058,unchecked,rewording,APPEALS,[],1
+2008_2010,2008_2010_E059,supported,numeric_change,APPEALS,[],1
+2008_2010,2008_2010_E060,unchecked,revision,APPEALS,[],1
+2008_2010,2008_2010_E061,unchecked,numeric_change,THE WICKET IS DOWN,[],1
+2008_2010,2008_2010_E062,unchecked,revision,BATSMAN OUT OF HIS GROUND,[],1
+2008_2010,2008_2010_E063,unchecked,revision,BATSMAN OUT OF HIS GROUND,[],1
+2008_2010,2008_2010_E064,unchecked,revision,THE UMPIRES,[],1
+2008_2010,2008_2010_E065,supported,numeric_change,THE UMPIRES,[],1
+2008_2010,2008_2010_E066,supported,revision,THE UMPIRES,[],1
+2008_2010,2008_2010_E067,supported,numeric_change,THE UMPIRES,[],1
+2008_2010,2008_2010_E068,supported,revision,THE UMPIRES,[],1
+2008_2010,2008_2010_E069,unchecked,revision,TIMED OUT,[],1
+2008_2010,2008_2010_E070,unchecked,revision,CAUGHT,[],1
+2008_2010,2008_2010_E071,unchecked,revision,CAUGHT,[],1
+2008_2010,2008_2010_E072,unchecked,revision,CAUGHT,[],1
+2008_2010,2008_2010_E073,unchecked,revision,HANDLED THE BALL,[],1
+2008_2010,2008_2010_E074,unchecked,rewording,HIT THE BALL TWICE,[],1
+2008_2010,2008_2010_E075,unchecked,revision,HIT THE BALL TWICE,[],1
+2008_2010,2008_2010_E076,unchecked,rewording,HIT THE BALL TWICE,[],1
+2008_2010,2008_2010_E077,unchecked,numeric_change,HIT WICKET,[],1
+2008_2010,2008_2010_E078,unchecked,rewording,HIT WICKET,[],1
+2008_2010,2008_2010_E079,unchecked,rewording,LEG BEFORE WICKET,[],1
+2008_2010,2008_2010_E080,unchecked,revision,OBSTRUCTING THE FIELD,[],1
+2008_2010,2008_2010_E081,supported,numeric_change,RUN OUT,[],1
+2008_2010,2008_2010_E082,unchecked,revision,RUN OUT,[],1
+2008_2010,2008_2010_E083,supported,numeric_change,STUMPED,[],1
+2008_2010,2008_2010_E084,unchecked,rewording,STUMPED,[],1
+2008_2010,2008_2010_E085,unchecked,revision,STUMPED,[],1
+2008_2010,2008_2010_E086,unchecked,rewording,THE WICKET-KEEPER,[],1
+2008_2010,2008_2010_E087,unchecked,rewording,THE WICKET-KEEPER,[],1
+2008_2010,2008_2010_E088,unchecked,rewording,THE WICKET-KEEPER,[],1
+2008_2010,2008_2010_E089,unchecked,numeric_change,THE FIELDER,[],1
+2008_2010,2008_2010_E090,unchecked,rewording,FAIR AND UNFAIR PLAY,[],1
+2008_2010,2008_2010_E091,unchecked,revision,FAIR AND UNFAIR PLAY,[],1
+2008_2010,2008_2010_E092,unchecked,numeric_change,FAIR AND UNFAIR PLAY,[],1
+2008_2010,2008_2010_E093,supported,numeric_change,FAIR AND UNFAIR PLAY,[],1
+2008_2010,2008_2010_E094,supported,numeric_change,FAIR AND UNFAIR PLAY,[],1
+2008_2010,2008_2010_E095,suspect,numeric_change,THE BALL,"[{""side"": ""added"", ""value"": 8.938}, {""side"": ""removed"", ""value"": 8.812}]",1
+2008_2010,2008_2010_E096,unchecked,rewording,THE BALL,[],1
+2008_2010,2008_2010_E097,suspect,numeric_change,THE BALL,"[{""side"": ""added"", ""value"": 8.5}, {""side"": ""added"", ""value"": 8.625}, {""side"": ""removed"", ""value"": 8.25}, {""side"": ""removed"", ""value"": 8.688}]",1
+2008_2010,2008_2010_E098,unchecked,rewording,THE BAT,[],1
+2008_2010,2008_2010_E099,unchecked,rewording,THE BAT,[],1
+2008_2010,2008_2010_E100,unchecked,numeric_change,THE PITCH,[],1
+2008_2010,2008_2010_E101,supported,numeric_change,THE WICKETS,[],1
+2008_2010,2008_2010_E102,supported,numeric_change,"THE BOWLING, POPPING AND RETURN CREASES",[],1
+2010_2017,2010_2017_E001,supported,numeric_change,Definitions and explanations of words,[],1
+2010_2017,2010_2017_E002,supported,numeric_change,Definitions and explanations of words,[],1
+2010_2017,2010_2017_E003,suspect,numeric_change,The bat (Law 5),"[{""side"": ""added"", ""value"": 0.01}, {""side"": ""added"", ""value"": 0.35}, {""side"": ""added"", ""value"": 2.68}, {""side"": ""added"", ""value"": 4.33}, {""side"": ""added"", ""value"": 6.8}]",1
+2010_2017,2010_2017_E004,supported,numeric_change,,[],1
+2010_2017,2010_2017_E005,supported,revision,,[],1
+2010_2017,2010_2017_E006,unchecked,revision,THE PLAYERS,[],1
+2010_2017,2010_2017_E007,unchecked,revision,PREPARATION AND MAINTENANCE OF THE PLAYING AREA,[],1
+2010_2017,2010_2017_E008,supported,numeric_change,COVERING THE PITCH,[],1
+2010_2017,2010_2017_E009,supported,numeric_change,INTERVALS,[],1
+2010_2017,2010_2017_E010,supported,numeric_change,INTERVALS,[],1
+2010_2017,2010_2017_E011,unchecked,rewording,INTERVALS,[],1
+2010_2017,2010_2017_E012,supported,numeric_change,START OF PLAY; CESSATION OF,[],1
+2010_2017,2010_2017_E013,supported,numeric_change,START OF PLAY; CESSATION OF,[],1
+2010_2017,2010_2017_E014,supported,numeric_change,START OF PLAY; CESSATION OF,[],1
+2010_2017,2010_2017_E015,supported,numeric_change,START OF PLAY; CESSATION OF,[],1
+2010_2017,2010_2017_E016,unchecked,numeric_change,INNINGS,[],1
+2010_2017,2010_2017_E017,supported,numeric_change,INNINGS,[],1
+2010_2017,2010_2017_E018,supported,numeric_change,THE FOLLOW-ON,[],1
+2010_2017,2010_2017_E019,supported,revision,DECLARATION AND FORFEITURE,[],1
+2010_2017,2010_2017_E020,supported,numeric_change,THE RESULT,[],1
+2010_2017,2010_2017_E021,supported,numeric_change,THE RESULT,[],1
+2010_2017,2010_2017_E022,supported,numeric_change,THE RESULT,[],1
+2010_2017,2010_2017_E023,unchecked,rewording,THE OVER,[],1
+2010_2017,2010_2017_E024,supported,numeric_change,THE OVER,[],1
+2010_2017,2010_2017_E025,supported,numeric_change,THE OVER,[],1
+2010_2017,2010_2017_E026,supported,numeric_change,SCORING RUNS,[],1
+2010_2017,2010_2017_E027,supported,numeric_change,SCORING RUNS,[],1
+2010_2017,2010_2017_E028,supported,numeric_change,SCORING RUNS,[],1
+2010_2017,2010_2017_E029,unchecked,revision,SCORING RUNS,[],1
+2010_2017,2010_2017_E030,unchecked,revision,SCORING RUNS,[],1
+2010_2017,2010_2017_E031,supported,numeric_change,SCORING RUNS,[],1
+2010_2017,2010_2017_E032,supported,numeric_change,BOUNDARIES,[],1
+2010_2017,2010_2017_E033,unchecked,revision,THE UMPIRES,[],1
+2010_2017,2010_2017_E034,supported,revision,THE UMPIRES,[],1
+2010_2017,2010_2017_E035,unchecked,revision,THE UMPIRES,[],1
+2010_2017,2010_2017_E036,unchecked,revision,THE UMPIRES,[],1
+2010_2017,2010_2017_E037,unchecked,law_removed,LOST BALL,[],1
+2010_2017,2010_2017_E038,supported,numeric_change,DEAD BALL,[],1
+2010_2017,2010_2017_E039,unchecked,revision,DEAD BALL,[],1
+2010_2017,2010_2017_E040,unchecked,revision,DEAD BALL,[],1
+2010_2017,2010_2017_E041,supported,numeric_change,DEAD BALL,[],1
+2010_2017,2010_2017_E042,supported,numeric_change,NO BALL,[],1
+2010_2017,2010_2017_E043,supported,numeric_change,NO BALL,[],1
+2010_2017,2010_2017_E044,unchecked,revision,NO BALL,[],1
+2010_2017,2010_2017_E045,supported,numeric_change,NO BALL,[],1
+2010_2017,2010_2017_E046,supported,numeric_change,WIDE BALL,[],1
+2010_2017,2010_2017_E047,unchecked,removed_provision,THE OVER,[],1
+2010_2017,2010_2017_E048,supported,numeric_change,WIDE BALL,[],1
+2010_2017,2010_2017_E049,unchecked,revision,BYE AND LEG BYE,[],1
+2010_2017,2010_2017_E050,unchecked,removed_provision,DEAD BALL,[],1
+2010_2017,2010_2017_E051,supported,numeric_change,BYE AND LEG BYE,[],1
+2010_2017,2010_2017_E052,unchecked,new_law,FIELDER’S ABSENCE; SUBSTITUTES,[],1
+2010_2017,2010_2017_E053,supported,numeric_change,BATSMAN’S INNINGS; RUNNERS,[],1
+2010_2017,2010_2017_E054,unchecked,revision,BATSMAN’S INNINGS; RUNNERS,[],1
+2010_2017,2010_2017_E055,unchecked,revision,BATSMAN’S INNINGS; RUNNERS,[],1
+2010_2017,2010_2017_E056,unchecked,revision,BATSMAN’S INNINGS; RUNNERS,[],1
+2010_2017,2010_2017_E057,supported,numeric_change,PRACTICE ON THE FIELD,[],1
+2010_2017,2010_2017_E058,supported,numeric_change,THE WICKET-KEEPER,[],1
+2010_2017,2010_2017_E059,unchecked,rewording,THE WICKET-KEEPER,[],1
+2010_2017,2010_2017_E060,supported,numeric_change,,[],1
+2010_2017,2010_2017_E061,supported,numeric_change,,[],1
+2010_2017,2010_2017_E062,supported,numeric_change,,[],1
+2010_2017,2010_2017_E063,unchecked,revision,,[],1
+2010_2017,2010_2017_E064,supported,numeric_change,,[],1
+2010_2017,2010_2017_E065,supported,numeric_change,,[],1
+2010_2017,2010_2017_E066,unchecked,new_law,THE SCORERS,[],1
+2010_2017,2010_2017_E067,unchecked,relocation,THE SCORERS,[],1
+2010_2017,2010_2017_E068,unchecked,relocation,APPEALS,[],1
+2010_2017,2010_2017_E069,unchecked,numeric_change,THE UMPIRES,[],1
+2010_2017,2010_2017_E070,supported,removed_provision,THE UMPIRES,[],1
+2010_2017,2010_2017_E071,unchecked,removed_provision,THE UMPIRES,[],1
+2010_2017,2010_2017_E072,unchecked,numeric_change,BATSMAN OUT OF HIS/HER GROUND,[],1
+2010_2017,2010_2017_E073,unchecked,revision,BATSMAN OUT OF HIS/HER GROUND,[],1
+2010_2017,2010_2017_E074,supported,numeric_change,APPEALS,[],1
+2010_2017,2010_2017_E075,supported,numeric_change,APPEALS,[],1
+2010_2017,2010_2017_E076,unchecked,revision,APPEALS,[],1
+2010_2017,2010_2017_E077,supported,numeric_change,BOWLED,[],1
+2010_2017,2010_2017_E078,unchecked,law_removed,HANDLED THE BALL,[],1
+2010_2017,2010_2017_E079,supported,numeric_change,CAUGHT,[],1
+2010_2017,2010_2017_E080,supported,numeric_change,HIT THE BALL TWICE,[],1
+2010_2017,2010_2017_E081,supported,numeric_change,HIT THE BALL TWICE,[],1
+2010_2017,2010_2017_E082,supported,numeric_change,HIT WICKET,[],1
+2010_2017,2010_2017_E083,supported,numeric_change,LEG BEFORE WICKET,[],1
+2010_2017,2010_2017_E084,supported,numeric_change,LEG BEFORE WICKET,[],1
+2010_2017,2010_2017_E085,supported,numeric_change,OBSTRUCTING THE FIELD,[],1
+2010_2017,2010_2017_E086,supported,revision,RUN OUT,[],1
+2010_2017,2010_2017_E087,unchecked,removed_provision,RUN OUT,[],1
+2010_2017,2010_2017_E088,supported,numeric_change,STUMPED,[],1
+2010_2017,2010_2017_E089,supported,numeric_change,RUN OUT,[],1
+2010_2017,2010_2017_E090,unchecked,law_removed,THE SCORERS,[],1
+2010_2017,2010_2017_E091,suspect,numeric_change,THE BALL,"[{""side"": ""added"", ""value"": 4.69}, {""side"": ""added"", ""value"": 8.25}, {""side"": ""added"", ""value"": 8.69}, {""side"": ""removed"", ""value"": 4.688}, {""side"": ""removed"", ""value"": 4.938}, {""side"": ""removed"", ""value"": 5.312}, {""side"": ""removed"", ""value"": 8.062}, {""side"": ""removed"", ""value"": 8.5}, {""side"": ""removed"", ""value"": 8.625}, {""side"": ""removed"", ""value"": 8.875}, {""side"": ""removed"", ""value"": 8.938}]",1
+2010_2017,2010_2017_E092,unchecked,rewording,TIMED OUT,[],1
+2010_2017,2010_2017_E093,supported,numeric_change,UNFAIR PLAY,[],1
+2010_2017,2010_2017_E094,supported,numeric_change,UNFAIR PLAY,[],1
+2010_2017,2010_2017_E095,supported,numeric_change,UNFAIR PLAY,[],1
+2010_2017,2010_2017_E096,supported,numeric_change,UNFAIR PLAY,[],1
+2010_2017,2010_2017_E097,unchecked,revision,UNFAIR PLAY,[],1
+2010_2017,2010_2017_E098,unchecked,rewording,UNFAIR PLAY,[],1
+2010_2017,2010_2017_E099,supported,numeric_change,UNFAIR PLAY,[],1
+2010_2017,2010_2017_E100,unchecked,revision,UNFAIR PLAY,[],1
+2010_2017,2010_2017_E101,unchecked,new_law,PLAYERS’ CONDUCT,[],1
+2010_2017,2010_2017_E102,suspect,numeric_change,THE BAT,"[{""side"": ""added"", ""value"": 1.56}]",1
+2010_2017,2010_2017_E103,supported,numeric_change,THE BAT,[],1
+2010_2017,2010_2017_E104,unchecked,rewording,THE BAT,[],1
+2010_2017,2010_2017_E105,supported,numeric_change,THE BAT,[],1
+2010_2017,2010_2017_E106,supported,new_provision,THE PITCH,[],1
+2010_2017,2010_2017_E107,unchecked,numeric_change,THE PITCH,[],1
+2010_2017,2010_2017_E108,supported,numeric_change,THE CREASES,[],1
+2010_2017,2010_2017_E109,suspect,numeric_change,THE WICKETS,"[{""side"": ""removed"", ""value"": 0.812}, {""side"": ""removed"", ""value"": 1.812}, {""side"": ""removed"", ""value"": 2.125}, {""side"": ""removed"", ""value"": 3.812}, {""side"": ""removed"", ""value"": 4.312}]",1
+2010_2017,2010_2017_E110,supported,revision,PREPARATION AND MAINTENANCE OF THE PLAYING AREA,[],1
+2010_2017,2010_2017_E111,supported,numeric_change,PREPARATION AND MAINTENANCE OF THE PLAYING AREA,[],1
+2017_2019,2017_2019_E001,supported,numeric_change,? Definitions and explanations of words,[],0
+2017_2019,2017_2019_E002,supported,numeric_change,? Definitions and explanations of words,[],0
+2017_2019,2017_2019_E003,supported,numeric_change,? Definitions and explanations of words,[],0
+2017_2019,2017_2019_E004,supported,numeric_change,? Definitions and explanations of words,[],0
+2017_2019,2017_2019_E005,supported,numeric_change,? Definitions and explanations of words,[],0
+2017_2019,2017_2019_E006,unchecked,revision,? Definitions and explanations of words,[],0
+2017_2019,2017_2019_E007,unchecked,revision,? Definitions and explanations of words,[],0
+2017_2019,2017_2019_E008,supported,numeric_change,The bat (Law 5),[],0
+2017_2019,2017_2019_E009,supported,numeric_change,The bat (Law 5),[],0
+2017_2019,2017_2019_E010,supported,numeric_change,The bat (Law 5),[],0
+2017_2019,2017_2019_E011,suspect,numeric_change,The bat (Law 5),"[{""side"": ""added"", ""value"": 0.004}]",0
+2017_2019,2017_2019_E012,supported,numeric_change,The bat (Law 5),[],0
+2017_2019,2017_2019_E013,unchecked,rewording,,[],0
+2017_2019,2017_2019_E014,supported,numeric_change,INTERVALS,[],0
+2017_2019,2017_2019_E015,supported,numeric_change,INTERVALS,[],0
+2017_2019,2017_2019_E016,unchecked,rewording,INTERVALS,[],0
+2017_2019,2017_2019_E017,unchecked,revision,INNINGS,[],0
+2017_2019,2017_2019_E018,unchecked,new_provision,DECLARATION AND FORFEITURE,[],0
+2017_2019,2017_2019_E019,unchecked,revision,,[],0
+2017_2019,2017_2019_E020,unchecked,revision,,[],0
+2017_2019,2017_2019_E021,unchecked,rewording,,[],0
+2017_2019,2017_2019_E022,unchecked,rewording,THE OVER,[],0
+2017_2019,2017_2019_E023,unchecked,rewording,SCORING RUNS,[],0
+2017_2019,2017_2019_E024,supported,numeric_change,SCORING RUNS,[],0
+2017_2019,2017_2019_E025,unchecked,revision,SCORING RUNS,[],0
+2017_2019,2017_2019_E026,unchecked,revision,SCORING RUNS,[],0
+2017_2019,2017_2019_E027,supported,numeric_change,SCORING RUNS,[],0
+2017_2019,2017_2019_E028,unchecked,rewording,,[],0
+2017_2019,2017_2019_E029,unchecked,rewording,,[],0
+2017_2019,2017_2019_E030,unchecked,rewording,,[],0
+2017_2019,2017_2019_E031,unchecked,relocation,THE UMPIRES,[],0
+2017_2019,2017_2019_E032,unchecked,new_provision,DEAD BALL,[],0
+2017_2019,2017_2019_E033,unchecked,rewording,DEAD BALL,[],0
+2017_2019,2017_2019_E034,unchecked,rewording,DEAD BALL,[],0
+2017_2019,2017_2019_E035,unchecked,rewording,NO BALL,[],0
+2017_2019,2017_2019_E036,unchecked,numeric_change,NO BALL,[],0
+2017_2019,2017_2019_E037,unchecked,revision,NO BALL,[],0
+2017_2019,2017_2019_E038,unchecked,rewording,FIELDER’S ABSENCE; SUBSTITUTES,[],0
+2017_2019,2017_2019_E039,unchecked,revision,BATSMAN’S INNINGS; RUNNERS,[],0
+2017_2019,2017_2019_E040,unchecked,revision,BATSMAN’S INNINGS; RUNNERS,[],0
+2017_2019,2017_2019_E041,unchecked,rewording,PRACTICE ON THE FIELD,[],0
+2017_2019,2017_2019_E042,supported,numeric_change,THE FIELDER,[],0
+2017_2019,2017_2019_E043,supported,numeric_change,THE FIELDER,[],0
+2017_2019,2017_2019_E044,unchecked,revision,THE FIELDER,[],0
+2017_2019,2017_2019_E045,unchecked,rewording,THE WICKET IS DOWN,[],0
+2017_2019,2017_2019_E046,unchecked,law_removed,THE SCORERS,[],0
+2017_2019,2017_2019_E047,unchecked,new_law,THE SCORERS,[],0
+2017_2019,2017_2019_E048,unchecked,relocation,THE SCORERS,[],0
+2017_2019,2017_2019_E049,unchecked,rewording,BATSMAN OUT OF HIS/HER GROUND,[],0
+2017_2019,2017_2019_E050,unchecked,rewording,CAUGHT,[],0
+2017_2019,2017_2019_E051,unchecked,new_provision,HIT THE BALL TWICE,[],0
+2017_2019,2017_2019_E052,supported,revision,OBSTRUCTING THE FIELD,[],0
+2017_2019,2017_2019_E053,unchecked,numeric_change,,[],0
+2017_2019,2017_2019_E054,unchecked,revision,,[],0
+2017_2019,2017_2019_E055,unchecked,revision,,[],0
+2017_2019,2017_2019_E056,unchecked,rewording,THE BALL,[],0
+2017_2019,2017_2019_E057,unchecked,rewording,THE BALL,[],0
+2017_2019,2017_2019_E058,supported,numeric_change,UNFAIR PLAY,[],0
+2017_2019,2017_2019_E059,unchecked,revision,UNFAIR PLAY,[],0
+2017_2019,2017_2019_E060,supported,numeric_change,UNFAIR PLAY,[],0
+2017_2019,2017_2019_E061,unchecked,rewording,UNFAIR PLAY,[],0
+2017_2019,2017_2019_E062,unchecked,revision,UNFAIR PLAY,[],0
+2017_2019,2017_2019_E063,unchecked,revision,UNFAIR PLAY,[],0
+2017_2019,2017_2019_E064,unchecked,revision,UNFAIR PLAY,[],0
+2017_2019,2017_2019_E065,supported,numeric_change,UNFAIR PLAY,[],0
+2017_2019,2017_2019_E066,unchecked,numeric_change,UNFAIR PLAY,[],0
+2017_2019,2017_2019_E067,supported,revision,PLAYERS’ CONDUCT,[],0
+2017_2019,2017_2019_E068,unchecked,revision,PLAYERS’ CONDUCT,[],0
+2017_2019,2017_2019_E069,unchecked,revision,PLAYERS’ CONDUCT,[],0
+2017_2019,2017_2019_E070,unchecked,revision,THE BAT,[],0

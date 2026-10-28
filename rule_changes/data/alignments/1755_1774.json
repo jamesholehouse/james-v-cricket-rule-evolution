@@ -1,0 +1,78 @@
+{
+ "stats": {
+  "edition_from": 1755,
+  "edition_to": 1774,
+  "laws_from": 7,
+  "laws_to": 12,
+  "laws_matched": 6,
+  "laws_removed": 1,
+  "laws_added": 6,
+  "n_changes": 53,
+  "by_op": {
+   "add": 11,
+   "remove": 18,
+   "modify": 18,
+   "move": 0,
+   "renumber": 6
+  },
+  "n_substantive": 46,
+  "text_mass_from": 4929,
+  "text_mass_to": 4467
+ },
+ "law_alignment": [
+  {
+   "section": "main",
+   "from_no": "2",
+   "to_no": "3",
+   "similarity": 0.441,
+   "from_title": "The Stumps",
+   "to_title": "The STUMPS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "3",
+   "to_no": "1",
+   "similarity": 0.518,
+   "from_title": "The Ball",
+   "to_title": "The BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "4",
+   "to_no": "7",
+   "similarity": 0.665,
+   "from_title": "LAWS FOR THE BOWLERS",
+   "to_title": "The BOWLER",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "5",
+   "to_no": "8",
+   "similarity": 0.793,
+   "from_title": "LAWS FOR THE STRIKERS",
+   "to_title": "The STRIKER is out",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "6",
+   "to_no": "9",
+   "similarity": 0.951,
+   "from_title": "WICKET-KEEPERS",
+   "to_title": "The WICKET-KEEPER",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "7",
+   "to_no": "10",
+   "similarity": 0.565,
+   "from_title": "UMPIRES",
+   "to_title": "The UMPIRES",
+   "collapsed": false
+  }
+ ]
+}

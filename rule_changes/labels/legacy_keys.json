@@ -1,0 +1,6250 @@
+{
+"1947_1952:E001": {
+"law_from": null,
+"law_to": "1",
+"records": [
+"b3f844ce66"
+],
+"section": "main"
+},
+"1947_1952:E002": {
+"law_from": null,
+"law_to": "10",
+"records": [
+"235f5c01c0",
+"832aad68a8"
+],
+"section": "main"
+},
+"1947_1952:E003": {
+"law_from": "10",
+"law_to": "10",
+"records": [
+"5e1725629c",
+"d69e346774",
+"4d879f8899"
+],
+"section": "main"
+},
+"1947_1952:E005": {
+"law_from": "14",
+"law_to": null,
+"records": [
+"f6c233dd4d"
+],
+"section": "main"
+},
+"1947_1952:E006": {
+"law_from": "2",
+"law_to": null,
+"records": [
+"1742b1f638"
+],
+"section": "main"
+},
+"1947_1952:E007": {
+"law_from": null,
+"law_to": "20",
+"records": [
+"7fa5d5fea6"
+],
+"section": "main"
+},
+"1947_1952:E010": {
+"law_from": null,
+"law_to": "25",
+"records": [
+"ca3270e1b7"
+],
+"section": "main"
+},
+"1947_1952:E011": {
+"law_from": "30",
+"law_to": null,
+"records": [
+"d1880aaa1e",
+"0ce9e74b42",
+"2680a1a914"
+],
+"section": "main"
+},
+"1947_1952:E012": {
+"law_from": "31",
+"law_to": "31",
+"records": [
+"ff200d28cd",
+"c21e74b6a4"
+],
+"section": "main"
+},
+"1947_1952:E013": {
+"law_from": "31",
+"law_to": "31",
+"records": [
+"6fd7445729"
+],
+"section": "main"
+},
+"1947_1952:E015": {
+"law_from": null,
+"law_to": "34",
+"records": [
+"7e7c1a709d"
+],
+"section": "main"
+},
+"1947_1952:E016": {
+"law_from": null,
+"law_to": "37",
+"records": [
+"1c554880f1"
+],
+"section": "main"
+},
+"1947_1952:E019": {
+"law_from": "43",
+"law_to": "43",
+"records": [
+"629c8e391d"
+],
+"section": "main"
+},
+"1947_1952:E020": {
+"law_from": "46",
+"law_to": null,
+"records": [
+"ade89feed1"
+],
+"section": "main"
+},
+"1947_1952:E021": {
+"law_from": null,
+"law_to": "46",
+"records": [
+"f7dc9caa9b"
+],
+"section": "main"
+},
+"1947_1952:E023": {
+"law_from": "47",
+"law_to": "47",
+"records": [
+"0675a61467",
+"18f042da5c"
+],
+"section": "main"
+},
+"1947_1952:E026": {
+"law_from": "47",
+"law_to": "47",
+"records": [
+"d31be0b3c3"
+],
+"section": "main"
+},
+"1947_1952:E028": {
+"law_from": "47",
+"law_to": "47",
+"records": [
+"5b4f00b53b",
+"de21517293",
+"d8f6b00088"
+],
+"section": "main"
+},
+"1947_1952:E029": {
+"law_from": "47",
+"law_to": "47",
+"records": [
+"718144d4bd"
+],
+"section": "main"
+},
+"1947_1952:E030": {
+"law_from": "47",
+"law_to": "47",
+"records": [
+"8aa0574079",
+"0f8825d37d"
+],
+"section": "main"
+},
+"1947_1952:E031": {
+"law_from": "5",
+"law_to": "5",
+"records": [
+"d67fcefcd1"
+],
+"section": "main"
+},
+"1947_1952:E032": {
+"law_from": "5",
+"law_to": "5",
+"records": [
+"8ad85e4578",
+"fbdbb348a0",
+"f00b0f708a"
+],
+"section": "main"
+},
+"1947_1952:E033": {
+"law_from": "6",
+"law_to": "6",
+"records": [
+"22ddd194a4"
+],
+"section": "main"
+},
+"1947_1952:E034": {
+"law_from": "8",
+"law_to": "8",
+"records": [
+"c21b026d29",
+"64ec19c1b8"
+],
+"section": "main"
+},
+"1952_1962:E002": {
+"law_from": "15",
+"law_to": "15",
+"records": [
+"5566d7724f"
+],
+"section": "main"
+},
+"1952_1962:E003": {
+"law_from": null,
+"law_to": "18",
+"records": [
+"1c28afe52f",
+"5556c6fa17"
+],
+"section": "main"
+},
+"1952_1962:E004": {
+"law_from": "19",
+"law_to": "19",
+"records": [
+"ffe5c9e670",
+"7b2e0c171f",
+"2cd2e666bc",
+"9b0852a152",
+"df140c2f53",
+"919fde39b9",
+"69cd2656b9",
+"72011a3f8d",
+"05a5d1b1cd",
+"b205752c4e",
+"b130dbb61a"
+],
+"section": "main"
+},
+"1952_1962:E006": {
+"law_from": "23",
+"law_to": "23",
+"records": [
+"7751ab2cec"
+],
+"section": "main"
+},
+"1952_1962:E007": {
+"law_from": null,
+"law_to": "28",
+"records": [
+"1702f5d3ab"
+],
+"section": "main"
+},
+"1952_1962:E008": {
+"law_from": "30",
+"law_to": null,
+"records": [
+"573d5687b5",
+"26779913cd",
+"fe3af02e23"
+],
+"section": "main"
+},
+"1952_1962:E009": {
+"law_from": "31",
+"law_to": "31",
+"records": [
+"d074acbd74",
+"731f2dc487"
+],
+"section": "main"
+},
+"1952_1962:E010": {
+"law_from": null,
+"law_to": "39",
+"records": [
+"30b7910b76"
+],
+"section": "main"
+},
+"1952_1962:E011": {
+"law_from": "46",
+"law_to": "46",
+"records": [
+"0877524195",
+"a0c0b4c517",
+"93e0e54d11",
+"5d7f62a3c0",
+"499736cd8e"
+],
+"section": "main"
+},
+"1952_1962:E013": {
+"law_from": "47",
+"law_to": "47",
+"records": [
+"de5f6fcbb3",
+"40634af428",
+"07d5c8076b",
+"47d2d503f9",
+"d5e54c0821",
+"38a67ac912"
+],
+"section": "main"
+},
+"1952_1962:E014": {
+"law_from": "5",
+"law_to": "5",
+"records": [
+"b79be1c27b",
+"ad33a23127"
+],
+"section": "main"
+},
+"1952_1962:E015": {
+"law_from": "5",
+"law_to": null,
+"records": [
+"09be0e5354"
+],
+"section": "main"
+},
+"1952_1962:E016": {
+"law_from": "8",
+"law_to": "8",
+"records": [
+"7d12ed76bb"
+],
+"section": "main"
+},
+"1962_1968:E001": {
+"law_from": "10",
+"law_to": "10",
+"records": [
+"928f298191",
+"70a3143381",
+"e79be22bc5",
+"002d64f217",
+"3126a67120"
+],
+"section": "main"
+},
+"1962_1968:E002": {
+"law_from": "11",
+"law_to": "11",
+"records": [
+"9e7d052dd2"
+],
+"section": "main"
+},
+"1962_1968:E004": {
+"law_from": null,
+"law_to": "15",
+"records": [
+"ceb7d194bd",
+"2751b707a1"
+],
+"section": "main"
+},
+"1962_1968:E005": {
+"law_from": null,
+"law_to": "18",
+"records": [
+"2c31aa688f"
+],
+"section": "main"
+},
+"1962_1968:E008": {
+"law_from": "26",
+"law_to": "26",
+"records": [
+"9b228b5f0e",
+"7d6ac22638"
+],
+"section": "main"
+},
+"1962_1968:E009": {
+"law_from": "30",
+"law_to": "30",
+"records": [
+"41664f1396",
+"d827ac3f34"
+],
+"section": "main"
+},
+"1962_1968:E010": {
+"law_from": "41",
+"law_to": "41",
+"records": [
+"c9f910abaf",
+"c1e5d9a171"
+],
+"section": "main"
+},
+"1962_1968:E011": {
+"law_from": null,
+"law_to": "43",
+"records": [
+"1a93fd1f9f"
+],
+"section": "main"
+},
+"1962_1968:E014": {
+"law_from": "5",
+"law_to": "5",
+"records": [
+"7a71fdc9ac",
+"d55c5b9bbf"
+],
+"section": "main"
+},
+"1962_1968:E015": {
+"law_from": "5",
+"law_to": "5",
+"records": [
+"ababd1a4df"
+],
+"section": "main"
+},
+"1962_1968:E016": {
+"law_from": "8",
+"law_to": "8",
+"records": [
+"f8c59b929a"
+],
+"section": "main"
+},
+"1968_1980:E001": {
+"law_from": "1",
+"law_to": "1",
+"records": [
+"a2a7f06d50",
+"a6cb28e03d",
+"979de6f11a",
+"75640dfd1b"
+],
+"section": "main"
+},
+"1968_1980:E002": {
+"law_from": "10",
+"law_to": "10",
+"records": [
+"d11ec6fb9f",
+"58d37bd909",
+"d594093b9d",
+"2db6dbec43",
+"ecd566a19f"
+],
+"section": "main"
+},
+"1968_1980:E003": {
+"law_from": "10",
+"law_to": "10",
+"records": [
+"6a46269da0"
+],
+"section": "main"
+},
+"1968_1980:E004": {
+"law_from": "10",
+"law_to": "10",
+"records": [
+"0ae1a0b7a2"
+],
+"section": "main"
+},
+"1968_1980:E005": {
+"law_from": "10",
+"law_to": "10",
+"records": [
+"1b62202ae4"
+],
+"section": "main"
+},
+"1968_1980:E006": {
+"law_from": null,
+"law_to": "11",
+"records": [
+"fee95cf491",
+"8969234e0a",
+"efb80a7d3b",
+"5626e37f87",
+"b84e3b07db",
+"55c026300c"
+],
+"section": "main"
+},
+"1968_1980:E007": {
+"law_from": "12",
+"law_to": null,
+"records": [
+"24083f0d4f"
+],
+"section": "main"
+},
+"1968_1980:E008": {
+"law_from": null,
+"law_to": "12",
+"records": [
+"a8615f2a3d",
+"04b54a97b4",
+"eda26ea152",
+"da0c4e88a1",
+"81b7ef79d5",
+"2ba05807ad",
+"7212e1332e",
+"acfc3548c2",
+"0f3be391f2",
+"f441993e28",
+"7812621f82"
+],
+"section": "main"
+},
+"1968_1980:E009": {
+"law_from": "14",
+"law_to": "13",
+"records": [
+"5f6b235501",
+"9c08a0c822"
+],
+"section": "main"
+},
+"1968_1980:E010": {
+"law_from": "15",
+"law_to": "14",
+"records": [
+"d3b76fd147",
+"254dcf8238",
+"e1189b407e",
+"a403af0206",
+"d6b30a63d2",
+"e542e857e3"
+],
+"section": "main"
+},
+"1968_1980:E011": {
+"law_from": null,
+"law_to": "15",
+"records": [
+"d3a5928ca1"
+],
+"section": "main"
+},
+"1968_1980:E012": {
+"law_from": "16",
+"law_to": null,
+"records": [
+"69e04a139b"
+],
+"section": "main"
+},
+"1968_1980:E013": {
+"law_from": "17",
+"law_to": "16",
+"records": [
+"16577f7bdc",
+"48da70a2cc",
+"eedba8f7b5",
+"873112e3ff",
+"d72e84e051",
+"7fd8db6e02",
+"83e7dd48c1",
+"94815d3746",
+"d6d958652c",
+"6cc5958e31",
+"0c51f17cd6",
+"df6b13d83f",
+"94f5fcff0d",
+"8a261d7482",
+"c227cf524d",
+"25237e7e73",
+"6b72682748",
+"05cd494844"
+],
+"section": "main"
+},
+"1968_1980:E014": {
+"law_from": "18",
+"law_to": "17",
+"records": [
+"5fc70120cc",
+"4b47ee2119",
+"09ae91b540",
+"ba037b7c15",
+"1ba406d18d",
+"b88830156f",
+"cb0d5a96cc",
+"43115a6c72",
+"63cae871aa",
+"83553ebd46",
+"64143d9d23",
+"d338e1dd9f",
+"4068ad6746",
+"d02139e21d",
+"be5c04186f",
+"e00bc2bd8c",
+"cb41ffe82b",
+"3d33225f8a",
+"0dda051896",
+"e6cc13a1e1",
+"dc5d138b2b",
+"f2bd00c8fe",
+"a39e82ab11"
+],
+"section": "main"
+},
+"1968_1980:E015": {
+"law_from": "19",
+"law_to": "18",
+"records": [
+"288fedd577",
+"42fb31279b",
+"a29d30073a",
+"88fc5c6e57",
+"94849a1e84",
+"a105640b35",
+"3d99824c16",
+"6dc442ee98",
+"cf338261e1",
+"20e4d3cf1b",
+"a4c5c4d5db",
+"53bc3da1b2",
+"fe2e296906",
+"8ca04b6d15",
+"c1674a20d0",
+"42621641cb",
+"03a3af0210",
+"4f034394ba",
+"3bd1fb8ca4",
+"46d8ac5219",
+"f217864a19",
+"dc7ea03e38",
+"aa4fea731e",
+"07001a88ce",
+"98619115db",
+"e42231188b",
+"337193e577",
+"9f6edf33bc",
+"a97f016e62",
+"5df0083195",
+"9a85233915",
+"dc7ea03e38",
+"aa4fea731e",
+"fc3a6d9061"
+],
+"section": "main"
+},
+"1968_1980:E016": {
+"law_from": "20",
+"law_to": "19",
+"records": [
+"4540965000",
+"9a6ce06d8f",
+"01c7162af4",
+"5a49cc7088",
+"0d193647ba",
+"7e67e26b97",
+"d39ee107b3",
+"53c136eadd",
+"5e7ba457f8",
+"0eb10472a2",
+"b5c21f0223",
+"7bc7a42def",
+"ca323c168e",
+"c0859f939b",
+"7c9187c1dc",
+"ce9a5eee4c",
+"59b318edca",
+"18d12b48db",
+"7706a06a98",
+"3dde67ee5c",
+"6d9b138301"
+],
+"section": "main"
+},
+"1968_1980:E017": {
+"law_from": "2",
+"law_to": "2",
+"records": [
+"36bef6ed92",
+"3fd853b779",
+"d589c0e2bb",
+"27fb3dcc61",
+"593096ed94",
+"58c552898e",
+"399883e257",
+"a4728f54b2",
+"f29520f737",
+"1dcf343638",
+"8a180d2c70",
+"e7047ecafd",
+"81bbf55116",
+"6776ff0d69",
+"8179683f1f",
+"7920e96b29",
+"e50ec56200",
+"246de0022d",
+"991d127e76",
+"d5c64577f4",
+"c18212f9d4",
+"af01691185",
+"6f00a2f98b",
+"b0f96da271",
+"55f3705d54",
+"2c2ba0b406",
+"00255f7787"
+],
+"section": "main"
+},
+"1968_1980:E018": {
+"law_from": "21",
+"law_to": "20",
+"records": [
+"d903370204",
+"4c3ed39396",
+"50b9a747c7"
+],
+"section": "main"
+},
+"1968_1980:E019": {
+"law_from": "22",
+"law_to": "21",
+"records": [
+"324dfa02db",
+"42a9cdb6ce",
+"b9dddeb094",
+"a083c950b8",
+"ab27324a9e",
+"a56d3f76e5",
+"585617f27c",
+"e14b015bba",
+"e5c028d2e4",
+"e7f5e6d273",
+"b50e14f745",
+"ad5281d6a4",
+"2afd7b817a",
+"2215214198",
+"9e69041bd3",
+"f84994ed04",
+"0d48a12c25",
+"b24c717ff0",
+"60796401b3",
+"8d81b89d40",
+"554258db32"
+],
+"section": "main"
+},
+"1968_1980:E020": {
+"law_from": "23",
+"law_to": "22",
+"records": [
+"05b137eb95",
+"fa53fa8178",
+"1858efbbb9",
+"3970a56ce3",
+"ff4ba67d80",
+"e13836ef28",
+"8e65fff4fa",
+"a27dd9af78",
+"5b6739c260",
+"7be847a8a3",
+"cdf62b9dd9",
+"e69ec3d852"
+],
+"section": "main"
+},
+"1968_1980:E021": {
+"law_from": "24",
+"law_to": "22",
+"records": [
+"375fa317f1"
+],
+"section": "main"
+},
+"1968_1980:E022": {
+"law_from": "25",
+"law_to": "23",
+"records": [
+"32e11cc6cb"
+],
+"section": "main"
+},
+"1968_1980:E023": {
+"law_from": "25",
+"law_to": "23",
+"records": [
+"ff39b2822c"
+],
+"section": "main"
+},
+"1968_1980:E024": {
+"law_from": "25",
+"law_to": "23",
+"records": [
+"74f70dc18e",
+"1ce4c01efb"
+],
+"section": "main"
+},
+"1968_1980:E025": {
+"law_from": "25",
+"law_to": "23",
+"records": [
+"1705cc5e1e"
+],
+"section": "main"
+},
+"1968_1980:E026": {
+"law_from": "25",
+"law_to": "23",
+"records": [
+"10502df99b"
+],
+"section": "main"
+},
+"1968_1980:E027": {
+"law_from": "24",
+"law_to": null,
+"records": [
+"64b6bb21f0"
+],
+"section": "main"
+},
+"1968_1980:E028": {
+"law_from": "26",
+"law_to": "24",
+"records": [
+"5678f1e4e4",
+"d8f283cf39",
+"6a12337ddc",
+"ae10cf71ab",
+"7a6da16064",
+"ffe10b7cdd",
+"91f02b7bb5",
+"2a57f54bed",
+"34fb0ca9b0",
+"dfcd1965e3",
+"90c4ba5ed4",
+"4db44e66aa",
+"0b103f51b4",
+"d9b1755e67",
+"dfcd1965e3",
+"4fa8ba89bb",
+"345da05017",
+"a0b51ce659",
+"41067a461c",
+"61c197bcda",
+"8ac4d939a7",
+"058937df19",
+"6f923008fd",
+"60fc73ff2a",
+"40e3ddea5b",
+"1aa5e034ae",
+"ae9826b5db",
+"edcf78e96d",
+"1613da9944",
+"e0db16325f",
+"3d353942df",
+"4936f82a4a"
+],
+"section": "main"
+},
+"1968_1980:E029": {
+"law_from": "28",
+"law_to": "25",
+"records": [
+"a1f94f8332",
+"6cc082fcdb",
+"d05945c559",
+"3fd478655a",
+"0cb749aae2",
+"ab3478bc8b",
+"ba5ac56de6",
+"c179a34ba4",
+"cf5c317dcd",
+"bd9f8cf195",
+"2cdfa28292",
+"e4e045d9f5",
+"077e72ab61",
+"a23863ac07",
+"84e02a465b",
+"60ed0871d9",
+"ae9826b5db",
+"f08d787110",
+"c675b0b267"
+],
+"section": "main"
+},
+"1968_1980:E030": {
+"law_from": "30",
+"law_to": "26",
+"records": [
+"c7b88d5bf7",
+"db54f9ecb0",
+"c7979c7468",
+"b262c4759b",
+"e346b5ad4f",
+"2be49edbcc",
+"4b5032803d",
+"32eea921f1"
+],
+"section": "main"
+},
+"1968_1980:E031": {
+"law_from": "27",
+"law_to": null,
+"records": [
+"2d13cef39c"
+],
+"section": "main"
+},
+"1968_1980:E032": {
+"law_from": "47",
+"law_to": "27",
+"records": [
+"70e9266578",
+"e4834cf276",
+"bf949f0a8e",
+"0ef099149f",
+"f29f0844e9",
+"498ad38326",
+"abea88538b",
+"84e02a465b",
+"6bdd63a7e0",
+"9a297de854",
+"031025a5cf",
+"4f46992691",
+"a8511cc016",
+"27b462119a",
+"5fc48bae4f",
+"f728054a9c",
+"d46454346c",
+"0ffc8e9b1a",
+"52bcaf92d8",
+"9af9e29ea7",
+"a768fe8afc",
+"e5575fd3bb",
+"1f2d9ccc2a",
+"02a4709e13",
+"1ef55204f7",
+"596e418a15"
+],
+"section": "main"
+},
+"1968_1980:E033": {
+"law_from": null,
+"law_to": "28",
+"records": [
+"0f897b6080",
+"420b078413",
+"6012c1aa0d",
+"2e1df27acf",
+"8a7ee79237",
+"9cec4e4a38",
+"edc9871284",
+"7a10849ab2",
+"6878f710ba",
+"ae620bab7e",
+"9246530743",
+"b273b6d662",
+"ca74db8bb6"
+],
+"section": "main"
+},
+"1968_1980:E034": {
+"law_from": "29",
+"law_to": null,
+"records": [
+"6fd37c6bc0"
+],
+"section": "main"
+},
+"1968_1980:E036": {
+"law_from": "3",
+"law_to": "3",
+"records": [
+"9e4d9ebe29",
+"08d4249b61",
+"2ddb5fe4a3",
+"f4bf68a6b9",
+"9be51e9f6a",
+"bbf6a9b80b",
+"7ee08c3638",
+"da6caa757e",
+"d5feefab4b",
+"4ae42f20e6",
+"6fd4d5cc2d",
+"145a64f078",
+"4c9d03069d",
+"dd2c46e276",
+"4634df04a3",
+"3503cb6c14",
+"f1f0e7f6d0",
+"abd8f5fe7b",
+"89f3b5d055"
+],
+"section": "main"
+},
+"1968_1980:E037": {
+"law_from": "46",
+"law_to": "3",
+"records": [
+"b0b80a7fe3",
+"2c39941489",
+"de64450e4a",
+"90a5b76801",
+"5f558b1d06"
+],
+"section": "main"
+},
+"1968_1980:E038": {
+"law_from": "47",
+"law_to": "3",
+"records": [
+"0930cf26aa",
+"8ed73784c9",
+"de6e2983a9",
+"e088f5b2e9",
+"9bd3ca4962",
+"ba3ea8349f",
+"2a112d08e9"
+],
+"section": "main"
+},
+"1968_1980:E039": {
+"law_from": null,
+"law_to": "3",
+"records": [
+"8c46370b04",
+"a3ef58067f",
+"51f0312051",
+"1d33204a05",
+"eb242ec1c0",
+"515ee0c72d",
+"f2e7f64f90"
+],
+"section": "main"
+},
+"1968_1980:E040": {
+"law_from": null,
+"law_to": "30",
+"records": [
+"9404b5c5c7",
+"0cc0d85b97",
+"94ab75a67e",
+"e21df39ff8",
+"70d2e9edf0"
+],
+"section": "main"
+},
+"1968_1980:E041": {
+"law_from": null,
+"law_to": "31",
+"records": [
+"1259a6fe9e"
+],
+"section": "main"
+},
+"1968_1980:E042": {
+"law_from": "17",
+"law_to": "31",
+"records": [
+"f3650e47b4"
+],
+"section": "main"
+},
+"1968_1980:E043": {
+"law_from": "35",
+"law_to": "32",
+"records": [
+"e0ac0c282c",
+"c6101bcd7e",
+"72db20f080",
+"ca7fef1f1d",
+"6bb3d509b2",
+"07a6ff6b36",
+"9f9af6d94b",
+"27fc426b87",
+"9f1e741cc6",
+"f7227c1562",
+"0f918a5aae",
+"b788eebfd4",
+"df252e21dd",
+"74fb8785f8",
+"cc48d36a4c",
+"292d7f4db5",
+"007f59b32a",
+"658af92b4f",
+"aa822c15da"
+],
+"section": "main"
+},
+"1968_1980:E044": {
+"law_from": "33",
+"law_to": null,
+"records": [
+"8bfb64eab9"
+],
+"section": "main"
+},
+"1968_1980:E045": {
+"law_from": "36",
+"law_to": "33",
+"records": [
+"5d67ba0cf4",
+"b5a91ee6d5",
+"248d675a02"
+],
+"section": "main"
+},
+"1968_1980:E046": {
+"law_from": "37",
+"law_to": "34",
+"records": [
+"706b315245",
+"8192e1ba4a",
+"6bfb9867f2",
+"531bdcf2a3",
+"8bcbc84d60"
+],
+"section": "main"
+},
+"1968_1980:E047": {
+"law_from": "38",
+"law_to": "35",
+"records": [
+"2025f36cf0",
+"0bdb1cf505",
+"e7da4a05ac",
+"8ef8f1ad49",
+"e3a8a96487",
+"8bb1d94ec0",
+"fb7e1fdcd6",
+"239ec0757f"
+],
+"section": "main"
+},
+"1968_1980:E048": {
+"law_from": "39",
+"law_to": "36",
+"records": [
+"15a21799b6",
+"8255e5af61",
+"a69f0ee37d",
+"67e0e35ec1"
+],
+"section": "main"
+},
+"1968_1980:E049": {
+"law_from": "40",
+"law_to": "37",
+"records": [
+"b6aa4f38e7",
+"f71296f999",
+"6d5929527e",
+"1590e0e8d2",
+"517c9e8ee5",
+"f40d797a4a",
+"31fd4fd644"
+],
+"section": "main"
+},
+"1968_1980:E050": {
+"law_from": "41",
+"law_to": "38",
+"records": [
+"468f44595d",
+"0c7c034083",
+"eed7b2403b",
+"9d4a9e30e4",
+"bd60915275",
+"c8aca20bb1",
+"65098125f3",
+"b69e022caa",
+"dc7ea03e38",
+"aa4fea731e",
+"00651c39bc",
+"9bfacf4a14"
+],
+"section": "main"
+},
+"1968_1980:E051": {
+"law_from": "42",
+"law_to": "39",
+"records": [
+"c0c841c2b0",
+"f841bf5fcd",
+"73828634ff"
+],
+"section": "main"
+},
+"1968_1980:E052": {
+"law_from": "4",
+"law_to": "4",
+"records": [
+"1c9740393a",
+"6ae6426a6e"
+],
+"section": "main"
+},
+"1968_1980:E053": {
+"law_from": "43",
+"law_to": "40",
+"records": [
+"93cc65fd47",
+"09170fc8be",
+"d057f1567c",
+"0dc40452fc",
+"17be0ab82e",
+"65d6aeb4ba",
+"04b70c6366",
+"159b716e9a",
+"3ad25bbc98"
+],
+"section": "main"
+},
+"1968_1980:E054": {
+"law_from": "44",
+"law_to": "41",
+"records": [
+"688ede1d15",
+"8141ce91df",
+"80aa8bab01",
+"8dd5e2edda",
+"28332f4373",
+"2f3ee00593",
+"5131258bb9",
+"9fbee85e32",
+"2b349dd802",
+"25ce8349e9"
+],
+"section": "main"
+},
+"1968_1980:E055": {
+"law_from": null,
+"law_to": "42",
+"records": [
+"4a1bdb5440"
+],
+"section": "main"
+},
+"1968_1980:E056": {
+"law_from": "46",
+"law_to": "42",
+"records": [
+"e6d8f9e0d2",
+"1d488c327a",
+"423fd24782",
+"282eb9128e",
+"d97f5eb8cf"
+],
+"section": "main"
+},
+"1968_1980:E057": {
+"law_from": "45",
+"law_to": null,
+"records": [
+"1f1858ce50"
+],
+"section": "main"
+},
+"1968_1980:E058": {
+"law_from": "46",
+"law_to": null,
+"records": [
+"1a8cf8721c"
+],
+"section": "main"
+},
+"1968_1980:E059": {
+"law_from": "47",
+"law_to": null,
+"records": [
+"9fb65af296",
+"2f0b7956d0",
+"d20af23983",
+"0a28e319aa",
+"0d3d8b118c",
+"87453b859e",
+"d288ddf19d",
+"2660816852",
+"9bd7a2c531",
+"4f272f466e",
+"a723c62697",
+"cb43cfd16f",
+"249a4931f2",
+"0877c700a4",
+"6dd8183e1a",
+"9c949b46dd",
+"aeb875aa31",
+"44a2df3c3d",
+"212969f76d",
+"e7b747b5b5"
+],
+"section": "main"
+},
+"1968_1980:E060": {
+"law_from": "5",
+"law_to": "5",
+"records": [
+"7e198fb17f",
+"1470503f39",
+"c09472fb6c",
+"c6d872a50a",
+"e51f41ebe7",
+"b3d4d89f7f"
+],
+"section": "main"
+},
+"1968_1980:E061": {
+"law_from": "6",
+"law_to": "6",
+"records": [
+"2716bf2f86",
+"e772b4ea24",
+"15543a52a1"
+],
+"section": "main"
+},
+"1968_1980:E062": {
+"law_from": null,
+"law_to": "7",
+"records": [
+"a8e62a1249",
+"f2b4a7c176",
+"d4c7efe7ea",
+"10e992af5b",
+"84aeeb2875",
+"0fd41f9784",
+"60ff00acee",
+"282abd6aee",
+"72ef03c1a2",
+"bdf8aab9f7"
+],
+"section": "main"
+},
+"1968_1980:E063": {
+"law_from": "8",
+"law_to": null,
+"records": [
+"3e835f3ac7",
+"9de1f92056",
+"0ee950dad9",
+"e810a15a62",
+"1181e02a7a",
+"59023a798d",
+"0676434e22",
+"3e7add63e4",
+"045915bda1",
+"f4451b3992",
+"617c34ea59"
+],
+"section": "main"
+},
+"1968_1980:E064": {
+"law_from": "9",
+"law_to": "9",
+"records": [
+"6ed88814c9",
+"3029edf4fb",
+"88567d8223",
+"9f9b308d40",
+"5593777bb5",
+"8f5f326978",
+"e1de5f137a"
+],
+"section": "main"
+},
+"1980_1992:E001": {
+"law_from": "10",
+"law_to": "10",
+"records": [
+"225a734f9b",
+"79c330f246"
+],
+"section": "main"
+},
+"1980_1992:E003": {
+"law_from": "17",
+"law_to": null,
+"records": [
+"a81b273620"
+],
+"section": "main"
+},
+"1980_1992:E004": {
+"law_from": "17",
+"law_to": "17",
+"records": [
+"2bfcb3b999"
+],
+"section": "main"
+},
+"1980_1992:E007": {
+"law_from": "2",
+"law_to": "2",
+"records": [
+"acc538fda4",
+"366c13cf0c",
+"78d8326e86",
+"a22a4cbee3",
+"49b944d330"
+],
+"section": "main"
+},
+"1980_1992:E008": {
+"law_from": "2",
+"law_to": "2",
+"records": [
+"aa063ef5a4"
+],
+"section": "main"
+},
+"1980_1992:E009": {
+"law_from": "2",
+"law_to": "2",
+"records": [
+"55e504e444",
+"3e418f0c07"
+],
+"section": "main"
+},
+"1980_1992:E010": {
+"law_from": "23",
+"law_to": "23",
+"records": [
+"a659a019f2"
+],
+"section": "main"
+},
+"1980_1992:E012": {
+"law_from": "36",
+"law_to": "36",
+"records": [
+"99d9a8877f"
+],
+"section": "main"
+},
+"1980_1992:E014": {
+"law_from": null,
+"law_to": "38",
+"records": [
+"7c85bd472e"
+],
+"section": "main"
+},
+"1980_1992:E016": {
+"law_from": null,
+"law_to": "41",
+"records": [
+"00ef80fc7d",
+"7975b478ec"
+],
+"section": "main"
+},
+"1980_1992:E017": {
+"law_from": "42",
+"law_to": "42",
+"records": [
+"3b8913e18a"
+],
+"section": "main"
+},
+"1980_1992:E018": {
+"law_from": "42",
+"law_to": "42",
+"records": [
+"267bb136ec"
+],
+"section": "main"
+},
+"1980_1992:E019": {
+"law_from": "5",
+"law_to": "5",
+"records": [
+"505391be8a"
+],
+"section": "main"
+},
+"1980_1992:E021": {
+"law_from": "8",
+"law_to": "8",
+"records": [
+"becb4efa21"
+],
+"section": "main"
+},
+"1980_1992:E022": {
+"law_from": "8",
+"law_to": "8",
+"records": [
+"48891e0012"
+],
+"section": "main"
+},
+"1992_2000:E001": {
+"law_from": null,
+"law_to": "*",
+"records": [
+"1e21ffedd2"
+],
+"section": "APPENDIX"
+},
+"1992_2000:E002": {
+"law_from": null,
+"law_to": "*",
+"records": [
+"bf99249e05"
+],
+"section": "PREAMBLE"
+},
+"1992_2000:E003": {
+"law_from": "1",
+"law_to": "1",
+"records": [
+"fa5ee4037a",
+"50897755c8",
+"6ee6a6d5da",
+"6301a4bfc4",
+"b1146d0859",
+"50b49b0674",
+"0251c842f4",
+"be782366fc",
+"34b099caf0",
+"6963c2a9cd"
+],
+"section": "main"
+},
+"1992_2000:E004": {
+"law_from": "10",
+"law_to": "10",
+"records": [
+"8a6a9453a9",
+"c5b981d9f2",
+"d8b8a21500",
+"3032e38ade",
+"42ef36466e",
+"87f1e991b1",
+"a655419812",
+"5dc80854c2",
+"9c8a10ec86"
+],
+"section": "main"
+},
+"1992_2000:E005": {
+"law_from": "10",
+"law_to": "10",
+"records": [
+"04d4f28775",
+"a6fceeb5ca",
+"113e3fec58",
+"5fd4a57bb8",
+"b0799fa969",
+"2aa132698d",
+"51111f3356",
+"eb6df819b4",
+"a49c5ba703",
+"c5a4ca4b2b",
+"d9b5365a5a",
+"f42cb44f38"
+],
+"section": "main"
+},
+"1992_2000:E006": {
+"law_from": "11",
+"law_to": "11",
+"records": [
+"ff47c00cec",
+"7e167b6f8a",
+"ac913a6b92",
+"eb4237252f",
+"73c62d0c1d",
+"e7de66fc7d",
+"136a741a98",
+"aa90e2ef42",
+"7fdea30fec"
+],
+"section": "main"
+},
+"1992_2000:E007": {
+"law_from": null,
+"law_to": "12",
+"records": [
+"b3e3ff84cb",
+"67aa84293e",
+"9b7c468394",
+"1c1c356527",
+"a1aba7df69",
+"6d1e46fa67",
+"d89f04b870",
+"d9ec513090",
+"8b535a607c",
+"76c97eb0da",
+"64a836a5b4",
+"7901d282f0",
+"04742aa256",
+"03142cd1ed"
+],
+"section": "main"
+},
+"1992_2000:E008": {
+"law_from": null,
+"law_to": "13",
+"records": [
+"e81e5faee3",
+"be05373dfd",
+"edecb4e42d",
+"a7c5bc9f4c",
+"40b3e95781",
+"b71419afc1",
+"853175b2df",
+"de06ddd813",
+"d35983de15",
+"98909f9355",
+"fe3beaa53f",
+"f3997b53b2"
+],
+"section": "main"
+},
+"1992_2000:E009": {
+"law_from": "14",
+"law_to": "14",
+"records": [
+"b9596e0bd0",
+"a1c504dc4e",
+"71af46caa5",
+"72170859ac",
+"d995947e3b",
+"57e99ab940",
+"e621a3d7e6",
+"de06ddd813"
+],
+"section": "main"
+},
+"1992_2000:E010": {
+"law_from": "15",
+"law_to": null,
+"records": [
+"61ed6877e9"
+],
+"section": "main"
+},
+"1992_2000:E011": {
+"law_from": null,
+"law_to": "15",
+"records": [
+"1a56116f47",
+"72762e30f4",
+"cbec6c2073",
+"9b4ad57bd9",
+"8cf23710e0",
+"eefdc5556f",
+"e719ec353e",
+"9dd572bff9",
+"04a99e4f82",
+"e046e2828d",
+"8a1f070f52",
+"50a71404ca",
+"d7c1f9893a",
+"accfe94fde",
+"3351a4617d",
+"7441fdc174",
+"204d1c3e33",
+"dcf78e059c",
+"00643d738f",
+"62da395c79",
+"b8ef5a728f",
+"274e26ed57",
+"a4d2aad97c",
+"de06ddd813",
+"0f22443d5b",
+"de06ddd813",
+"eb2cb01918",
+"3ab137e15e",
+"bd1db9b9c7",
+"50cc81d072",
+"5c681d6806",
+"93ebefb9b5",
+"c9abfe81d2",
+"6ab2a9b265",
+"6650ddf551",
+"cec43dfba0",
+"619f9b0d4e",
+"32d8fb52a0",
+"74b17ed9c3",
+"29719751d3",
+"2e37c1d026",
+"6ab2a9b265",
+"a33a3c5c81",
+"91aa6bc94f",
+"370aca25da",
+"f0e6f61ad5",
+"b91e4c5fca",
+"561ddd105c",
+"fa7fb91b2b",
+"a6ab54f2b7",
+"b4d562e7e6",
+"71938ab54c",
+"a5015d2a70",
+"7393774595",
+"927493a3a7"
+],
+"section": "main"
+},
+"1992_2000:E012": {
+"law_from": "17",
+"law_to": "16",
+"records": [
+"1699c154c8",
+"b47002d385",
+"4ef941b732",
+"580efcd9ab",
+"9bd2316564",
+"9a291ac5ef",
+"b1fa0c04ae",
+"5691f195e7",
+"4fbf612460",
+"620a78699e",
+"65c1cf9632",
+"256aa7bdf6",
+"d06b3be7cd",
+"0a6fff21b7",
+"fd7bfa440b",
+"9c4c602709"
+],
+"section": "main"
+},
+"1992_2000:E013": {
+"law_from": "17",
+"law_to": "16",
+"records": [
+"464d14e592",
+"dc07ac22ca"
+],
+"section": "main"
+},
+"1992_2000:E014": {
+"law_from": null,
+"law_to": "17",
+"records": [
+"ee46c830c7"
+],
+"section": "main"
+},
+"1992_2000:E015": {
+"law_from": "18",
+"law_to": "18",
+"records": [
+"9f71e43ecc",
+"ab15ae029c",
+"7a238972ff",
+"7b89466d94",
+"d7c597dd04",
+"9f5178229f",
+"b6a59b3dd7",
+"06f264d1d0",
+"d5b41e98e6",
+"f183f9f590",
+"0e3e2d570a",
+"4364bd62fa",
+"9f1b43ea8e",
+"39a75c3545",
+"50c732f20a",
+"f75b0d0792",
+"31acfa12ed",
+"3778eebd27",
+"784bd9c398",
+"901e7dbe44",
+"64b8bfbdb6",
+"acadf5f75c",
+"e7e157f4be",
+"a31642c045",
+"9fd6f9475a",
+"d42db6e5e7",
+"52a8e27c4d",
+"cdd28828e0",
+"355728237c",
+"4cd78188c4",
+"02addc6b19",
+"4c6cbb0d37",
+"9c6ed119b4",
+"3276975fd1",
+"96accb2322",
+"4a2d45d9eb",
+"929df8a423",
+"ec59be9a80",
+"9265a6d8f6",
+"8fda4dea88",
+"fd2c65ecb0",
+"90f2a32f05",
+"df8d46443d",
+"176e76ff08",
+"bbe84796ca",
+"53144a3f49",
+"aa55222fb2",
+"3300e57944",
+"ca3c4d8d7b",
+"ffbff81b7c",
+"551f4221c5",
+"066b635661",
+"b8ab548a33",
+"39d6481679",
+"de7555690f",
+"058665444e",
+"3f485fda93",
+"563c1d7cb1",
+"3cac2f2d46",
+"b5a43edce1"
+],
+"section": "main"
+},
+"1992_2000:E016": {
+"law_from": null,
+"law_to": "19",
+"records": [
+"e8a628b76d",
+"23286f6082",
+"8fe230ff8e",
+"94c65708ef",
+"f377f45324",
+"50bea715e6",
+"a27baa4b74",
+"cd5909006f",
+"18bfd9520d",
+"13ae417bb4",
+"fe6cfd92f7",
+"39e156a248",
+"691e0e4781",
+"9c700ddae6",
+"1e2f4cd57b",
+"592baa454d",
+"c8ceb0f26a",
+"ff53ecb836",
+"1596e2f838",
+"d4ddb68128",
+"a5ba376c0e",
+"28dec77f95",
+"29db918ade",
+"6a559dceb1",
+"b5ed77baf0",
+"db8ed6a18d",
+"8b243206a9",
+"57552ca47b",
+"49ea2e591a",
+"46b80ea545",
+"926e1359e2",
+"61dcaa0dc7",
+"c5d96abb3a",
+"24c85f43e5",
+"9048cd125b",
+"196be502aa",
+"4d33548598",
+"f8357c0800",
+"1a11714333",
+"9787659bf1",
+"90240b3dca",
+"f870679a3e",
+"b9f41bfe53",
+"3cb5afdcd2",
+"23b6fdc639",
+"43749fc937",
+"ece80b5edb",
+"b2ab881b4e",
+"e98120e74a",
+"471758e163"
+],
+"section": "main"
+},
+"1992_2000:E017": {
+"law_from": null,
+"law_to": "2",
+"records": [
+"23a81fa021",
+"ed241d1803",
+"d90f246473",
+"dfaf50d9cc",
+"f9e8767bb0",
+"3e2cdc4c54",
+"168acbd83a",
+"aa57433d59",
+"2b1c384576",
+"63b084d087",
+"2266579ac3",
+"458c37672b",
+"9c15a755a7",
+"e156fad02d",
+"349d46e47c",
+"95dda9cc21",
+"6ae8147fe0",
+"3f8da55113",
+"41e23c4131",
+"0843751e9f",
+"13347362b3",
+"aec05682b4",
+"3895d5810f",
+"4febce35fe",
+"b7cdc9551a",
+"6e33c1f109",
+"10fb4fcee9",
+"48fd3b90f7",
+"8e4a3bea70",
+"0f6b480642",
+"f18c3c24a7",
+"54c3d90dd9",
+"fc35c778b0",
+"c9e2b6771c",
+"f79c126ad3",
+"c661bf98e7",
+"f226692607",
+"ad51775cac",
+"174320ed5c",
+"59bf0ba22d",
+"bbc9930712",
+"104bf14bdf",
+"fae6650c59",
+"4e1673b634",
+"f18c3c24a7",
+"23ba536a78",
+"efdbb6498c",
+"9de096c5e4",
+"f09428625f",
+"1056078d33",
+"dc8fad249b",
+"a27166312d",
+"b482505463",
+"37c33fbe87",
+"0da6b07dd9",
+"fe8652c177",
+"b2fd3a4d66",
+"eddae73721"
+],
+"section": "main"
+},
+"1992_2000:E018": {
+"law_from": "20",
+"law_to": null,
+"records": [
+"8c2fc19dd9",
+"d67a2e9d29",
+"c164323916",
+"a5456050ec",
+"2b27537869",
+"6217dcc55b",
+"2548de1e57",
+"c6e5dc7e71",
+"941127b7eb",
+"58027c1605",
+"cdcc8e2968",
+"8ce4437a40",
+"a77887351e",
+"7e778caf39",
+"f18c3c24a7",
+"3888ec83f7"
+],
+"section": "main"
+},
+"1992_2000:E019": {
+"law_from": "21",
+"law_to": "21",
+"records": [
+"d785a346bb",
+"d33577584a",
+"fff9afb6b2",
+"e74061a137",
+"d5f5d81752",
+"2389f868a9",
+"52f796c6e0",
+"66cc87659d",
+"e2b7aebb0e",
+"f3c7152a51",
+"b173e4cc7c",
+"478dda8f37",
+"17baa16e79",
+"93f827350e",
+"fb4a1fc228",
+"0e9805e02b",
+"52d9d49853",
+"afe26a2e6f",
+"0bef5e60a4",
+"333d243056",
+"0e3b1fd9f4",
+"0ef23b7c23",
+"20086b041f",
+"d6f5f1e2df",
+"223ff5db74",
+"e0a9b0f4bd",
+"bbe932ff61",
+"e05d9f315f",
+"de5b1ec5b2",
+"4f1875cae9",
+"764f8b9b6b",
+"ad02851b4d",
+"eb04126861",
+"851e4c9351"
+],
+"section": "main"
+},
+"1992_2000:E020": {
+"law_from": "22",
+"law_to": "22",
+"records": [
+"14a844434e",
+"0441036c64",
+"87d4dc0f5c",
+"490c16dccc",
+"086e56d14f",
+"22280bdf3c",
+"bae6dda79c",
+"01f045c9ed",
+"28e8e743ea",
+"2940fc794e",
+"6d755f6c6c",
+"5ee3c0d481",
+"d207a43db9",
+"afc532771c",
+"828bf1c0d2",
+"79b62a974a",
+"cd735c1871",
+"d7503314cd",
+"12004e7cb1",
+"3436d3943a",
+"3c0e5101c0",
+"cb76c85e99"
+],
+"section": "main"
+},
+"1992_2000:E021": {
+"law_from": "23",
+"law_to": "23",
+"records": [
+"173294830b",
+"7306da755e",
+"077b7ca484",
+"0abb197e65",
+"7eb19cd82d",
+"9ae6a345da",
+"b05fb39fec",
+"61748482b9",
+"b0483294a8",
+"2f09abf3a0",
+"96225e06c5",
+"b53be6526e",
+"4089596a22",
+"3219db442f",
+"c7b310c2e9",
+"2db85d8d5b",
+"64aee9ad7b",
+"4794670c1b",
+"e45e3dc2d7",
+"ac106e0c76",
+"de80c852b1",
+"d8df401424",
+"dd48d300e0",
+"2da7673237",
+"29a7123f6d",
+"870dd165ab",
+"cba1a789b3",
+"0ee84e31f4",
+"9dccbd0ee2",
+"359d56944b",
+"017fcb5443",
+"cbab30a600",
+"6038b7ef69",
+"5f6df86ea9",
+"fbf7fc125b",
+"d936f4f8de",
+"b93fbf335d",
+"777b036ba2",
+"84c9fb9518",
+"6cb57b1420",
+"a8af300c85",
+"c6153a0828"
+],
+"section": "main"
+},
+"1992_2000:E022": {
+"law_from": null,
+"law_to": "24",
+"records": [
+"47eff2ed8a",
+"8f52d534af",
+"7a3f4c484a",
+"4401b541db",
+"bf8a55ac77",
+"a0d973e596",
+"99c6e6744f",
+"b353c72605",
+"1c52028904",
+"617d703cbe",
+"15a1f14034",
+"e46902f129",
+"588525de8d",
+"2d0bbf85f4",
+"13617f074b",
+"a41349e833",
+"1c52028904",
+"99d45a0875",
+"37a3a56ef8",
+"2cd236a61e",
+"e3ed4bfed2",
+"ceacb4c2d2",
+"387534d0bf",
+"7d8269b799",
+"4bcc201b4c",
+"c23a6867d4",
+"54edd8d9ac",
+"6c1f44ecd2",
+"2f5e3a14aa",
+"0191bb997e",
+"39f8f16485",
+"aef6974441",
+"f0e2f8bf84",
+"9a24959862",
+"6d2212459e",
+"993288a99c",
+"eafd98eb71",
+"f56c873640",
+"dec28ec1e1",
+"92dc51cbbc",
+"ede3817eb4",
+"bc719ee9ca",
+"cd469be5ae",
+"f8450ae9d7",
+"f010b241f6",
+"6bc590b408",
+"0aefe21221",
+"bae50d7c3b",
+"3b61bd63e5",
+"1ab804dfd8",
+"9b1f25e97a",
+"89c73ae88a",
+"762683a05f",
+"1bbd67ed58",
+"e466c1ca25",
+"c8e2c7b17c",
+"f0b5abd76a",
+"2f97606d0b"
+],
+"section": "main"
+},
+"1992_2000:E023": {
+"law_from": "25",
+"law_to": "25",
+"records": [
+"1794e0f7ee",
+"707fabd1da",
+"359d6d3350",
+"23dd5189ee",
+"2ecff298c0",
+"067ebc59e4",
+"211d485e89",
+"ba00ce01dd",
+"3898dda1ee",
+"01139f05f1",
+"90d72a7888"
+],
+"section": "main"
+},
+"1992_2000:E024": {
+"law_from": "26",
+"law_to": "26",
+"records": [
+"3a1a697160",
+"6d2d1d868e",
+"14df41ab89",
+"cdd15942c8",
+"d2dc91daaa",
+"e2a8396d52",
+"6be336b790",
+"69830ee617",
+"1084c9c62e",
+"f32a0bcd8e",
+"f18c3c24a7",
+"8a500d36b5",
+"9762363307",
+"869e1e7271",
+"ec57d52283",
+"6e2eb93a92",
+"46a2cfbe48",
+"fc8fd772f8"
+],
+"section": "main"
+},
+"1992_2000:E025": {
+"law_from": "27",
+"law_to": "27",
+"records": [
+"6b54ff2723",
+"be0c98d1cf",
+"7f843b2f89",
+"28f49dd9e5",
+"20453cfbcf",
+"712db95973",
+"7c483f93ee",
+"36ea02e953",
+"1d65fb1d47",
+"3836a9f7e0",
+"f16ba2bce1",
+"14d294c144",
+"c7626f9d79",
+"8b49f3cae0",
+"6dcf09344d",
+"4e0a69f6ac",
+"bf14e6267b",
+"739d239501",
+"70a8f5477c",
+"f4e406ab55",
+"327e2b0b87",
+"34c2f56b3a",
+"edebce6fef",
+"6f252e82d4",
+"4eff939103"
+],
+"section": "main"
+},
+"1992_2000:E026": {
+"law_from": "28",
+"law_to": "28",
+"records": [
+"69571e69de",
+"8b2ea7e7e9"
+],
+"section": "main"
+},
+"1992_2000:E027": {
+"law_from": "28",
+"law_to": "28",
+"records": [
+"f37e0125fc",
+"537c2cbb9a",
+"b4881171a6"
+],
+"section": "main"
+},
+"1992_2000:E028": {
+"law_from": "28",
+"law_to": "28",
+"records": [
+"74a0ada2a7"
+],
+"section": "main"
+},
+"1992_2000:E029": {
+"law_from": "29",
+"law_to": "29",
+"records": [
+"46c43ca1aa",
+"d7bc9d7b6f",
+"5d40bda1a2",
+"a55925ad47",
+"32f4c9ead7",
+"7eed4354f1",
+"e15b68f221",
+"abc385ae28",
+"ebcf217714",
+"48d1f80f1b"
+],
+"section": "main"
+},
+"1992_2000:E030": {
+"law_from": "22",
+"law_to": "29",
+"records": [
+"09d1e96009"
+],
+"section": "main"
+},
+"1992_2000:E031": {
+"law_from": "3",
+"law_to": "3",
+"records": [
+"161e0f559d",
+"d697aecbde",
+"784fc13d2a",
+"ab35c040b9",
+"dca249323e",
+"0a5b699d31",
+"5fc465427b",
+"be0f114332",
+"1b760df18f",
+"4db7b981e4",
+"e8cff58bb2",
+"17ed90d8bd",
+"f727c91848",
+"0181d07b60",
+"830024ca99",
+"bbae28ae6f",
+"595e1a7adc",
+"d91903f7e5",
+"17ed90d8bd",
+"f51fcc534d",
+"507168dc6c",
+"8602b4040f",
+"e0b00173b3",
+"0d3bdc3cd0",
+"67a10b26bd",
+"e2c7499a5b",
+"daebb02e47",
+"3e60c4a2b5",
+"c135ef11f4",
+"b157c704df",
+"5e2c75baec",
+"63e0558b7a",
+"675c3f4847",
+"cc9ddce16e",
+"7a48c8ab89",
+"44d6998037",
+"084dc08e17",
+"535920aeab",
+"990a9279ba",
+"de55891a10",
+"a404b229b2",
+"bcbf9420b5",
+"a9fee91b09",
+"7d4a234eba",
+"e59d56ae94",
+"e159c56293",
+"1fffa2bc15",
+"c2743799f1",
+"abe117558e",
+"a71bb39043",
+"f4ee56e348",
+"a830e4283c",
+"6f62ff841f",
+"2dba45b61f",
+"2f1edd2aa0",
+"55a3991428",
+"af34a47f70",
+"dfddebaa49",
+"0b0763b678",
+"e6e5e95e0a",
+"ade6e3cde7",
+"51c77e9367",
+"d0c1e60a5e",
+"b961c7c41e",
+"3888fe14e7",
+"bb2f15055c",
+"e72018c040",
+"403ffc24c7",
+"79110143bb",
+"ad113babb0",
+"d27a1a2b75",
+"9a3dca4c12",
+"abe4e32094",
+"ea5f3fd990",
+"9a9aef0bfb"
+],
+"section": "main"
+},
+"1992_2000:E032": {
+"law_from": "30",
+"law_to": null,
+"records": [
+"c3443240e7",
+"26865772a6",
+"536d1f80fc",
+"8b8f79973f",
+"a4307e0876",
+"3bb8d6661d",
+"eeae722d7b"
+],
+"section": "main"
+},
+"1992_2000:E033": {
+"law_from": "31",
+"law_to": "31",
+"records": [
+"161883de29",
+"dab1f6ae00"
+],
+"section": "main"
+},
+"1992_2000:E034": {
+"law_from": "31",
+"law_to": "31",
+"records": [
+"1854120dfb"
+],
+"section": "main"
+},
+"1992_2000:E035": {
+"law_from": "32",
+"law_to": "32",
+"records": [
+"14ec476b49",
+"42c1f651a8",
+"c78df5b4b7",
+"d6d4d08983",
+"e4c08200a5",
+"37ba4d5156",
+"f4c4b24057",
+"b502c55ca0",
+"af08c2190e",
+"cb4433d8c3",
+"a2c1d4b0e9",
+"3c6ed6deca",
+"100daa1f1f",
+"3c4ec29655",
+"f85404f902",
+"e0e64beca6",
+"dd0345d302",
+"3b41f1978c",
+"5fe26a4a99",
+"4390b89d98",
+"49fe64cdd4",
+"b79b15b60a",
+"7eb19cd82d",
+"df9ec53db6",
+"44c676c2ce",
+"7eb19cd82d",
+"12ac286ca0",
+"30dac603be",
+"204b9e1ccc",
+"a2c83a437b",
+"aeae44f66d",
+"37d26d2893"
+],
+"section": "main"
+},
+"1992_2000:E036": {
+"law_from": "33",
+"law_to": "33",
+"records": [
+"1bbd452fea",
+"f744d0e45e",
+"05ee574df5",
+"46054b7c1e",
+"c7b9312353",
+"20b2488927",
+"278ce79d3c"
+],
+"section": "main"
+},
+"1992_2000:E037": {
+"law_from": null,
+"law_to": "34",
+"records": [
+"ce132727a2",
+"e5a7557668",
+"acddf9a518",
+"52076ceca7",
+"4187c69c2a",
+"ecfff65fe2",
+"74073102e6",
+"8f0c40b8ce",
+"c2986679cb",
+"7999a583e1",
+"addedb3aaa",
+"16366e2347",
+"21314fc847",
+"b34c683b2a",
+"03d11e448f",
+"8b26a150cb",
+"6dbe102863",
+"d71df8497f",
+"4c9276c8dc",
+"e28dc32798",
+"97c3091b77",
+"e6791c3701",
+"5d117dc917",
+"70058a3e31",
+"c41a0855a0",
+"06bb3389e9",
+"64939a6104",
+"d21ac8b4b9",
+"f32a0bcd8e",
+"f18c3c24a7",
+"83a40bcea6",
+"ab13cad053",
+"2f31a59cea",
+"02f21ccb91",
+"0078f01571",
+"46a2cfbe48",
+"00cb7b3cf9",
+"278ce79d3c"
+],
+"section": "main"
+},
+"1992_2000:E038": {
+"law_from": "35",
+"law_to": "35",
+"records": [
+"6703cfcbd4",
+"3018e91156",
+"0c62d3b3e0",
+"5af2539857",
+"758957803f"
+],
+"section": "main"
+},
+"1992_2000:E039": {
+"law_from": "36",
+"law_to": "36",
+"records": [
+"124e7dfc65",
+"58b7d4d697"
+],
+"section": "main"
+},
+"1992_2000:E040": {
+"law_from": "36",
+"law_to": "36",
+"records": [
+"a0cda98cd1"
+],
+"section": "main"
+},
+"1992_2000:E041": {
+"law_from": "37",
+"law_to": "37",
+"records": [
+"991fca0df4",
+"7d98b4cb2c",
+"8305da9fea",
+"aac82dde97",
+"70d93aadb3",
+"b5f3c7a453",
+"d951ace20a",
+"a3d797d905",
+"39032c71d6",
+"5445e9faf0",
+"e1d6f22b58",
+"ea3019a34a",
+"6649163734",
+"707d58ac82",
+"6649163734",
+"278ce79d3c"
+],
+"section": "main"
+},
+"1992_2000:E042": {
+"law_from": "38",
+"law_to": "38",
+"records": [
+"0720c346e4",
+"995b4bc2be",
+"bb75cb6bef",
+"8270e11c68",
+"b5e73ef215",
+"91158d0519"
+],
+"section": "main"
+},
+"1992_2000:E043": {
+"law_from": "38",
+"law_to": "38",
+"records": [
+"411f928a8e"
+],
+"section": "main"
+},
+"1992_2000:E044": {
+"law_from": "38",
+"law_to": "38",
+"records": [
+"4cd78188c4",
+"e30c06144f",
+"6df04a64ed"
+],
+"section": "main"
+},
+"1992_2000:E045": {
+"law_from": null,
+"law_to": "39",
+"records": [
+"507fe0d1d2",
+"730862211d",
+"160d8ad16f",
+"49c8e3ac53",
+"29e2233b1f",
+"d253c23554",
+"1404bff276",
+"2e24e9eb1b",
+"7ba737f985",
+"cdfaf9a639",
+"61accc2bd3",
+"b043ae6b9d"
+],
+"section": "main"
+},
+"1992_2000:E046": {
+"law_from": "4",
+"law_to": null,
+"records": [
+"6d9a10bad6",
+"c14e8f3c21",
+"2e4567c025",
+"2c7eb6f7ec",
+"e05d9f315f",
+"c552464f89",
+"79a96df88c"
+],
+"section": "main"
+},
+"1992_2000:E047": {
+"law_from": null,
+"law_to": "40",
+"records": [
+"d05f244c6c",
+"88a28e5ea1",
+"82ea4c0eda",
+"7adad94cb2",
+"e3ece08f9b",
+"0902ffb955",
+"0356a37e3d",
+"72508c12cb",
+"56f6070a1a",
+"d8390e204a",
+"8c1ac12029",
+"aefbf531cd",
+"571d1fe6f2",
+"1613096a07",
+"1543dcbc8b",
+"72143d7a4f"
+],
+"section": "main"
+},
+"1992_2000:E048": {
+"law_from": null,
+"law_to": "41",
+"records": [
+"474a560e95",
+"d875348238",
+"83dd69bd35",
+"7f85b4d3a6",
+"7cde085ba3",
+"7010f94bab",
+"0d80a026a7",
+"a2ceab13d6",
+"f65848708d",
+"2839678c68",
+"26100cd623",
+"bf18960f0f",
+"ce1c4312d8",
+"bb981d20fb",
+"43e91a4edb",
+"4d97f6c2cb",
+"a9a779d3fa",
+"34f4220326",
+"f8b95c8208",
+"f13c890bc5",
+"d9516f69ce",
+"dff4281f85",
+"da4a8cb881",
+"50a9288d5c",
+"8743c22daa",
+"869fbbf992",
+"d5be5706a7",
+"2715d7aa97",
+"1c73b879b6"
+],
+"section": "main"
+},
+"1992_2000:E049": {
+"law_from": "42",
+"law_to": "42",
+"records": [
+"4e814df9aa",
+"b3993b4acc",
+"2cd9994d6f",
+"9fb974f97e",
+"1f8ecc4569",
+"3011aad12b",
+"b655e88eca",
+"909657ffca",
+"299162334f",
+"f2a2fe141d",
+"bb3b65e7c3",
+"7d7d4b5507",
+"46973359fd",
+"f8157127ef",
+"6ece915571",
+"674677f69c",
+"03204b424a",
+"07fd948a96",
+"eb70080b8a",
+"b7f78223fb",
+"49aa814f91",
+"8b85432527",
+"69487f65c3",
+"b47b2d89db",
+"d176f40b4b",
+"0871b1ecf5",
+"906203239b",
+"ca9c57c0bf",
+"c85c5c0ade",
+"b47b2d89db",
+"f2e567f92d",
+"51b0434ca1",
+"5516a8b785",
+"4248df310f",
+"88f9fa3c43",
+"5c41680ec7",
+"5134404286",
+"6cad2264a2",
+"d1891dbf82",
+"109b5c4750",
+"3a571fa3eb",
+"b7f78223fb",
+"19e2775725",
+"1ccaa8db55",
+"9eef31e864",
+"dd2a22a006",
+"14ca52aedb",
+"216ba184bb",
+"c9df60802d",
+"88f9fa3c43",
+"59c587fac6",
+"7d206c8b24",
+"d0d85f68a5",
+"5aceedae04",
+"19e2775725",
+"49a22f4a6f",
+"b8f32476c7",
+"54bc15420d",
+"235f92bc2c",
+"50034124ef",
+"e567b1adcf",
+"729fb2777f",
+"cab13cb935",
+"f91a82681b",
+"99d109c49b",
+"ea93130d73",
+"f06e221973",
+"99af143a05",
+"453cf563eb",
+"af3aa3e2bb",
+"78e572712a",
+"aa63fd46a1",
+"cbc8ec523e",
+"b685b9f5ac",
+"a402ea0c88",
+"15a1f14034",
+"6dcdcf5168",
+"4bcc201b4c",
+"c85c5c0ade",
+"19f0a4aabc",
+"acdd3dbae5",
+"f93f7a224b",
+"8e8125e50d",
+"15a1f14034",
+"6dcdcf5168",
+"376b1b637a",
+"63bfd317d2",
+"0e355d346f",
+"cf4b18e771",
+"6cad2264a2",
+"90aa734cc8",
+"992eabbfea",
+"0e2ebea152",
+"4f0f346d74",
+"a3f1fb5df9",
+"0bdbf94687",
+"1844b4df5d",
+"7700c292cc",
+"bd5d595ea8",
+"9ae3518029",
+"9b6658c061",
+"021416b4b7",
+"38cfbd2c37",
+"d95e021ae5",
+"2dee9f6369",
+"af79b66d0a",
+"7c19ac3da7",
+"85ccc29218",
+"f1e5ca5a7f",
+"c8ccca724b",
+"06a00b1774",
+"2cc85e2f27",
+"f3e4269f9f",
+"5d9eaf3c8a",
+"3735df1f10",
+"4e6070b91e",
+"cbc8ec523e",
+"4c5455809f",
+"99a56cb495",
+"681bffe218",
+"e30adf085a",
+"0e2ebea152",
+"269201208c",
+"7fe721518d",
+"acdd3dbae5",
+"e436d8dd88",
+"862d242505",
+"9fb88f9144",
+"cbc8ec523e",
+"6cad2264a2",
+"6260ba6c8a",
+"b7f78223fb",
+"19e2775725",
+"44f3a51505",
+"493b42ab28",
+"95d4431351",
+"271e21ad49",
+"598e5ed525",
+"cbc8ec523e",
+"38cfbd2c37",
+"d3d8872dfb",
+"732dd9b30e",
+"e7af6e2ed5",
+"82d0ef1b72",
+"0078f01571",
+"18d2a3a606",
+"87ab9594f6",
+"68739df118",
+"19e2775725",
+"f01365318f",
+"73f792e7d0",
+"257fb3ccb3",
+"2615c896e7",
+"f401dc56a8",
+"44c80fa0d9",
+"1ab55eab1e",
+"a6029dee79",
+"355728237c",
+"19e2775725",
+"6c7294bbc2",
+"73f792e7d0",
+"00501f0d02",
+"978e305ff5",
+"1b82db7d66",
+"b1fd4928c9",
+"d61122b52b",
+"3a2f52e6ed",
+"522aaa04ca",
+"2126c3dabb",
+"f972a97ecf",
+"974c46c518",
+"05f7779c89",
+"5fea50bd1d"
+],
+"section": "main"
+},
+"1992_2000:E050": {
+"law_from": "22",
+"law_to": "42",
+"records": [
+"b2996ba733"
+],
+"section": "main"
+},
+"1992_2000:E051": {
+"law_from": "5",
+"law_to": "5",
+"records": [
+"54ce93cc21",
+"93620b2ac2",
+"ef07f2611f",
+"099c06afff",
+"2611e141a1",
+"ec0abd43bf",
+"94a904ec76",
+"7091896b08",
+"45651a1a2c",
+"79a6645719",
+"e6b396ad7c",
+"58eeb0cec3",
+"da64ea1057",
+"4c6c9ed79d",
+"970d6a97f4",
+"471652c62e",
+"6ae524a082",
+"b34772b1d1",
+"0208dbbdf9",
+"639a7b1d39"
+],
+"section": "main"
+},
+"1992_2000:E052": {
+"law_from": null,
+"law_to": "6",
+"records": [
+"1cf02de889",
+"835e2605ac",
+"edcbddf36d",
+"c07515292f",
+"44f566e85a",
+"bcdfc494fa",
+"1133a1b497"
+],
+"section": "main"
+},
+"1992_2000:E053": {
+"law_from": "7",
+"law_to": "7",
+"records": [
+"5aa7564871"
+],
+"section": "main"
+},
+"1992_2000:E054": {
+"law_from": "7",
+"law_to": "7",
+"records": [
+"2bcbb8a1d3",
+"17eb2a0934"
+],
+"section": "main"
+},
+"1992_2000:E055": {
+"law_from": null,
+"law_to": "8",
+"records": [
+"94d1a7a14a",
+"9dfd374948",
+"f5894ec4d9",
+"688ecc098a",
+"933e1f7f3c",
+"5f09f005ba",
+"626c0bc59e",
+"a4720427b6",
+"7a7c385888",
+"e46ac1fc9d",
+"7943be9d14",
+"70f14420f4",
+"149cc07232",
+"65619ac245",
+"dde9e6a6ed",
+"f1ce96a120",
+"2d165e01b0",
+"95c2e42b29",
+"9926bec1a4",
+"6b40147504"
+],
+"section": "main"
+},
+"1992_2000:E056": {
+"law_from": "9",
+"law_to": "9",
+"records": [
+"67d3aa9420",
+"ae12da96f1",
+"dad54e88ac",
+"2207296f1b",
+"a9f44f1123",
+"08985d0fa2"
+],
+"section": "main"
+},
+"2000_2008:E001": {
+"law_from": null,
+"law_to": "0",
+"records": [
+"077a8aa2d0"
+],
+"section": "APPENDIX"
+},
+"2000_2008:E003": {
+"law_from": null,
+"law_to": "0",
+"records": [
+"816c4f6cc1",
+"13b8fdd7c1",
+"0c591de374",
+"11a6d3644b",
+"e34f1c0c21",
+"3e46d2395e",
+"47b2187cf0",
+"581dabd588",
+"1437f5b50f",
+"645d7333c2",
+"92a850a74d",
+"b7116b6b78",
+"56615d3d10",
+"681d33c3aa",
+"88ccf854f9",
+"b91535f237",
+"b3317b51df",
+"a55c8609f2",
+"1acbc0e63a",
+"373daf76ff",
+"5a34c0639d",
+"5ee9b08abe",
+"9efb3d8732",
+"11748d5e29",
+"98a7f84787",
+"bd3365439a",
+"6d71a11237",
+"c6a1de6416",
+"b9c476604a"
+],
+"section": "APPENDIX"
+},
+"2000_2008:E005": {
+"law_from": "15",
+"law_to": "15",
+"records": [
+"d9ac56b418",
+"5376e102ae",
+"6fe4929bee"
+],
+"section": "main"
+},
+"2000_2008:E007": {
+"law_from": "17",
+"law_to": "17",
+"records": [
+"de634ece7d",
+"b4b992e24f"
+],
+"section": "main"
+},
+"2000_2008:E009": {
+"law_from": null,
+"law_to": "18",
+"records": [
+"021416b4b7",
+"38cfbd2c37"
+],
+"section": "main"
+},
+"2000_2008:E010": {
+"law_from": "18",
+"law_to": "18",
+"records": [
+"5c8e80dd0d",
+"e2bb2b38b3"
+],
+"section": "main"
+},
+"2000_2008:E011": {
+"law_from": "18",
+"law_to": null,
+"records": [
+"546142bc48"
+],
+"section": "main"
+},
+"2000_2008:E016": {
+"law_from": null,
+"law_to": "2",
+"records": [
+"cbab30a600"
+],
+"section": "main"
+},
+"2000_2008:E019": {
+"law_from": "21",
+"law_to": "21",
+"records": [
+"8ea5494576"
+],
+"section": "main"
+},
+"2000_2008:E020": {
+"law_from": "21",
+"law_to": "21",
+"records": [
+"a8a90a9dc5",
+"caf7eb61c0",
+"0f26c4d225"
+],
+"section": "main"
+},
+"2000_2008:E021": {
+"law_from": "22",
+"law_to": "22",
+"records": [
+"3f66c17a00"
+],
+"section": "main"
+},
+"2000_2008:E022": {
+"law_from": "22",
+"law_to": "22",
+"records": [
+"8392d88447"
+],
+"section": "main"
+},
+"2000_2008:E024": {
+"law_from": "26",
+"law_to": "26",
+"records": [
+"6d1453a09c",
+"a4597cae71",
+"f1ddeb3b37",
+"671b291fe6",
+"f8a234af62",
+"830625b957"
+],
+"section": "main"
+},
+"2000_2008:E025": {
+"law_from": "28",
+"law_to": "28",
+"records": [
+"c7177ba32b",
+"171d4227b8",
+"9438dfe342",
+"17da32c687"
+],
+"section": "main"
+},
+"2000_2008:E031": {
+"law_from": "32",
+"law_to": "32",
+"records": [
+"ec7082c41e"
+],
+"section": "main"
+},
+"2000_2008:E033": {
+"law_from": null,
+"law_to": "35",
+"records": [
+"3040acdee6",
+"b1f177a27a",
+"011d2dbcf7"
+],
+"section": "main"
+},
+"2000_2008:E034": {
+"law_from": "35",
+"law_to": "35",
+"records": [
+"15896fa950"
+],
+"section": "main"
+},
+"2000_2008:E036": {
+"law_from": "40",
+"law_to": "40",
+"records": [
+"8aea6b6535",
+"f3b10a9d1c",
+"ec0877867f",
+"0d41160f16",
+"bf701df5a0",
+"8d6495ad23"
+],
+"section": "main"
+},
+"2000_2008:E037": {
+"law_from": "40",
+"law_to": "40",
+"records": [
+"8c79490324",
+"f392c26a43"
+],
+"section": "main"
+},
+"2000_2008:E038": {
+"law_from": null,
+"law_to": "41",
+"records": [
+"cbab30a600"
+],
+"section": "main"
+},
+"2000_2008:E039": {
+"law_from": null,
+"law_to": "42",
+"records": [
+"b6fdb7a173",
+"5028e1026d"
+],
+"section": "main"
+},
+"2000_2008:E040": {
+"law_from": "42",
+"law_to": "42",
+"records": [
+"a92e5387cc"
+],
+"section": "main"
+},
+"2000_2008:E042": {
+"law_from": "42",
+"law_to": "42",
+"records": [
+"e7d9049c5b",
+"19e2775725",
+"80350207aa"
+],
+"section": "main"
+},
+"2000_2008:E043": {
+"law_from": null,
+"law_to": "42",
+"records": [
+"0078f01571"
+],
+"section": "main"
+},
+"2000_2008:E044": {
+"law_from": "42",
+"law_to": "42",
+"records": [
+"215beb228a",
+"e85e662a97"
+],
+"section": "main"
+},
+"2000_2008:E046": {
+"law_from": "5",
+"law_to": "5",
+"records": [
+"99d875291a"
+],
+"section": "main"
+},
+"2000_2008:E047": {
+"law_from": "5",
+"law_to": "5",
+"records": [
+"8e34f30f26",
+"defd44e4fd"
+],
+"section": "main"
+},
+"2000_2008:E048": {
+"law_from": "6",
+"law_to": null,
+"records": [
+"05ab5fb39c",
+"eeedafc7cd",
+"cf0a671417",
+"c4cb76d0f8",
+"47b7474e09",
+"44f5b343da",
+"905c82ec84",
+"3550f4776a",
+"4f034b6be6",
+"07d48bb24a",
+"0da72b55f9",
+"1b0caaa171",
+"608bfa751c",
+"8224a96e3f",
+"97df9fa67f",
+"93bf9df9fc",
+"4197cb534b",
+"b6ca9fe676",
+"228ffc0605",
+"0bbb73566d",
+"4ffd22e320",
+"289e63cd44",
+"e2b9e3006c",
+"f0ee28627d",
+"4e60e09d44",
+"e83e1890b1",
+"c6b2c80f9e",
+"f7905b9fc5",
+"4b6b0c36a8",
+"cbc334fe63",
+"beb67aa35b",
+"3a612e5fcc",
+"ec1a598d71",
+"f955b55fa7",
+"8de457427e",
+"64e43a65e0",
+"5811005803",
+"ca1a34cefb",
+"49b4c147e8",
+"82889023ac",
+"2cda43e0e0"
+],
+"section": "main"
+},
+"2000_2008:E050": {
+"law_from": "8",
+"law_to": "8",
+"records": [
+"5fc2c27fcd"
+],
+"section": "main"
+},
+"2000_2008:E051": {
+"law_from": null,
+"law_to": "8",
+"records": [
+"6182dc8f4a",
+"01124e26bb",
+"f3c6d5a8ab"
+],
+"section": "main"
+},
+"2008_2010:E001": {
+"law_from": null,
+"law_to": "D",
+"records": [
+"4d68ac01ea"
+],
+"section": "APPENDIX"
+},
+"2008_2010:E002": {
+"law_from": null,
+"law_to": "D",
+"records": [
+"395b8de55a",
+"ac56401fc5",
+"414819a30c",
+"732f980be6",
+"ab37a442e8",
+"8a019797e0",
+"de5d8ffe42",
+"9442270a00",
+"9e59dc741a",
+"2b1f5c9fd1",
+"8b799583b0",
+"a3c4408621",
+"e7aebdf2ee",
+"4a7af8d53e"
+],
+"section": "APPENDIX"
+},
+"2008_2010:E003": {
+"law_from": "D",
+"law_to": "D",
+"records": [
+"46ed80cbfe",
+"6b491def80",
+"7503ada5b1",
+"c890fdf20c",
+"03cb5b0bcc",
+"755f712b26",
+"ff7d205642",
+"16533b963b"
+],
+"section": "APPENDIX"
+},
+"2008_2010:E004": {
+"law_from": "E",
+"law_to": "E",
+"records": [
+"eebe0cab43",
+"d3a2348267",
+"442a0dc0a4",
+"42f59eb313"
+],
+"section": "APPENDIX"
+},
+"2008_2010:E005": {
+"law_from": "E",
+"law_to": "E",
+"records": [
+"46904e32ae",
+"ade7c16a59",
+"b837db0935",
+"7f99d7b4a8",
+"99868cc001"
+],
+"section": "APPENDIX"
+},
+"2008_2010:E006": {
+"law_from": "E",
+"law_to": "E",
+"records": [
+"8a75aa6588",
+"9b8acd15b5",
+"80c5cc2c5c"
+],
+"section": "APPENDIX"
+},
+"2008_2010:E010": {
+"law_from": "1",
+"law_to": "1",
+"records": [
+"7c19a5284d"
+],
+"section": "main"
+},
+"2008_2010:E011": {
+"law_from": "10",
+"law_to": "10",
+"records": [
+"89f2a0ee07",
+"02ddb980a2",
+"4abf6c33b2",
+"02902d880c",
+"d6f1e9af0c",
+"e975aed46b",
+"abf0b7452a",
+"156f826b51",
+"f5a8aaebb7",
+"954db6b4fb",
+"b6296300a7",
+"02048c8d46",
+"678642d069",
+"69e20dca37",
+"01833164ae",
+"b7315a0e4d",
+"9148d8ef01",
+"e17bd8a835",
+"fb7a177b4f",
+"fb1ae777a5",
+"f947f9480b",
+"14872c8ad8",
+"f37829a2d6",
+"9453c6fd59",
+"007dcf85bf",
+"ed975586fb",
+"0f84304859"
+],
+"section": "main"
+},
+"2008_2010:E012": {
+"law_from": "12",
+"law_to": "12",
+"records": [
+"0c57ac125e",
+"b77f12014c",
+"2618f2bd78",
+"8de84d881f",
+"1819260f92",
+"2c195ef0fc",
+"8be440acb8",
+"3e4d056494"
+],
+"section": "main"
+},
+"2008_2010:E019": {
+"law_from": "15",
+"law_to": "15",
+"records": [
+"bb06a0b667",
+"e0f75e7a9e",
+"1c158ba055"
+],
+"section": "main"
+},
+"2008_2010:E021": {
+"law_from": "15",
+"law_to": "15",
+"records": [
+"28df85ffae",
+"ec264e7a7b",
+"247946c7ea",
+"232d2a22af",
+"413297c354",
+"d6ca59c162"
+],
+"section": "main"
+},
+"2008_2010:E022": {
+"law_from": "15",
+"law_to": "15",
+"records": [
+"fb386b2efd"
+],
+"section": "main"
+},
+"2008_2010:E023": {
+"law_from": "16",
+"law_to": "16",
+"records": [
+"fc48a165ac",
+"3b690234e9",
+"5d2bf64e52",
+"00e539a083"
+],
+"section": "main"
+},
+"2008_2010:E025": {
+"law_from": "16",
+"law_to": "16",
+"records": [
+"8da18cd440",
+"bc2c8055fa",
+"38733c3015",
+"7c6c8b4d64",
+"0b5c6408ca"
+],
+"section": "main"
+},
+"2008_2010:E026": {
+"law_from": null,
+"law_to": "16",
+"records": [
+"41a4647362"
+],
+"section": "main"
+},
+"2008_2010:E027": {
+"law_from": "17",
+"law_to": "17",
+"records": [
+"850f5729b5",
+"01ff33a246",
+"ca7f526e8a",
+"2bdff5bb4b",
+"3969b9b590",
+"ddca31432d",
+"b094c81cd7",
+"1d8dd7c0d7",
+"a3a0443742",
+"19fff132c4",
+"fe0f426be1",
+"acc6d16869",
+"c8d69b6f51",
+"d3ccc90fa6",
+"87d81266a4",
+"849da3c298",
+"fbea81f13e",
+"589f3711da",
+"4479fb33fa",
+"14b7b39aa0",
+"34f639a9f7",
+"21499515f7",
+"b31408c390"
+],
+"section": "main"
+},
+"2008_2010:E031": {
+"law_from": "18",
+"law_to": "18",
+"records": [
+"2e9a43a8eb",
+"562090209a",
+"5b31dd8266",
+"b92243c0ad",
+"375289c1a5",
+"f3e0ada458",
+"25b1f0b113",
+"cdd3676993",
+"71b933c040",
+"bbc301e0bf",
+"b08572aacf",
+"8fa669ad6a",
+"5a3960e0a9",
+"ba3b130ca3"
+],
+"section": "main"
+},
+"2008_2010:E032": {
+"law_from": "18",
+"law_to": "18",
+"records": [
+"837db0e8bc",
+"6187f86239",
+"f0b656e5ea",
+"4551e9ee36"
+],
+"section": "main"
+},
+"2008_2010:E033": {
+"law_from": "18",
+"law_to": "18",
+"records": [
+"4c6bd6609d",
+"07986f13f8",
+"75af7a210b",
+"58ac5496bf",
+"3fcfbb5fd0",
+"dcd4f282b1",
+"2224d14b1f",
+"b10d9474ec",
+"3001344248",
+"520320c182",
+"1220cdb7b3",
+"a9be88c5dc",
+"0ad7c2a6fd",
+"d507f760ac",
+"4829a8b1d1",
+"9e84bab590",
+"c8ffe343a9",
+"de7555690f",
+"fbf49ed843",
+"e7adaa4e6c",
+"4c45c8ea5e",
+"803c57c5b1"
+],
+"section": "main"
+},
+"2008_2010:E036": {
+"law_from": "19",
+"law_to": "19",
+"records": [
+"7edf41005b",
+"41f03ec050",
+"b86865830d",
+"f1dca9cd42"
+],
+"section": "main"
+},
+"2008_2010:E037": {
+"law_from": "19",
+"law_to": null,
+"records": [
+"29cc187ed0",
+"a70269bbbb",
+"0a8bf9d7de",
+"a5a24d482d",
+"bd08de9fd5",
+"95b2a6fea5",
+"5d77accddd",
+"35d3978447"
+],
+"section": "main"
+},
+"2008_2010:E039": {
+"law_from": "2",
+"law_to": "2",
+"records": [
+"99b049737a",
+"c0cd84b48c",
+"610c4ba5e5",
+"48769152ef",
+"2a0a9d4541",
+"f472e0b82b",
+"3f5d21f35e",
+"8fa669ad6a",
+"4f3836b317",
+"f6b482168d",
+"e8cb17498e"
+],
+"section": "main"
+},
+"2008_2010:E040": {
+"law_from": "2",
+"law_to": "2",
+"records": [
+"62bc0974d8",
+"908b80db64",
+"6190df30d5",
+"068a23f678",
+"e9da9aced5",
+"2b570cacfb",
+"9d858e4840",
+"c8844c7b15",
+"1dfb1d0ae7",
+"b32debd324",
+"0749485559"
+],
+"section": "main"
+},
+"2008_2010:E041": {
+"law_from": "34",
+"law_to": "2",
+"records": [
+"bb0a62257c"
+],
+"section": "main"
+},
+"2008_2010:E042": {
+"law_from": "2",
+"law_to": "2",
+"records": [
+"af11cac518"
+],
+"section": "main"
+},
+"2008_2010:E044": {
+"law_from": "20",
+"law_to": "20",
+"records": [
+"d108e46244",
+"fd6eedc91f",
+"90dc21c8f9",
+"a38cd38ad0",
+"d570986f77",
+"052a495b34",
+"8fa669ad6a"
+],
+"section": "main"
+},
+"2008_2010:E045": {
+"law_from": null,
+"law_to": "21",
+"records": [
+"7e2ceb0f17",
+"cec9a094e5",
+"af4cd53941",
+"7e2ceb0f17",
+"7e41459a3f",
+"b81ce42182"
+],
+"section": "main"
+},
+"2008_2010:E046": {
+"law_from": "21",
+"law_to": "21",
+"records": [
+"bb85e9a4f4",
+"a561621b79",
+"ad0108e45d",
+"ce7ccad5ce",
+"512b828700",
+"1e86789d06",
+"6aca80ea83"
+],
+"section": "main"
+},
+"2008_2010:E047": {
+"law_from": "21",
+"law_to": "21",
+"records": [
+"86c6c324c1",
+"750d974f4f",
+"51a03985ea",
+"dd8e2142e0",
+"74c91d7122",
+"63f86ad87d"
+],
+"section": "main"
+},
+"2008_2010:E048": {
+"law_from": "22",
+"law_to": "22",
+"records": [
+"8ba32e0664",
+"952fc6c550",
+"e15e06d0d5",
+"e690002a89",
+"cea9f38a5b",
+"4546c18641",
+"fab3d85905"
+],
+"section": "main"
+},
+"2008_2010:E049": {
+"law_from": null,
+"law_to": "22",
+"records": [
+"6f218ac9f6",
+"c508b2fb80",
+"067b26b9ea",
+"8d92f06f43",
+"4761da5e82",
+"871d25a5ac",
+"1bbbf6c62d",
+"e9f71b995b",
+"e4d065afad"
+],
+"section": "main"
+},
+"2008_2010:E050": {
+"law_from": "22",
+"law_to": "22",
+"records": [
+"874e5cfc8e"
+],
+"section": "main"
+},
+"2008_2010:E051": {
+"law_from": null,
+"law_to": "23",
+"records": [
+"d9b04db8ae",
+"2c07dd74dd",
+"a9736e1985",
+"cbab30a600",
+"372732e2bd",
+"31a4fd6a73",
+"6ea69f6956",
+"d96fff4132",
+"07da070dbe"
+],
+"section": "main"
+},
+"2008_2010:E052": {
+"law_from": "23",
+"law_to": "23",
+"records": [
+"e34a67f59f",
+"0727c66b4d",
+"5cafe64585",
+"8872757ed6",
+"80feae7691",
+"efdc84a239",
+"cbab30a600",
+"8c5413d822"
+],
+"section": "main"
+},
+"2008_2010:E053": {
+"law_from": "23",
+"law_to": "23",
+"records": [
+"5628223daf",
+"017b46bd97",
+"761e267fe9",
+"4b37f53ebf",
+"ac6ff21849",
+"2cf06a160c",
+"83e4f4dca0"
+],
+"section": "main"
+},
+"2008_2010:E054": {
+"law_from": "24",
+"law_to": "24",
+"records": [
+"98c184eb98",
+"0831dedf9a",
+"6db4204f49",
+"19517c52e9"
+],
+"section": "main"
+},
+"2008_2010:E055": {
+"law_from": "24",
+"law_to": "24",
+"records": [
+"75469812df",
+"a8ae4ddb08",
+"45c5444e53",
+"8e75ac1ef7",
+"3bbd761275",
+"1b838ff27a",
+"075f8d2e85",
+"af276e8249",
+"f97815ac8a",
+"516a279038",
+"410d522c61",
+"644ef07169"
+],
+"section": "main"
+},
+"2008_2010:E058": {
+"law_from": "25",
+"law_to": "25",
+"records": [
+"f3e6209a7a",
+"dd3477478e",
+"4ef637d218"
+],
+"section": "main"
+},
+"2008_2010:E059": {
+"law_from": "26",
+"law_to": "26",
+"records": [
+"da07adc040",
+"e4d57f00a6",
+"e2d9dae88e",
+"8c64b10a4e",
+"795c081a24"
+],
+"section": "main"
+},
+"2008_2010:E060": {
+"law_from": "26",
+"law_to": "26",
+"records": [
+"b4672ad955",
+"8fa669ad6a"
+],
+"section": "main"
+},
+"2008_2010:E062": {
+"law_from": "27",
+"law_to": "27",
+"records": [
+"4de135f0d9",
+"344b527f66",
+"ab81911789",
+"ae91ea617f"
+],
+"section": "main"
+},
+"2008_2010:E063": {
+"law_from": "27",
+"law_to": "27",
+"records": [
+"5615d6a1f7",
+"e4da5d0931"
+],
+"section": "main"
+},
+"2008_2010:E064": {
+"law_from": "28",
+"law_to": "28",
+"records": [
+"c03b686dd1",
+"14948c3c4b",
+"78be186551",
+"797ed24319",
+"9f3f4b0b66",
+"13d40fb644"
+],
+"section": "main"
+},
+"2008_2010:E065": {
+"law_from": null,
+"law_to": "29",
+"records": [
+"0730890981",
+"79f3ce7c1e",
+"21690d3287",
+"1a54427e05",
+"9e2d0b79ac",
+"932422c95c",
+"c8db711e36",
+"762ae95574"
+],
+"section": "main"
+},
+"2008_2010:E067": {
+"law_from": "3",
+"law_to": "3",
+"records": [
+"6a5a6489d6",
+"a1b10d4956",
+"a2cc649243",
+"b339642c2a",
+"aebf00f92d",
+"7a0c72c651",
+"365e4d1f34",
+"0ed3449f56",
+"e52c1a934f",
+"62d393e8e6",
+"f34dcc2311",
+"7b9d7343f4",
+"a4d6b0cc48",
+"e7acf94401",
+"46b61b6441",
+"6bd30afd0f",
+"a24584e98a",
+"94e604cc96",
+"2fd7de0869",
+"c89801e16e",
+"aef26ce069",
+"68c479ed29",
+"258fb96294",
+"60c48dc333",
+"a5f8416f3f",
+"56da6c2c1d",
+"e3a47286f5",
+"8de5d0df2c",
+"ca169a86c9",
+"441e4ce2bc",
+"4e1a08b97a",
+"4d57ad9e32",
+"34618779fe"
+],
+"section": "main"
+},
+"2008_2010:E068": {
+"law_from": "3",
+"law_to": "3",
+"records": [
+"371656faf2",
+"8e3ff1ead1",
+"105f2f43b7",
+"7431af6f31",
+"ea83ebc2b9",
+"ff38fb5d6d",
+"e4404f3084",
+"9bf311ff85",
+"e45b892f28"
+],
+"section": "main"
+},
+"2008_2010:E069": {
+"law_from": "31",
+"law_to": "31",
+"records": [
+"28304cddf0"
+],
+"section": "main"
+},
+"2008_2010:E070": {
+"law_from": "32",
+"law_to": "32",
+"records": [
+"256f885f59",
+"08adef13e6",
+"5d6638251a"
+],
+"section": "main"
+},
+"2008_2010:E071": {
+"law_from": "32",
+"law_to": "32",
+"records": [
+"13338ea603"
+],
+"section": "main"
+},
+"2008_2010:E072": {
+"law_from": "32",
+"law_to": "32",
+"records": [
+"174d40438b",
+"082d26bd25",
+"0f2729bebf",
+"18c46eb9cd",
+"3b89267a14",
+"685e02f659",
+"7fd5f6a236"
+],
+"section": "main"
+},
+"2008_2010:E074": {
+"law_from": null,
+"law_to": "33",
+"records": [
+"f2d64f7019",
+"cdb9786173",
+"45d33367de",
+"ebc5824368",
+"87f2065bcd",
+"d14b67b274",
+"c0907cd31e"
+],
+"section": "main"
+},
+"2008_2010:E076": {
+"law_from": "34",
+"law_to": "34",
+"records": [
+"e395d1ec0c",
+"9baad5d42e",
+"878088480f",
+"815c93b16c",
+"0c54ce07b8",
+"fd28cf92fd",
+"4f7dab1fbf",
+"8fa669ad6a",
+"c2f649f556",
+"9f998244b9"
+],
+"section": "main"
+},
+"2008_2010:E078": {
+"law_from": "35",
+"law_to": "35",
+"records": [
+"90b4759e29",
+"747963928f"
+],
+"section": "main"
+},
+"2008_2010:E081": {
+"law_from": "37",
+"law_to": "37",
+"records": [
+"810ddac762",
+"30c4bde35c",
+"f8f46424a4",
+"f41df8e2ac",
+"46b15be076",
+"c025db1772",
+"f2585d1fa5",
+"54a19e7a43",
+"216b4b4a5a",
+"08d78d9eda",
+"cf4b4a6da9",
+"cf4b4a6da9"
+],
+"section": "main"
+},
+"2008_2010:E082": {
+"law_from": "38",
+"law_to": "38",
+"records": [
+"e0d500461f",
+"b6e4c45f68",
+"e16f7c23ce"
+],
+"section": "main"
+},
+"2008_2010:E083": {
+"law_from": "38",
+"law_to": "38",
+"records": [
+"be1bdb1ac3",
+"4373e660ae",
+"7ca577d919",
+"c460c03c4f",
+"f0162c8369",
+"862e22ce72",
+"8fa669ad6a",
+"dfe0c429ae"
+],
+"section": "main"
+},
+"2008_2010:E084": {
+"law_from": "39",
+"law_to": "39",
+"records": [
+"878513ec02",
+"80169e1b32",
+"7d7e6f6040"
+],
+"section": "main"
+},
+"2008_2010:E086": {
+"law_from": "39",
+"law_to": "39",
+"records": [
+"c66eca02f1"
+],
+"section": "main"
+},
+"2008_2010:E087": {
+"law_from": "40",
+"law_to": "40",
+"records": [
+"f5b5316968",
+"fb84186af6",
+"eb450bc4d0"
+],
+"section": "main"
+},
+"2008_2010:E090": {
+"law_from": "41",
+"law_to": "41",
+"records": [
+"02090ea77b",
+"725ae7763e",
+"e1fd26017b",
+"8fa669ad6a",
+"af864c30df",
+"6af80d1177",
+"84ee6b48e5",
+"2aaab13ac9",
+"cbab30a600",
+"9f6321046f",
+"7e13a6620a",
+"7c9c92faf9",
+"008417f0ea",
+"35c9a48039",
+"044f868f45",
+"5e9f05a9f8",
+"64572299c6",
+"38070fd4e5",
+"da0fbf2cf5"
+],
+"section": "main"
+},
+"2008_2010:E092": {
+"law_from": "42",
+"law_to": "42",
+"records": [
+"155d7b0876",
+"dfee80ca66",
+"b1379ec763",
+"b01fc46954",
+"c87dcafebb",
+"036576721d",
+"b735f93133",
+"d880e429ef"
+],
+"section": "main"
+},
+"2008_2010:E093": {
+"law_from": "42",
+"law_to": "42",
+"records": [
+"105cda1990",
+"86086b985d",
+"78e933f5b4",
+"cef068d954",
+"1a3735f83a",
+"97383506dd",
+"0cf226f4f9",
+"c8ea550f69",
+"14e84a32e8",
+"b738ac9d65",
+"94c0af7338",
+"549ae03518",
+"b735f93133",
+"e7d32994a8",
+"9c860ee11f",
+"528f9cfe27",
+"b4f8cc9f02",
+"95fea7be3a",
+"02e4a9cb7c",
+"d8d40b0be0",
+"b735f93133",
+"b738ac9d65",
+"129909a37d",
+"8e01bff549",
+"019d31541f",
+"0858ccb849",
+"1f193b56ae",
+"ec5a67f1fc",
+"e9b829183d"
+],
+"section": "main"
+},
+"2008_2010:E094": {
+"law_from": "42",
+"law_to": "42",
+"records": [
+"3d33616945",
+"107771e7cf",
+"4de784593b",
+"e9b11de143",
+"591f926263",
+"1867500fe6",
+"99d45a0875",
+"6fdbc7fd69",
+"81e3328d17",
+"1a3735f83a",
+"d7cff40d22",
+"55d7464940",
+"3c44181da0",
+"15a556e27c",
+"f458a478af",
+"5cc7a48941",
+"b213e8b390",
+"1a3735f83a",
+"d7cff40d22",
+"85021bb4c1",
+"2c92112405",
+"1f603d96db",
+"e11e17cfdc",
+"f70840eec3",
+"07b821bdcb",
+"494bfc7a0c",
+"261476ecf5",
+"73f796dff4",
+"94c0af7338",
+"d623a44d90",
+"fa97c319c9",
+"494bfc7a0c",
+"68b7caa46a",
+"0be10364a5",
+"1a3735f83a",
+"2e9ce3878b",
+"71708dcf83",
+"b735f93133",
+"cfafc9b531"
+],
+"section": "main"
+},
+"2008_2010:E095": {
+"law_from": "42",
+"law_to": "42",
+"records": [
+"8796f7af50",
+"375289c1a5",
+"9952dd2dfb",
+"9152758f9c",
+"49bae76a1b",
+"85021bb4c1",
+"7c787462ba",
+"8244e267e1",
+"81552f91e6",
+"729939cf3b",
+"24a8de80ce",
+"2e60efed6e",
+"d2e64d60f7",
+"35ce7dcd75",
+"652dd4bf71",
+"6eb1f72c06",
+"b735f93133",
+"99d45a0875",
+"071b1637b1",
+"26d3c6a88d",
+"b7eed2804d",
+"2e9ce3878b",
+"6ff5eae3a4",
+"85021bb4c1",
+"6748fdc379",
+"15a556e27c",
+"75c18d721f",
+"d9dd6c178d",
+"261476ecf5",
+"01d88ad8ab",
+"cc6a6fefb1",
+"94c0af7338",
+"b91fc8b375",
+"5b31dd8266",
+"b735f93133",
+"55d7464940",
+"f882f46754",
+"dbe25a50c6",
+"a4cf4e4895",
+"5dd2ece681",
+"5b31dd8266",
+"6821099cb1",
+"cc6a6fefb1",
+"b735f93133",
+"5f9b06c2c0",
+"2360323595",
+"c4ecdf6978",
+"261476ecf5",
+"fe2279c1ed",
+"90f2a7b9f5",
+"faf3fb834c",
+"988e81d1d8",
+"602ecb9cc0",
+"e9eaf84c73",
+"f1ac52f41f",
+"227e43f11c",
+"9e66de7233",
+"0386706068",
+"07d3badb93",
+"bd4d4a85ff",
+"ef832eca14",
+"2761537dff",
+"c6277d0abe",
+"85356d3390"
+],
+"section": "main"
+},
+"2008_2010:E096": {
+"law_from": "5",
+"law_to": "5",
+"records": [
+"aa03914138"
+],
+"section": "main"
+},
+"2008_2010:E098": {
+"law_from": "5",
+"law_to": "5",
+"records": [
+"a793afaa0d",
+"bfe22fcf50"
+],
+"section": "main"
+},
+"2008_2010:E100": {
+"law_from": "7",
+"law_to": "7",
+"records": [
+"b48505cfc7",
+"1d57e7428b"
+],
+"section": "main"
+},
+"2008_2010:E103": {
+"law_from": "8",
+"law_to": "8",
+"records": [
+"9f5f68acd2",
+"32b14ed077"
+],
+"section": "main"
+},
+"2008_2010:E104": {
+"law_from": "9",
+"law_to": "9",
+"records": [
+"c6252541f2"
+],
+"section": "main"
+},
+"2010_2017:E001": {
+"law_from": "D",
+"law_to": "A",
+"records": [
+"a24f38ee6f",
+"7e2f31371f",
+"cdd2d8211b"
+],
+"section": "APPENDIX"
+},
+"2010_2017:E002": {
+"law_from": null,
+"law_to": "B",
+"records": [
+"827fd22c1c",
+"e59ba7b1d3",
+"35415bb8be",
+"5d1b4948f1",
+"0260dfe8ef",
+"555caca902",
+"00ffa37de6",
+"e4770b95b4",
+"e4638886cf",
+"07ec01c92a",
+"7689b9795b",
+"590774e029",
+"6cdfdfcce5",
+"3062c90274",
+"8c0b135116",
+"c08bf0059b",
+"8aac9736f9",
+"52497c9cb4",
+"59108052df",
+"109f760c53",
+"b5e26f8777",
+"4a880a3d7b",
+"0f504eda7b",
+"2062d0471b",
+"d79d772fc3",
+"1a3a0a881f",
+"040b3902d9",
+"5308b9949b",
+"173a86a796",
+"671927d6e4",
+"ef7bd60c3d",
+"b6497f78b4",
+"311eccfba7",
+"676f02ad2e",
+"07c29bfe8c",
+"e08b4fd962",
+"b8488cd813",
+"e8028dd922",
+"3c6d9cd76c",
+"e483324879",
+"93c672d571",
+"c8a2155b6e",
+"b41fabcd1d",
+"ee87cd8f12",
+"22106d44e1",
+"f8b28775c5",
+"39574be647",
+"8ff8f8f6c3",
+"62e32e94db",
+"7ae1b593e1"
+],
+"section": "APPENDIX"
+},
+"2010_2017:E003": {
+"law_from": "D",
+"law_to": null,
+"records": [
+"441b297fe5",
+"430a46495f",
+"af114ff411",
+"1fb1c204b4",
+"3305211458",
+"c86ba54e00",
+"d69fdaaeb0",
+"d5544efebd",
+"b037f460a3",
+"66650056ec",
+"fd90cc8162",
+"1d8aeced7c",
+"c220b3326a",
+"42422588f5",
+"1638a21dcb",
+"39f5eeeb01",
+"bd16bf1d6b",
+"192609bd81",
+"d457f66690",
+"bd16bf1d6b",
+"e1b1b38197",
+"097c7e6ca8",
+"f7350253ad",
+"e53bf95342",
+"abc4cbb3be",
+"bdd448806d",
+"704f7d77ff",
+"2209a6bf96",
+"bc17c04af3",
+"27152ddbef",
+"d2ab110ada",
+"cd30728778",
+"67be944383",
+"7834b66128",
+"bd9a37bb99",
+"0322f3204d",
+"9920eb11e6",
+"63b09d54fb",
+"3844f2fd2a",
+"fffc115f37",
+"39ecc31a7d",
+"807c9a2c69",
+"5f49eb9e3d",
+"17f20bc314",
+"beced2e665",
+"6dfa0be983",
+"6e86abcb79",
+"6941a94bc6",
+"a5f721a9b1",
+"c6e8899cb0",
+"1a94023468",
+"a2146f3fcc",
+"8a5720c6da",
+"153dba0098",
+"d19b724bfc",
+"d3e32ba5c9",
+"56e57159de",
+"baa5217e15",
+"bb61f1a5cb",
+"7c480983fd",
+"c4d627a90f",
+"6c4395fff7",
+"7d66146a48"
+],
+"section": "APPENDIX"
+},
+"2010_2017:E004": {
+"law_from": "0",
+"law_to": "0",
+"records": [
+"f64a972675",
+"b46b9968a4",
+"1b26f7899e",
+"aa5fd7e33e",
+"4bcea9d15d",
+"eac31813cb",
+"cfd0b7d9cc",
+"d5e5130c69",
+"4bb3808e64",
+"68f96f228d",
+"ebafd61e20",
+"e043449c45",
+"c6c5c8c83c",
+"8754cf5e67",
+"4d542e2325",
+"e3b94576b1",
+"8110d4b76d",
+"63e3f277f9",
+"1aa8c37bc4",
+"6d29d15b7e",
+"f2d4ac844b",
+"bbacd44f7d"
+],
+"section": "PREAMBLE"
+},
+"2010_2017:E005": {
+"law_from": null,
+"law_to": "1",
+"records": [
+"e38fcdf554",
+"8da15f3386",
+"f9c8ae1f39",
+"6246954d28",
+"f15628f096",
+"b21452955f",
+"e4fe326efe",
+"4a697856a6",
+"c32af249ad",
+"37cd1899b6",
+"b8005c28c2"
+],
+"section": "main"
+},
+"2010_2017:E006": {
+"law_from": "11",
+"law_to": "10",
+"records": [
+"cb31caf69d",
+"822a56569e",
+"799ac5d0d5",
+"151709c082"
+],
+"section": "main"
+},
+"2010_2017:E007": {
+"law_from": "15",
+"law_to": "11",
+"records": [
+"c0ff1fa390",
+"9b97ea5479",
+"2550461584",
+"e72f7e17a3",
+"14f1e67c54",
+"5d2787201e",
+"ea465cd826",
+"fc4220f43b",
+"d08eecc0e3"
+],
+"section": "main"
+},
+"2010_2017:E008": {
+"law_from": "15",
+"law_to": "11",
+"records": [
+"70f62b50a4",
+"9b6e1540bd",
+"59e4f2fb31"
+],
+"section": "main"
+},
+"2010_2017:E009": {
+"law_from": "15",
+"law_to": "11",
+"records": [
+"70f62b50a4",
+"955fa24ec1",
+"8d0e729195",
+"f44b6f59d0",
+"35d0ebf976",
+"ecdc9c2cec",
+"5315340e85",
+"0cdd159dfb",
+"e70b0ebfeb"
+],
+"section": "main"
+},
+"2010_2017:E010": {
+"law_from": "16",
+"law_to": "12",
+"records": [
+"979c2dfc59",
+"3a07c65240",
+"b600c22f17",
+"85d5ec1216",
+"034c6bf8a8",
+"b06c135b8f"
+],
+"section": "main"
+},
+"2010_2017:E011": {
+"law_from": "16",
+"law_to": "12",
+"records": [
+"cc2a071efd",
+"b2c55fc822"
+],
+"section": "main"
+},
+"2010_2017:E012": {
+"law_from": "16",
+"law_to": "12",
+"records": [
+"21e89bbd0c",
+"d88e12e5e6",
+"31bf22fd31",
+"b4804e32cf",
+"18e51cbe92",
+"04b5760cc9",
+"e4b9911b00",
+"1a609ef6e6"
+],
+"section": "main"
+},
+"2010_2017:E014": {
+"law_from": "12",
+"law_to": "13",
+"records": [
+"62f5ad61ee",
+"78eaeb9be7",
+"37bfefa8bd"
+],
+"section": "main"
+},
+"2010_2017:E015": {
+"law_from": "12",
+"law_to": "13",
+"records": [
+"7c45775487",
+"af64f5c3f1",
+"4a6b75154c"
+],
+"section": "main"
+},
+"2010_2017:E016": {
+"law_from": "13",
+"law_to": "14",
+"records": [
+"c74c612bfa",
+"403087383a",
+"a23bac6c69",
+"bc5f8987ab",
+"ef1c81c8b9",
+"bcaaad8967",
+"e0cc0252eb",
+"1de7241040"
+],
+"section": "main"
+},
+"2010_2017:E017": {
+"law_from": "14",
+"law_to": null,
+"records": [
+"e0cc0252eb",
+"bc5f8987ab"
+],
+"section": "main"
+},
+"2010_2017:E019": {
+"law_from": "21",
+"law_to": "16",
+"records": [
+"e86323a1dc",
+"89703e66db",
+"9bdf9c7c96",
+"7e846fd2d1",
+"d23c944bbc",
+"c00d5cf795"
+],
+"section": "main"
+},
+"2010_2017:E020": {
+"law_from": "21",
+"law_to": "16",
+"records": [
+"d4004355e2"
+],
+"section": "main"
+},
+"2010_2017:E022": {
+"law_from": "22",
+"law_to": "17",
+"records": [
+"3771ba2067",
+"445dfa87eb",
+"a6cc5b0dcc",
+"9454b53b8e",
+"7ca4353b27",
+"f990f9e987",
+"3e22af23a7",
+"bc5e55a545"
+],
+"section": "main"
+},
+"2010_2017:E023": {
+"law_from": "22",
+"law_to": "17",
+"records": [
+"fb33337f49",
+"d7503314cd",
+"f8509075e5"
+],
+"section": "main"
+},
+"2010_2017:E024": {
+"law_from": "18",
+"law_to": "18",
+"records": [
+"d137c83caa",
+"94fe4ce937"
+],
+"section": "main"
+},
+"2010_2017:E025": {
+"law_from": "18",
+"law_to": "18",
+"records": [
+"87c3aa0d9c",
+"4726b7e68d"
+],
+"section": "main"
+},
+"2010_2017:E026": {
+"law_from": "18",
+"law_to": "18",
+"records": [
+"7f62ee21b0",
+"d9048ba63e",
+"a9675fcb6f",
+"ccc475a723",
+"5b11488e6b"
+],
+"section": "main"
+},
+"2010_2017:E027": {
+"law_from": "18",
+"law_to": "18",
+"records": [
+"6b267aaec5",
+"7779a6c382",
+"2b3e6a8d59",
+"44f925e993",
+"c09553a0a4",
+"0b5863243b",
+"e178f1533b"
+],
+"section": "main"
+},
+"2010_2017:E028": {
+"law_from": "18",
+"law_to": "18",
+"records": [
+"3678473ff7",
+"35eafd1d48",
+"3e9a93b523",
+"fce7731e51",
+"3f3f6eeb22",
+"3fbfd0c188",
+"caf7382b0e",
+"8db3af0ade",
+"27825639e8",
+"64866b4525",
+"9f35669274"
+],
+"section": "main"
+},
+"2010_2017:E029": {
+"law_from": "19",
+"law_to": "19",
+"records": [
+"a1793ddf89",
+"b3c0dca56c",
+"a707cc967e",
+"ce8c4753eb",
+"09394660ca",
+"f840b9d3da",
+"2751a8e963",
+"ad92bf8d10",
+"a374c57df3",
+"b59c362c20",
+"c7f3a57780",
+"02892f178a",
+"4a1197fab0",
+"9511883508",
+"2e73ae6a41",
+"d4b5b6919e",
+"59b2bdc4d1",
+"c417db50d2",
+"8b2af74562",
+"9c03e5c7ea",
+"3f8e6b9ff3",
+"3815c6383d",
+"8747b5d01a",
+"95ad6e6296",
+"837065c03a",
+"18d041c2f2",
+"85470c4874",
+"1622177a47",
+"f5aa3344e3",
+"2cb6d0f5e8",
+"aa11b4830f",
+"44bf2c7761",
+"d3dab18de9",
+"f29b244ad3",
+"854c73b9dc",
+"1701b123e6",
+"878c7e05e2",
+"a911f8865e",
+"2b6a5d0923",
+"421d8c5e13",
+"606af9d2ee",
+"11efb2ee7a",
+"df9dd17729",
+"d655c09dd0",
+"98f4f6e7b8",
+"b7ac6d88e6",
+"22d61137bc",
+"532900078d"
+],
+"section": "main"
+},
+"2010_2017:E030": {
+"law_from": "3",
+"law_to": "2",
+"records": [
+"a07a7eb34a",
+"3d04d902a8",
+"4a54296929",
+"870c0e31d4",
+"9beeff59d1",
+"d7077a00f7",
+"1aec366765",
+"d931d2397d",
+"49ec639f3c",
+"93cc7f859c",
+"15cc634e9b",
+"fb1a16e090",
+"ab0bbe8fda",
+"f0f396ae63",
+"d8c505a44e",
+"df835cd8d5"
+],
+"section": "main"
+},
+"2010_2017:E031": {
+"law_from": "3",
+"law_to": "2",
+"records": [
+"bd610af30a",
+"072bbdcb91",
+"a3911cafd9",
+"b84d7111f8",
+"9537a88b91",
+"f7761d38ac",
+"1995b99fcb",
+"4768d97c8a"
+],
+"section": "main"
+},
+"2010_2017:E032": {
+"law_from": null,
+"law_to": "2",
+"records": [
+"6004aaba64",
+"7062df996a",
+"7cf7fbdd6b",
+"44f2d99073",
+"eb14df0d6e"
+],
+"section": "main"
+},
+"2010_2017:E033": {
+"law_from": "3",
+"law_to": "2",
+"records": [
+"08566cb38c",
+"6c468f550e",
+"ba481eeead",
+"eb0e0a65c8",
+"7763dc4222",
+"90a614c6be",
+"4b2ccfcb87",
+"b1ba2de003"
+],
+"section": "main"
+},
+"2010_2017:E034": {
+"law_from": "20",
+"law_to": null,
+"records": [
+"f668a2a737"
+],
+"section": "main"
+},
+"2010_2017:E035": {
+"law_from": "23",
+"law_to": "20",
+"records": [
+"9c01684b43",
+"cfc386c66a",
+"572c0ea01b",
+"6052bc8f66",
+"db103f8e25",
+"fc02e3088c",
+"628347e764",
+"d19b62e27e",
+"25c5fc7db3",
+"2e315f6745"
+],
+"section": "main"
+},
+"2010_2017:E036": {
+"law_from": "23",
+"law_to": "20",
+"records": [
+"eebd20d754",
+"d9e47e3a75",
+"18cf7c7dd2",
+"2281d10985",
+"b1e4d717df",
+"c588742c70",
+"e6f11e218e",
+"3a4a0c0674",
+"b8aa29c75e",
+"6cd032b7b9",
+"9455da7c31",
+"dfe612b6b2"
+],
+"section": "main"
+},
+"2010_2017:E037": {
+"law_from": "24",
+"law_to": "21",
+"records": [
+"0eb0855527",
+"0c0c27b9fe",
+"8b692d269e",
+"d291ca72ee",
+"24bf7328d8",
+"366e990a35",
+"eba73a2117",
+"76473108bd",
+"e9229b416e",
+"d4c2e9fe04",
+"06c1e67cbc"
+],
+"section": "main"
+},
+"2010_2017:E038": {
+"law_from": "24",
+"law_to": "21",
+"records": [
+"ce3583b34c"
+],
+"section": "main"
+},
+"2010_2017:E039": {
+"law_from": "24",
+"law_to": "21",
+"records": [
+"5b16c7caa1",
+"dc4a6c1671",
+"ab88b538da",
+"069d091445",
+"928d05868c",
+"dafa2d56fc",
+"6c57f2ca0a",
+"af2b90b838"
+],
+"section": "main"
+},
+"2010_2017:E040": {
+"law_from": "25",
+"law_to": "22",
+"records": [
+"fc6f2fd8c2",
+"c4d6c37b1d",
+"e766a09101",
+"9cadf74869",
+"aa519a4d93",
+"ee975bfd85",
+"cda043686f",
+"1718384619",
+"67e2c7ab7f"
+],
+"section": "main"
+},
+"2010_2017:E042": {
+"law_from": "25",
+"law_to": "22",
+"records": [
+"6c57f2ca0a",
+"cba7c6d70d"
+],
+"section": "main"
+},
+"2010_2017:E043": {
+"law_from": "26",
+"law_to": "23",
+"records": [
+"7a00716ce8",
+"2f25c8da33"
+],
+"section": "main"
+},
+"2010_2017:E044": {
+"law_from": "23",
+"law_to": null,
+"records": [
+"c7caf664cf",
+"658a712c48"
+],
+"section": "main"
+},
+"2010_2017:E045": {
+"law_from": "26",
+"law_to": "23",
+"records": [
+"a8e4aa3a3f",
+"57dd7092ed",
+"b3b9be6b3f",
+"df9a0774e9",
+"756e234535",
+"034de3acbf",
+"59db48e1c3",
+"f572b5275a",
+"c150254a91",
+"cd33b1a431",
+"38b273bc8c",
+"a4dce1b929",
+"7178def13d"
+],
+"section": "main"
+},
+"2010_2017:E046": {
+"law_from": null,
+"law_to": "24",
+"records": [
+"a53aea06a9"
+],
+"section": "main"
+},
+"2010_2017:E047": {
+"law_from": "2",
+"law_to": "25",
+"records": [
+"367e8bf614",
+"5110d154c7",
+"769ca41439",
+"9d9d4d2703",
+"4556916c84"
+],
+"section": "main"
+},
+"2010_2017:E048": {
+"law_from": "2",
+"law_to": "25",
+"records": [
+"605c28ed99",
+"8f9a810bdf",
+"aaeec79539",
+"3c2d16e94a",
+"7a60c31df2",
+"71fd92b7f3",
+"4497ee5b0d",
+"f15a1ec1e9"
+],
+"section": "main"
+},
+"2010_2017:E049": {
+"law_from": "2",
+"law_to": "25",
+"records": [
+"cfd788f2e4",
+"73f65935cb",
+"0ddcdd1f4a",
+"e1297819f9",
+"c9e145e777",
+"f71d6af964",
+"2230facab3",
+"38237041a0",
+"c78321784f",
+"9f4366400a",
+"979d6205a9",
+"81b4713be4",
+"1cf9cde42a",
+"385659a41e"
+],
+"section": "main"
+},
+"2010_2017:E050": {
+"law_from": "17",
+"law_to": "26",
+"records": [
+"9dfffecdb2",
+"ed6f342f2f",
+"f235968250",
+"f55277bacf",
+"a632b334d1"
+],
+"section": "main"
+},
+"2010_2017:E051": {
+"law_from": "40",
+"law_to": "27",
+"records": [
+"5af4e21ff3",
+"e6339a11c8",
+"d338c4eae7",
+"08a2f43f57",
+"8a01fbe2fb",
+"587c420bd0",
+"408ee603ae",
+"a02325940c"
+],
+"section": "main"
+},
+"2010_2017:E053": {
+"law_from": "41",
+"law_to": "28",
+"records": [
+"175e59f461"
+],
+"section": "main"
+},
+"2010_2017:E054": {
+"law_from": "41",
+"law_to": "28",
+"records": [
+"6f99da2953",
+"f5ac632499",
+"12c7e81b66",
+"90408850d1",
+"8b797598fa",
+"e59c37dcd7",
+"7961f309a4",
+"15d255df77"
+],
+"section": "main"
+},
+"2010_2017:E055": {
+"law_from": "41",
+"law_to": "28",
+"records": [
+"551d81fdc6",
+"7f9452e0d5",
+"99855869b5",
+"a9680bd02e"
+],
+"section": "main"
+},
+"2010_2017:E056": {
+"law_from": "41",
+"law_to": "28",
+"records": [
+"be7ed32ed9"
+],
+"section": "main"
+},
+"2010_2017:E057": {
+"law_from": "28",
+"law_to": "29",
+"records": [
+"ed4c7b7e29"
+],
+"section": "main"
+},
+"2010_2017:E058": {
+"law_from": "28",
+"law_to": "29",
+"records": [
+"7541f80fc9",
+"95739d5656",
+"447585835e",
+"644276fef2",
+"70bc9d3513"
+],
+"section": "main"
+},
+"2010_2017:E059": {
+"law_from": null,
+"law_to": "3",
+"records": [
+"bae6afd76b"
+],
+"section": "main"
+},
+"2010_2017:E060": {
+"law_from": "4",
+"law_to": "3",
+"records": [
+"fbe38fd57b",
+"f66ca6e4e5",
+"cd334d279d",
+"c42785d90f"
+],
+"section": "main"
+},
+"2010_2017:E061": {
+"law_from": "27",
+"law_to": "3",
+"records": [
+"958fb126f1",
+"31b8a103ec"
+],
+"section": "main"
+},
+"2010_2017:E062": {
+"law_from": "3",
+"law_to": "3",
+"records": [
+"ba8094f9fa",
+"b6ea9cabb5",
+"3fa3dd2dad",
+"717391310d",
+"220201637d",
+"c2b4350496",
+"3ebb5b6c23",
+"e29f1fbfd6",
+"9e2b7709dc",
+"3d0ae2db7b",
+"761720ffc1",
+"fe0a1c20b4",
+"4842e1b101",
+"81ab0c60ac",
+"1c764172fd",
+"753d48b363",
+"9f4b6a4c59",
+"16821fd051",
+"f023949516",
+"e669f1a016",
+"22f96a3db8"
+],
+"section": "main"
+},
+"2010_2017:E063": {
+"law_from": "3",
+"law_to": null,
+"records": [
+"3808e55ccf"
+],
+"section": "main"
+},
+"2010_2017:E065": {
+"law_from": "29",
+"law_to": "30",
+"records": [
+"d72ac54780",
+"f6d2b3d02c",
+"6bfd776918",
+"d0c34ecef2",
+"b6b2df39a1",
+"eb32c78548",
+"80c028a6ab"
+],
+"section": "main"
+},
+"2010_2017:E066": {
+"law_from": null,
+"law_to": "30",
+"records": [
+"2186aa3683",
+"91b4246e12",
+"530f506d1d"
+],
+"section": "main"
+},
+"2010_2017:E067": {
+"law_from": "27",
+"law_to": "31",
+"records": [
+"0a8292b592",
+"5cd06fcd8f",
+"fffefae34c",
+"b56705ec2d"
+],
+"section": "main"
+},
+"2010_2017:E069": {
+"law_from": "27",
+"law_to": "31",
+"records": [
+"2680204a3d",
+"a2a4155cf9",
+"b1ae754337",
+"a3f961a4f8"
+],
+"section": "main"
+},
+"2010_2017:E070": {
+"law_from": "30",
+"law_to": "32",
+"records": [
+"f00f745264",
+"4414a35c5b",
+"8c5b945d63",
+"f114947670"
+],
+"section": "main"
+},
+"2010_2017:E071": {
+"law_from": "33",
+"law_to": null,
+"records": [
+"0d82c6b319"
+],
+"section": "main"
+},
+"2010_2017:E072": {
+"law_from": "32",
+"law_to": "33",
+"records": [
+"8a8872e2eb",
+"c2acf7c6ab",
+"22be0824f4",
+"0f4d8f2864",
+"60db591153",
+"d1af6ddec3",
+"cea070fd01",
+"c501d76d62",
+"3829c11367",
+"5a595a607a",
+"9fc545c38a",
+"3f9713ec48",
+"a90ca55239",
+"264cb05c60",
+"e85c086371",
+"41bdae9fdd",
+"be4800c105",
+"b3cb45fd05",
+"241cec4337",
+"c6184588d2",
+"a8062d1b89",
+"6becbff686",
+"8305e8b418",
+"a4d32adc7e",
+"2a2b774942",
+"487c63f07a",
+"69a3137b9d",
+"8d507eaeb3",
+"98cb55d9ed",
+"201925907b",
+"69a3137b9d",
+"7a58cbdbbe",
+"7d30c9c172",
+"fb888e2570"
+],
+"section": "main"
+},
+"2010_2017:E073": {
+"law_from": "34",
+"law_to": "34",
+"records": [
+"168db56376",
+"e2bc2bbc8b",
+"c9137a4839",
+"81c61f49d0"
+],
+"section": "main"
+},
+"2010_2017:E074": {
+"law_from": "34",
+"law_to": "34",
+"records": [
+"964d835270",
+"f404c4c706",
+"4241320bf7",
+"7ccb104d55",
+"ab38ed1d73",
+"e7b7b21936",
+"5758addeaa",
+"15906a2bd3",
+"dd91008ddd",
+"7087c0b714",
+"34a9e1c797",
+"5474d4f1d8",
+"0ac925fcc7",
+"78d988812b",
+"e1db30b1b5",
+"77b6091ddf",
+"688a24afaf",
+"0cabe3bba0",
+"57cc25b997",
+"e3996d85b7",
+"d4c461daaa",
+"897b0304a4",
+"01fcf1d113",
+"79edd41b21",
+"a4dce1b929",
+"f6943c4055"
+],
+"section": "main"
+},
+"2010_2017:E075": {
+"law_from": "35",
+"law_to": "35",
+"records": [
+"8c6fe8462d",
+"c5616a7e73",
+"0c4798f663",
+"c3d319c01b",
+"091f41ef3f",
+"f2f4270652"
+],
+"section": "main"
+},
+"2010_2017:E076": {
+"law_from": "36",
+"law_to": "36",
+"records": [
+"fd95db2d8a",
+"a3bdeebbae"
+],
+"section": "main"
+},
+"2010_2017:E077": {
+"law_from": "36",
+"law_to": "36",
+"records": [
+"cbc5d891c2",
+"bd0a792e69"
+],
+"section": "main"
+},
+"2010_2017:E078": {
+"law_from": null,
+"law_to": "37",
+"records": [
+"342a06cb23",
+"c335a33170",
+"2a8c336e14",
+"fe50774feb",
+"3829c11367",
+"91510846a0",
+"4a9dae6d46",
+"9d3c069def",
+"1c6f638147",
+"53219bef91",
+"ae840f4e51",
+"893e14cc1b",
+"363e49cc0c",
+"41ccf4735e",
+"f7014d0b52",
+"6073f6fc94",
+"0deb5baa8e",
+"9e3d84f28e",
+"0e1be752d4"
+],
+"section": "main"
+},
+"2010_2017:E079": {
+"law_from": null,
+"law_to": "38",
+"records": [
+"16f7ed5f8f",
+"ff4d748941",
+"629ebc3a09",
+"7e0b032c48",
+"cd026cffff",
+"c10f84fc36",
+"601aca15bd",
+"7da347a041",
+"8af0a2d2f2",
+"60c7ae064b",
+"8ec722dfcf",
+"c1076f8c46",
+"545f1a8c53",
+"e769c25b2d",
+"14e6bc0fd2",
+"ce155418f2",
+"4735207034",
+"e3ab4c4b70"
+],
+"section": "main"
+},
+"2010_2017:E080": {
+"law_from": "39",
+"law_to": "39",
+"records": [
+"29b901e704",
+"ba307f6cd4",
+"056b21e8f6",
+"f50c5c7b87",
+"e0ee13bebb",
+"aec7d6f318",
+"8e36140b97",
+"936f43c628",
+"224797d8de",
+"a26a4ff932",
+"c3f6d0d486",
+"7c8529752a",
+"df2c84adcf",
+"6b57d5ef22",
+"3a47fc3b38"
+],
+"section": "main"
+},
+"2010_2017:E081": {
+"law_from": "38",
+"law_to": "39",
+"records": [
+"170dc51ac9",
+"55b6bbb589",
+"35a12e0a96",
+"4636ab1def"
+],
+"section": "main"
+},
+"2010_2017:E082": {
+"law_from": "4",
+"law_to": null,
+"records": [
+"49d98cf016"
+],
+"section": "main"
+},
+"2010_2017:E083": {
+"law_from": "5",
+"law_to": "4",
+"records": [
+"5f73ab9085",
+"33e83ef0ea",
+"53e77d26aa"
+],
+"section": "main"
+},
+"2010_2017:E084": {
+"law_from": "5",
+"law_to": "4",
+"records": [
+"fe0f856fb1",
+"8779ca3c96",
+"b8874524cd"
+],
+"section": "main"
+},
+"2010_2017:E086": {
+"law_from": "42",
+"law_to": "41",
+"records": [
+"ec849a2680",
+"21c94742ca"
+],
+"section": "main"
+},
+"2010_2017:E087": {
+"law_from": "42",
+"law_to": "41",
+"records": [
+"cef0a34a7b"
+],
+"section": "main"
+},
+"2010_2017:E088": {
+"law_from": "42",
+"law_to": "41",
+"records": [
+"da88029c50",
+"5441e04ce8",
+"fac016cd56",
+"55fa058f1c",
+"db7182b34a",
+"c811c28fb2",
+"51d149944f",
+"510f0f5d9b",
+"dfd65206f8",
+"ceb49a995f",
+"b22ba93fed",
+"6f846140a7",
+"04a21c0984",
+"a821b51e2d",
+"f62fa2d507",
+"aa7f994d1e",
+"76e736e930",
+"d9c38b907f"
+],
+"section": "main"
+},
+"2010_2017:E089": {
+"law_from": "42",
+"law_to": "41",
+"records": [
+"da1a8c176f"
+],
+"section": "main"
+},
+"2010_2017:E090": {
+"law_from": "42",
+"law_to": "41",
+"records": [
+"44f5b6afd8",
+"6250f32e81",
+"de3948e920",
+"efff4bf62a",
+"5089b9499c",
+"4ae8a5df0f",
+"63a61dfd8c",
+"e8e70f8ca6",
+"5c6275d5ce",
+"d2baaec995",
+"c818e6976b",
+"e492ae7088",
+"afa30e999a",
+"25c08d072b",
+"5455036f76",
+"d582f0b325",
+"1f50affd3d",
+"08685ef1d5",
+"76c866a21f",
+"1c8b08abbd",
+"d026817f2f",
+"134be79122",
+"a4f82b0f33",
+"76c866a21f",
+"7352b2f565",
+"d756e10c27",
+"87733b50f4",
+"08b9d97331",
+"ab862f9dec",
+"da361e1d83",
+"a294c9ca4d",
+"8edf95777d",
+"1478d976db",
+"6311ea24c2",
+"fa4a036761",
+"fa5a28c578",
+"19e8a71c3d",
+"b4c029c8b5",
+"2dc3ac3577",
+"e669383a7c",
+"c4b5012757",
+"5c77570a89",
+"013e42ac48",
+"b978be37c9",
+"0d271355ef",
+"feeaa2433c",
+"5f9be0c071",
+"7489ddd2ad",
+"8de8b53b8d",
+"3530994a5c",
+"5cd55441a3",
+"04c60f619b",
+"8b1e9ab220",
+"9f83669e74",
+"696c5d16de",
+"9225427bda",
+"21f8de60bd"
+],
+"section": "main"
+},
+"2010_2017:E091": {
+"law_from": "42",
+"law_to": "41",
+"records": [
+"2dd0461d95",
+"fc540d35a7",
+"acb070f44d",
+"ab1a3142d9"
+],
+"section": "main"
+},
+"2010_2017:E092": {
+"law_from": "42",
+"law_to": "41",
+"records": [
+"989e4b4c08",
+"a0d5d05498",
+"7f3537f050",
+"af5b417574",
+"018d6c91d6",
+"f46c2b832b",
+"abd49ee73e"
+],
+"section": "main"
+},
+"2010_2017:E093": {
+"law_from": "42",
+"law_to": "41",
+"records": [
+"bc59e69ee6",
+"88d66f2c58"
+],
+"section": "main"
+},
+"2010_2017:E094": {
+"law_from": null,
+"law_to": "42",
+"records": [
+"9648671f45"
+],
+"section": "main"
+},
+"2010_2017:E095": {
+"law_from": "6",
+"law_to": "5",
+"records": [
+"d8c0333a79",
+"4631581079",
+"3ee4e9a624"
+],
+"section": "main"
+},
+"2010_2017:E096": {
+"law_from": "6",
+"law_to": "5",
+"records": [
+"b8d0d262ae",
+"9d5344f310",
+"32c267d448",
+"c0bc24a875",
+"0d0120a5a4",
+"98705fe02f"
+],
+"section": "main"
+},
+"2010_2017:E098": {
+"law_from": "6",
+"law_to": "5",
+"records": [
+"905733e182",
+"0408a443b4",
+"3d8ab65944"
+],
+"section": "main"
+},
+"2010_2017:E099": {
+"law_from": null,
+"law_to": "6",
+"records": [
+"efafc93f7e",
+"0f9601a512",
+"1b00a7d10b"
+],
+"section": "main"
+},
+"2010_2017:E101": {
+"law_from": "9",
+"law_to": "7",
+"records": [
+"54118654a8",
+"b8cc4565f6",
+"f80095cb3c",
+"f1d593f7b0"
+],
+"section": "main"
+},
+"2010_2017:E102": {
+"law_from": "8",
+"law_to": "8",
+"records": [
+"d407ba4fdb",
+"960d91aa6d",
+"3057034376",
+"2d127949df",
+"326f4c4282",
+"cece82ea7b",
+"88cf727588",
+"0d9cdf52ab",
+"f427cb3234",
+"09d212ca02",
+"b25360472f",
+"64981387c3"
+],
+"section": "main"
+},
+"2010_2017:E103": {
+"law_from": "10",
+"law_to": "9",
+"records": [
+"bfd37c5c19",
+"303f4f2082",
+"756bffe402"
+],
+"section": "main"
+},
+"2010_2017:E104": {
+"law_from": "10",
+"law_to": "9",
+"records": [
+"439f568bdb",
+"cd15779090",
+"9c67d54002"
+],
+"section": "main"
+},
+"2010_2017:E105": {
+"law_from": "10",
+"law_to": "9",
+"records": [
+"bc7acf3cd1",
+"d837e52ee0",
+"f8f1b09a56",
+"cd594731ab",
+"79fa899bc3",
+"aa21e4a97f",
+"9eeb788bb0",
+"8501f9fec0",
+"d4d598fa27"
+],
+"section": "main"
+},
+"2017_2019:E001": {
+"law_from": "A",
+"law_to": "A",
+"records": [
+"833c1da10a",
+"ebbd00c527",
+"a60b9d2bb5",
+"f97a3a26d3",
+"0aa1bcb468",
+"fba3091bb2",
+"7ccf51c401"
+],
+"section": "APPENDIX"
+},
+"2017_2019:E002": {
+"law_from": "A",
+"law_to": "A",
+"records": [
+"5066f1569f",
+"d352450c9b",
+"376f4e81a8",
+"3af34c2a53"
+],
+"section": "APPENDIX"
+},
+"2017_2019:E003": {
+"law_from": "A",
+"law_to": "A",
+"records": [
+"26eec27cc7",
+"d66ec4d325",
+"088f5cf6fb",
+"9365ad1403",
+"a915ec193a",
+"d80d210b63",
+"c28380cc52"
+],
+"section": "APPENDIX"
+},
+"2017_2019:E004": {
+"law_from": "A",
+"law_to": "A",
+"records": [
+"9faa80a594"
+],
+"section": "APPENDIX"
+},
+"2017_2019:E005": {
+"law_from": "A",
+"law_to": "A",
+"records": [
+"3966769e05"
+],
+"section": "APPENDIX"
+},
+"2017_2019:E006": {
+"law_from": "B",
+"law_to": "B",
+"records": [
+"937d6078b6",
+"335e39dd8b"
+],
+"section": "APPENDIX"
+},
+"2017_2019:E007": {
+"law_from": "B",
+"law_to": "B",
+"records": [
+"997a85427e",
+"6048cbff0d",
+"cd0cfc1ff7"
+],
+"section": "APPENDIX"
+},
+"2017_2019:E008": {
+"law_from": "B",
+"law_to": "B",
+"records": [
+"afc600c241"
+],
+"section": "APPENDIX"
+},
+"2017_2019:E009": {
+"law_from": "B",
+"law_to": "B",
+"records": [
+"9bce1c02e5"
+],
+"section": "APPENDIX"
+},
+"2017_2019:E010": {
+"law_from": "B",
+"law_to": "B",
+"records": [
+"afe206faa7"
+],
+"section": "APPENDIX"
+},
+"2017_2019:E015": {
+"law_from": null,
+"law_to": "15",
+"records": [
+"cc5a2adf31"
+],
+"section": "main"
+},
+"2017_2019:E017": {
+"law_from": "16",
+"law_to": "16",
+"records": [
+"3bbac4be56"
+],
+"section": "main"
+},
+"2017_2019:E018": {
+"law_from": "16",
+"law_to": "16",
+"records": [
+"8e58c7f608",
+"ed24e0386d"
+],
+"section": "main"
+},
+"2017_2019:E021": {
+"law_from": "18",
+"law_to": "18",
+"records": [
+"f5c0a211b9",
+"899eb809c9",
+"28e3a190b0",
+"8669fb4883"
+],
+"section": "main"
+},
+"2017_2019:E027": {
+"law_from": "3",
+"law_to": "2",
+"records": [
+"d0b716b355",
+"6406c487f6",
+"2916bb8410",
+"cd683f62fb",
+"b6ea9cabb5",
+"3fa3dd2dad",
+"717391310d",
+"220201637d",
+"fd86af2b06",
+"3ebb5b6c23",
+"72e344d8c0",
+"1393b4814b",
+"893233ad99",
+"e29f1fbfd6",
+"dbfb865f18",
+"98d2aeb8db",
+"761720ffc1",
+"fe0a1c20b4",
+"4842e1b101",
+"81ab0c60ac",
+"b3bae29cf4",
+"98feb29ad0",
+"ca661e4104",
+"f5529a1e5f",
+"121edc9c9b",
+"275ec981ae",
+"65c5dd6189",
+"884eb86736",
+"9f4b6a4c59",
+"98a0f5b925",
+"b7087c0fba",
+"f023949516",
+"e669f1a016",
+"22f96a3db8"
+],
+"section": "main"
+},
+"2017_2019:E028": {
+"law_from": null,
+"law_to": "20",
+"records": [
+"c4f5701e66"
+],
+"section": "main"
+},
+"2017_2019:E029": {
+"law_from": "21",
+"law_to": "21",
+"records": [
+"b2762a0dc3",
+"b1b811d84e",
+"e8ebf2ed8e"
+],
+"section": "main"
+},
+"2017_2019:E030": {
+"law_from": "21",
+"law_to": "21",
+"records": [
+"0101d74583",
+"fba5eb284f",
+"7b29527386"
+],
+"section": "main"
+},
+"2017_2019:E032": {
+"law_from": "25",
+"law_to": "25",
+"records": [
+"280ba87e88",
+"c5524360f1"
+],
+"section": "main"
+},
+"2017_2019:E033": {
+"law_from": "25",
+"law_to": "25",
+"records": [
+"e921aed87d",
+"2561d36d60"
+],
+"section": "main"
+},
+"2017_2019:E034": {
+"law_from": "28",
+"law_to": "28",
+"records": [
+"bda381d051"
+],
+"section": "main"
+},
+"2017_2019:E035": {
+"law_from": "28",
+"law_to": "28",
+"records": [
+"3564515337",
+"10e2b66606"
+],
+"section": "main"
+},
+"2017_2019:E036": {
+"law_from": "28",
+"law_to": "28",
+"records": [
+"2cbaedcb4d"
+],
+"section": "main"
+},
+"2017_2019:E038": {
+"law_from": "3",
+"law_to": null,
+"records": [
+"18a3f42f10"
+],
+"section": "main"
+},
+"2017_2019:E039": {
+"law_from": null,
+"law_to": "3",
+"records": [
+"f7a8dbef1c"
+],
+"section": "main"
+},
+"2017_2019:E040": {
+"law_from": "3",
+"law_to": "3",
+"records": [
+"a702afac3b",
+"fbe38fd57b",
+"a98d76d300",
+"f66ca6e4e5",
+"cd334d279d",
+"2b6fb74dee",
+"fc6c8fe280"
+],
+"section": "main"
+},
+"2017_2019:E043": {
+"law_from": null,
+"law_to": "34",
+"records": [
+"e3b50d4b01"
+],
+"section": "main"
+},
+"2017_2019:E044": {
+"law_from": null,
+"law_to": "37",
+"records": [
+"f649e6102d",
+"d8990e19ba",
+"2654e97806",
+"370b2818b4",
+"9b8b07175e",
+"abbb69b91f"
+],
+"section": "main"
+},
+"2017_2019:E047": {
+"law_from": "39",
+"law_to": "39",
+"records": [
+"ba2630062c",
+"11b560bb5a"
+],
+"section": "main"
+},
+"2017_2019:E048": {
+"law_from": "4",
+"law_to": "4",
+"records": [
+"b176e05673"
+],
+"section": "main"
+},
+"2017_2019:E049": {
+"law_from": "4",
+"law_to": "4",
+"records": [
+"9fb1d06334",
+"93f19037d0"
+],
+"section": "main"
+},
+"2017_2019:E050": {
+"law_from": "41",
+"law_to": null,
+"records": [
+"1ee80d1a4d",
+"7e6ffaaa1e",
+"dc9b970d63",
+"b7f52ebc6c"
+],
+"section": "main"
+},
+"2017_2019:E052": {
+"law_from": "41",
+"law_to": "41",
+"records": [
+"1c2ae75de9"
+],
+"section": "main"
+},
+"2017_2019:E053": {
+"law_from": "41",
+"law_to": "41",
+"records": [
+"3c06991f81",
+"f584ab25c0",
+"24d6ac1971",
+"02097f94ca",
+"447c6015fd",
+"64b1b4ae1f"
+],
+"section": "main"
+},
+"2017_2019:E054": {
+"law_from": "41",
+"law_to": "41",
+"records": [
+"54776cf9e1",
+"1ba9545379",
+"418fa43cc9",
+"f1383baf83",
+"288cde36f8",
+"01e8bd67e7"
+],
+"section": "main"
+},
+"2017_2019:E055": {
+"law_from": "41",
+"law_to": "41",
+"records": [
+"d0119f1458",
+"dd13b6f7d7",
+"fe01a48eb1",
+"1ce506685b"
+],
+"section": "main"
+},
+"2017_2019:E056": {
+"law_from": "41",
+"law_to": "41",
+"records": [
+"4f78b29670",
+"96b47c9858"
+],
+"section": "main"
+},
+"2017_2019:E057": {
+"law_from": "41",
+"law_to": null,
+"records": [
+"cb5e9372d6",
+"37071efca2",
+"771fb5e262",
+"ce5973d230",
+"de2152a638",
+"c18bdac49d",
+"4e31d31e22",
+"bdab17290e",
+"dc362d69be",
+"47e78c5e0f",
+"e3c0804864",
+"668895f59b",
+"6cef3f48a8",
+"5a59ab3c19",
+"a6d24cd512"
+],
+"section": "main"
+},
+"2017_2019:E058": {
+"law_from": null,
+"law_to": "42",
+"records": [
+"3f75ded12d",
+"df9585adfc"
+],
+"section": "main"
+},
+"2017_2019:E060": {
+"law_from": "42",
+"law_to": "42",
+"records": [
+"c6c233d991",
+"e8b011216e"
+],
+"section": "main"
+},
+"2017_2019:E061": {
+"law_from": "42",
+"law_to": "42",
+"records": [
+"0461b84537",
+"269795bf97",
+"44ea039d89",
+"c6e5c85451",
+"3f0d8cbe68",
+"c681b87821",
+"556fd6aa34"
+],
+"section": "main"
+},
+"2017_2019:E062": {
+"law_from": "5",
+"law_to": "5",
+"records": [
+"cce88850ac",
+"b2ea0fa28b"
+],
+"section": "main"
+}
+}

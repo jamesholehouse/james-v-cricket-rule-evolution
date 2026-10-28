@@ -1,0 +1,528 @@
+{
+ "stats": {
+  "edition_from": 1896,
+  "edition_to": 1900,
+  "laws_from": 67,
+  "laws_to": 67,
+  "laws_matched": 56,
+  "laws_removed": 1,
+  "laws_added": 1,
+  "n_changes": 74,
+  "by_op": {
+   "add": 3,
+   "remove": 4,
+   "modify": 53,
+   "move": 13,
+   "renumber": 1
+  },
+  "n_substantive": 49,
+  "text_mass_from": 13043,
+  "text_mass_to": 13105
+ },
+ "law_alignment": [
+  {
+   "section": "main",
+   "from_no": "1",
+   "to_no": "1",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "THE GAME",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "2",
+   "to_no": "2",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "RUNS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "3",
+   "to_no": "3",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "APPOINTMENT OF UMPIRES",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "4",
+   "to_no": "4",
+   "similarity": 0.795,
+   "from_title": "",
+   "to_title": "THE BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "5",
+   "to_no": "5",
+   "similarity": 0.84,
+   "from_title": "",
+   "to_title": "THE BAT",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "6",
+   "to_no": "6",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "THE WICKETS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "7",
+   "to_no": "7",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "THE BOWLING CREASE",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "8",
+   "to_no": "8",
+   "similarity": 0.944,
+   "from_title": "",
+   "to_title": "THE POPPING CREASE",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "9",
+   "to_no": "9",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "THE GROUND",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "10",
+   "to_no": "10",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "THE BOWLER. NO BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "11",
+   "to_no": "11",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "12",
+   "to_no": "12",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "WIDE BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "13",
+   "to_no": "13",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "THE OVER",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "14",
+   "to_no": "14",
+   "similarity": 0.781,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "15",
+   "to_no": "15",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "16",
+   "to_no": "16",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "SCORING OFF NO BALLS AND WIDE BALLS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "17",
+   "to_no": "17",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "BYE",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "18",
+   "to_no": "18",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "PLAY",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "19",
+   "to_no": "19",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "DEFINITIONS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "20",
+   "to_no": "20",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "21",
+   "to_no": "21",
+   "similarity": 0.853,
+   "from_title": "",
+   "to_title": "THE STRIKER",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "22",
+   "to_no": "22",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "Bowled",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "23",
+   "to_no": "23",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "24",
+   "to_no": "24",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "25",
+   "to_no": "25",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "26",
+   "to_no": "26",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "27",
+   "to_no": "27",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "28",
+   "to_no": "28",
+   "similarity": 0.946,
+   "from_title": "",
+   "to_title": "THE BATSMEN",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "29",
+   "to_no": "29",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "30",
+   "to_no": "30",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "31",
+   "to_no": "31",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "32",
+   "to_no": "32",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "33",
+   "to_no": "33",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "34",
+   "to_no": "34",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "LOST BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "35",
+   "to_no": "35",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "36",
+   "to_no": "36",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "37",
+   "to_no": "37",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "SUBSTITUTE",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "38",
+   "to_no": "38",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "39",
+   "to_no": "39",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "40",
+   "to_no": "40",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "41",
+   "to_no": "41",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "THE FIELDSMAN",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "42",
+   "to_no": "42",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "WICKET-KEEPER",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "43",
+   "to_no": "43",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "DUTIES OF UMPIRES",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "44",
+   "to_no": "44",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "45",
+   "to_no": "45",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "46",
+   "to_no": "46",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "47",
+   "to_no": "47",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "48",
+   "to_no": "48a",
+   "similarity": 0.798,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "49",
+   "to_no": "49",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "50",
+   "to_no": "50",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "51",
+   "to_no": "51",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "52",
+   "to_no": "52",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "53",
+   "to_no": "53",
+   "similarity": 0.722,
+   "from_title": "",
+   "to_title": "FOLLOWING INNINGS",
+   "collapsed": false
+  },
+  {
+   "section": "ONE DAY MATCHES",
+   "from_no": "1",
+   "to_no": "1",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "ONE DAY MATCHES",
+   "from_no": "2",
+   "to_no": "2",
+   "similarity": 0.95,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  },
+  {
+   "section": "ONE DAY MATCHES",
+   "from_no": "3",
+   "to_no": "3",
+   "similarity": 0.947,
+   "from_title": "",
+   "to_title": "",
+   "collapsed": false
+  }
+ ]
+}

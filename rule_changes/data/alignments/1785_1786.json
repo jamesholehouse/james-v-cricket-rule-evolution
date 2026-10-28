@@ -1,0 +1,123 @@
+{
+ "stats": {
+  "edition_from": 1785,
+  "edition_to": 1786,
+  "laws_from": 13,
+  "laws_to": 11,
+  "laws_matched": 11,
+  "laws_removed": 2,
+  "laws_added": 0,
+  "n_changes": 36,
+  "by_op": {
+   "add": 3,
+   "remove": 3,
+   "modify": 16,
+   "move": 7,
+   "renumber": 7
+  },
+  "n_substantive": 23,
+  "text_mass_from": 4281,
+  "text_mass_to": 4213
+ },
+ "law_alignment": [
+  {
+   "section": "main",
+   "from_no": "1",
+   "to_no": "1",
+   "similarity": 0.95,
+   "from_title": "THE BALL",
+   "to_title": "The BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "2",
+   "to_no": "2",
+   "similarity": 0.95,
+   "from_title": "THE BAT",
+   "to_title": "The BAT",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "3",
+   "to_no": "3",
+   "similarity": 0.883,
+   "from_title": "THE STUMPS",
+   "to_title": "STUMPS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "4",
+   "to_no": "4",
+   "similarity": 0.937,
+   "from_title": "THE BOWLING CREASE",
+   "to_title": "The BOWLING-CREASE",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "5",
+   "to_no": "5",
+   "similarity": 0.95,
+   "from_title": "THE POPPING CREASE",
+   "to_title": "The POPPING-CREASE",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "6",
+   "to_no": "6",
+   "similarity": 0.95,
+   "from_title": "THE PARTY",
+   "to_title": "The PARTY",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "7",
+   "to_no": "7",
+   "similarity": 0.95,
+   "from_title": "THE BOWLER",
+   "to_title": "The BOWLER",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "8",
+   "to_no": "8",
+   "similarity": 0.894,
+   "from_title": "THE STRIKER",
+   "to_title": "STRIKER",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "11",
+   "to_no": "9",
+   "similarity": 0.973,
+   "from_title": "WICKET KEEPER",
+   "to_title": "The WICKET-KEEPER",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "12",
+   "to_no": "10",
+   "similarity": 0.989,
+   "from_title": "THE UMPIRES",
+   "to_title": "The UMPIRES",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "13",
+   "to_no": "11",
+   "similarity": 0.998,
+   "from_title": "BETS",
+   "to_title": "BETS",
+   "collapsed": false
+  }
+ ]
+}

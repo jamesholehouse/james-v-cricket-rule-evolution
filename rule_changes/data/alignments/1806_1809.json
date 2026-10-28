@@ -1,0 +1,123 @@
+{
+ "stats": {
+  "edition_from": 1806,
+  "edition_to": 1809,
+  "laws_from": 12,
+  "laws_to": 13,
+  "laws_matched": 11,
+  "laws_removed": 1,
+  "laws_added": 2,
+  "n_changes": 35,
+  "by_op": {
+   "add": 2,
+   "remove": 5,
+   "modify": 21,
+   "move": 2,
+   "renumber": 5
+  },
+  "n_substantive": 19,
+  "text_mass_from": 6135,
+  "text_mass_to": 5540
+ },
+ "law_alignment": [
+  {
+   "section": "main",
+   "from_no": "1",
+   "to_no": "1",
+   "similarity": 0.95,
+   "from_title": "THE BALL",
+   "to_title": "THE BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "2",
+   "to_no": "2",
+   "similarity": 0.95,
+   "from_title": "THE BAT",
+   "to_title": "THE BAT",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "3",
+   "to_no": "3",
+   "similarity": 0.888,
+   "from_title": "THE STUMPS",
+   "to_title": "THE STUMPS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "4",
+   "to_no": "4",
+   "similarity": 0.95,
+   "from_title": "THE BOWLING CREASE",
+   "to_title": "THE BOWLING CREASE",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "5",
+   "to_no": "5",
+   "similarity": 0.95,
+   "from_title": "THE POPPING CREASE",
+   "to_title": "THE POPPING CREASE",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "6",
+   "to_no": "6",
+   "similarity": 0.564,
+   "from_title": "THE WICKETS",
+   "to_title": "THE WICKETS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "7",
+   "to_no": "9",
+   "similarity": 0.879,
+   "from_title": "THE BOWLER",
+   "to_title": "THE BOWLER",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "9",
+   "to_no": "10",
+   "similarity": 0.952,
+   "from_title": "THE STRIKER IS OUT",
+   "to_title": "THE STRIKER IS OUT",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "10",
+   "to_no": "7",
+   "similarity": 0.991,
+   "from_title": "THE WICKET KEEPERS",
+   "to_title": "THE WICKET-KEEPER",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "11",
+   "to_no": "12",
+   "similarity": 0.935,
+   "from_title": "THE UMPIRES",
+   "to_title": "THE UMPIRES",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "12",
+   "to_no": "13",
+   "similarity": 1.0,
+   "from_title": "BETS",
+   "to_title": "BETS",
+   "collapsed": false
+  }
+ ]
+}

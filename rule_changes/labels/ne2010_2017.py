@@ -1,0 +1,8 @@
+"""Labels added in round 4 (authored against that run)."""
+from _h import make
+ST, UN, NC, SW = "STRUCTURAL", "UNCATEGORISED", "NOT_A_CHANGE", "SEMANTIC_WORDING"
+PAIR = "2010_2017"
+L, LABELS = make(PAIR)
+L("E001", "Appendix A: new and re-ordered definitions, including A.8 'Substitutes, Replacements and Runners' (a substitute's activities are limited to fielding), taken from the former Law 2, with renumbering throughout.", ST, "codification_definition", "medium", "inferred", "The 2017 preface says the Code was re-organised into a more logical format (S02); the definitions of substitutes and runners moved into Appendix A with Law 2 being divided. Not every definition in this 19-record event was compared individually with the 2010 text.", ["S02"], date="2017 Code, in force 1 October 2017 (S02).", sec=UN, secsub="no_cause_stated")
+L("E047", "Law 17: the pointer '(Umpire calling and signalling Dead ball).' is removed.", ST, "consequential", "medium", "derived", "A bare cross-reference title is dropped with the renumbering; no rule text is removed.", ["S02"], date="2017 Code, in force 1 October 2017 (S02).")
+L("E106", "Law 6 (the pitch): 'If the pitch is next to an artificial pitch which is closer than 5 ft/1.52 m from the middle stumps, the pitch on that side will extend only to the junction of the two surfaces' is added.", UN, "no_cause_stated", "low", "none", "The 2010 Law has no such sentence, so this is a new provision about adjoining artificial pitches (compare the 2017 Code's re-writing of the pitch Law, S02); no source found states a reason.", ["S02"], date="2017 Code, in force 1 October 2017 (S02).")

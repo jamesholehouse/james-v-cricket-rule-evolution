@@ -1,0 +1,132 @@
+{
+ "stats": {
+  "edition_from": 1809,
+  "edition_to": 1816,
+  "laws_from": 13,
+  "laws_to": 12,
+  "laws_matched": 12,
+  "laws_removed": 1,
+  "laws_added": 0,
+  "n_changes": 34,
+  "by_op": {
+   "add": 4,
+   "remove": 2,
+   "modify": 22,
+   "move": 0,
+   "renumber": 6
+  },
+  "n_substantive": 18,
+  "text_mass_from": 5540,
+  "text_mass_to": 6326
+ },
+ "law_alignment": [
+  {
+   "section": "main",
+   "from_no": "1",
+   "to_no": "1",
+   "similarity": 0.95,
+   "from_title": "THE BALL",
+   "to_title": "THE BALL",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "2",
+   "to_no": "2",
+   "similarity": 0.95,
+   "from_title": "THE BAT",
+   "to_title": "THE BAT",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "3",
+   "to_no": "3",
+   "similarity": 0.903,
+   "from_title": "THE STUMPS",
+   "to_title": "THE STUMPS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "4",
+   "to_no": "4",
+   "similarity": 0.95,
+   "from_title": "THE BOWLING CREASE",
+   "to_title": "THE BOWLING CREASE",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "5",
+   "to_no": "5",
+   "similarity": 0.95,
+   "from_title": "THE POPPING CREASE",
+   "to_title": "THE POPPING CREASE",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "6",
+   "to_no": "6",
+   "similarity": 0.574,
+   "from_title": "THE WICKETS",
+   "to_title": "THE WICKETS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "7",
+   "to_no": "10",
+   "similarity": 0.903,
+   "from_title": "THE WICKET-KEEPER",
+   "to_title": "THE WICKET-KEEPERS",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "8",
+   "to_no": "8",
+   "similarity": 0.516,
+   "from_title": "THE PARTY WHICH GOES FROM HOME",
+   "to_title": "The ball",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "9",
+   "to_no": "7",
+   "similarity": 0.847,
+   "from_title": "THE BOWLER",
+   "to_title": "THE BOWLER",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "10",
+   "to_no": "9",
+   "similarity": 0.958,
+   "from_title": "THE STRIKER IS OUT",
+   "to_title": "THE STRIKER IS OUT",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "12",
+   "to_no": "11",
+   "similarity": 0.934,
+   "from_title": "THE UMPIRES",
+   "to_title": "THE UMPIRES",
+   "collapsed": false
+  },
+  {
+   "section": "main",
+   "from_no": "13",
+   "to_no": "12",
+   "similarity": 1.0,
+   "from_title": "BETS",
+   "to_title": "BETS",
+   "collapsed": false
+  }
+ ]
+}

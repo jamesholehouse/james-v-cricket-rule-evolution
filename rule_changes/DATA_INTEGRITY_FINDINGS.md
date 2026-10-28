@@ -64,6 +64,7 @@ edition is. Sources: Rait Kerr Appendix III (list of editions), title pages in t
 | 1809 | Baxter's Lewes booklet, which Rait Kerr calls unreliable; differs from the authentic Wallis text of May 1809. |
 | 1820 | AI clean-up errors: drops "rolling", inverts "is not meant to prevent" to "is to prevent", invents "when the Ball shall be delivered". |
 | 1823 | "Bat" for "Hat" (raw OCR "pat"). |
+| 1823 (numbering) | The raw OCR of the 1823 broadsheet shows serial Law numbers (6, 8, 10, 12, 13, 16, 18, 26, 38, 40, 42 legible; the rest lost to OCR) matching the 1828 numbering; the AI clean-up dropped them. So 1823->1828 'moves into numbered Laws' are artefacts (labelled NOT_A_CHANGE). Not repairable without the page image: the missing numbers would have to be inferred from 1828, which would erase real differences. |
 | 1828 | A reprint (Sporting Magazine via Scores and Biographies): reverts to "notch" wording; stops before the 19 May 1828 amendments. |
 | 1830 | Unofficial booklet repeating 1819/1820 wording, omitting laws still official; a page (9-11) missing. About 50 events are artefacts of it. |
 | "1835" | The 1835 Code as amended to c.1845 (contains Rait Kerr serials 82-92, not 93). |

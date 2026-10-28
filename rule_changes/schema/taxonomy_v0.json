@@ -1,6 +1,6 @@
 {
-  "version": "v0.3",
-  "note": "Draft. Top-level categories 1-4 and 6 are the user's proposal; STRUCTURAL holds non-causal changes (so nothing is forced into a causal box). Subtypes are free to be merged/split after the first full pass; every labelled record stores the taxonomy version it was labelled under. v0.1 adds SEMANTIC_WORDING. v0.2 adds NOT_A_CHANGE/edition_artefact (difference caused by an unreliable, misdated, mis-transcribed or printer's-variant edition). v0.3 adds RELOCATION (user request 2026-10-28).",
+  "version": "v0.4",
+  "note": "Draft. Top-level categories 1-4 and 6 are the user's proposal; STRUCTURAL holds non-causal changes (so nothing is forced into a causal box). Subtypes are free to be merged/split after the first full pass; every labelled record stores the taxonomy version it was labelled under. v0.1 adds SEMANTIC_WORDING. v0.2 adds NOT_A_CHANGE/edition_artefact (difference caused by an unreliable, misdated, mis-transcribed or printer's-variant edition). v0.3 adds RELOCATION (user request 2026-10-28). v0.4 adds RENUMBERING (user request 2026-10-28): a Law keeps its text but changes number.",
   "categories": {
     "NOVEL_EVENT": {
       "definition": "A new on-field event, tactic or situation that had not arisen before (or not in this form) prompts a rule: e.g. the first wide bat, the first round-arm bowler, a famous umpiring incident.",
@@ -91,6 +91,12 @@
         "pure_relocation",
         "split",
         "merge"
+      ]
+    },
+    "RENUMBERING": {
+      "definition": "A Law (or heading-block) has identical text but a different number or position in the numbering. Counted as a substantive change to the structure of the rule book. Recorded at Law level (one row per renumbered Law), not as a pipeline event.",
+      "subtypes": [
+        "law_renumbered"
       ]
     }
   },

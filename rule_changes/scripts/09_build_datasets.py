@@ -49,7 +49,7 @@ def case_punct_only(c):
 
 def record_label(c):
     if c["op"] == "renumber":
-        return "NOT_A_CHANGE", "format_artefact", "high", "derived", "Law/clause renumbering only (no text change).", 0
+        return "RENUMBERING", "law_renumbered", "high", "derived", f"Law {c.get('law_from')} renumbered {c.get('law_to')} (text unchanged){' - ' + c['title_to'] if c.get('title_to') else ''}.", 0
     if c["op"] == "modify":
         cls = classify(c.get("old_text") or "", c.get("new_text") or "")[0]
         if cls in MECH:
@@ -64,6 +64,7 @@ def record_label(c):
 
 def main():
     OUT.mkdir(exist_ok=True)
+    renum = []   # synthetic Law-level rows for dataset 2
     lab = {r["event_id"]: r for r in csv.DictReader(open(LABELS))}
     cols = ["pair", "change_id", "op", "section", "law_from", "law_to", "granularity", "old_text", "new_text", "event_id", "label_level",
             "category", "subtype", "confidence", "basis", "what_changed_or_reason", "evidence", "semantic_only", "scope_change", "source_edition_issue", "substantive_change",
@@ -91,9 +92,20 @@ def main():
                 else:
                     cat, sub, conf, basis, why, sem = record_label(c)
                     hand = int(cat == "UNCATEGORISED")
-                    row = dict(base, label_level="event_unlabelled" if base["event_id"] else "record_mechanical", category=cat, subtype=sub,
+                    if c["op"] == "renumber":
+                        row_ = dict(event_id=base["event_id"], sig="", pair=p.stem, section=base["section"], canonical_law="", law_title=c.get("title_to", ""),
+                                    law_from=base["law_from"], law_to=base["law_to"], event_type="renumbering", n_records=1, numeric_audit="n/a",
+                                    what_changed=why, category=cat, subtype=sub, secondary_category="", secondary_subtype="", confidence=conf, basis=basis,
+                                    rationale="Alignment of Laws by text similarity found identical text under a different Law number.", evidence="S18",
+                                    date_evidence="", integrity="ok", notes="mechanical (09_build_datasets.py); Law-level row, no pipeline event",
+                                    label_ref="mechanical", semantic_only=0, scope_change=0, source_edition_issue=0, substantive_change=1,
+                                    review_status="unreviewed", reviewer_notes="", taxonomy_version="v0.4")
+                        renum.append(row_)
+                    if c["op"] == "renumber":
+                        base["event_id"] = f"{p.stem}_N{sum(1 for r in renum if r['pair'] == p.stem) + 1:03d}"
+                    row = dict(base, label_level="law_renumbering" if c["op"] == "renumber" else "event_unlabelled" if base["event_id"] else "record_mechanical", category=cat, subtype=sub,
                                confidence=conf, basis=basis, what_changed_or_reason=why, evidence="S18" if not hand else "",
-                               semantic_only=sem, scope_change=0, source_edition_issue=0, substantive_change=int(cat not in ("NOT_A_CHANGE", "STRUCTURAL") and not sem and not hand),
+                               semantic_only=sem, scope_change=0, source_edition_issue=0, substantive_change=int((cat not in ("NOT_A_CHANGE", "STRUCTURAL") and not sem and not hand) or cat == "RENUMBERING"),
                                needs_hand_label=hand)
                 row["case_punct_only"] = int(case_punct_only(c))
                 if row["case_punct_only"]:
@@ -106,7 +118,10 @@ def main():
         w = csv.DictWriter(f, fieldnames=list(rows[0]))
         w.writeheader()
         w.writerows(sub)
+        for r_ in renum:
+            w.writerow({k: r_.get(k, "") for k in rows[0]})
     print("dataset 1 (all records):", dict(n))
+    print(f"dataset 2 additionally has {len(renum)} Law-level RENUMBERING rows")
     print(f"dataset 2 (substantive events): {len(sub)} of {len(rows)} labelled events; by category {dict(Counter(r['category'] for r in sub))}")
 
 

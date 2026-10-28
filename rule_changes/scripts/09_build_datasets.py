@@ -40,6 +40,13 @@ MECH = {   # classifier class -> (category, subtype, semantic_only)
 }
 
 
+def case_punct_only(c):
+    """Modify record whose text differs only in capitalisation, punctuation or spacing (never a rule change)."""
+    f = lambda t: re.sub(r"[^a-z0-9]", "", (t or "").lower())
+    o, n = c.get("old_text") or "", c.get("new_text") or ""
+    return c["op"] == "modify" and o != n and f(o) == f(n)
+
+
 def record_label(c):
     if c["op"] == "renumber":
         return "NOT_A_CHANGE", "format_artefact", "high", "derived", "Law/clause renumbering only (no text change).", 0
@@ -60,7 +67,7 @@ def main():
     lab = {r["event_id"]: r for r in csv.DictReader(open(LABELS))}
     cols = ["pair", "change_id", "op", "section", "law_from", "law_to", "granularity", "old_text", "new_text", "event_id", "label_level",
             "category", "subtype", "confidence", "basis", "what_changed_or_reason", "evidence", "semantic_only", "scope_change", "source_edition_issue", "substantive_change",
-            "needs_hand_label"]
+            "needs_hand_label", "case_punct_only"]
     n = Counter()
     with open(OUT / "changes_all_records_labelled.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=cols)
@@ -88,6 +95,9 @@ def main():
                                confidence=conf, basis=basis, what_changed_or_reason=why, evidence="S18" if not hand else "",
                                semantic_only=sem, scope_change=0, source_edition_issue=0, substantive_change=int(cat not in ("NOT_A_CHANGE", "STRUCTURAL") and not sem and not hand),
                                needs_hand_label=hand)
+                row["case_punct_only"] = int(case_punct_only(c))
+                if row["case_punct_only"]:
+                    row["substantive_change"] = 0   # capitalisation/punctuation-only record is never substantive, even inside a substantive event
                 w.writerow(row)
                 n[(row["label_level"], row["needs_hand_label"])] += 1
     rows = [r for r in csv.DictReader(open(LABELS))]

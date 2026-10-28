@@ -1,6 +1,6 @@
 {
-  "version": "v0.2",
-  "note": "Draft. Top-level categories 1-4 and 6 are the user's proposal; STRUCTURAL holds non-causal changes (so nothing is forced into a causal box). Subtypes are free to be merged/split after the first full pass; every labelled record stores the taxonomy version it was labelled under. v0.1 adds SEMANTIC_WORDING. v0.2 adds NOT_A_CHANGE/edition_artefact (difference caused by an unreliable, misdated, mis-transcribed or printer's-variant edition).",
+  "version": "v0.3",
+  "note": "Draft. Top-level categories 1-4 and 6 are the user's proposal; STRUCTURAL holds non-causal changes (so nothing is forced into a causal box). Subtypes are free to be merged/split after the first full pass; every labelled record stores the taxonomy version it was labelled under. v0.1 adds SEMANTIC_WORDING. v0.2 adds NOT_A_CHANGE/edition_artefact (difference caused by an unreliable, misdated, mis-transcribed or printer's-variant edition). v0.3 adds RELOCATION (user request 2026-10-28).",
   "categories": {
     "NOVEL_EVENT": {
       "definition": "A new on-field event, tactic or situation that had not arisen before (or not in this form) prompts a rule: e.g. the first wide bat, the first round-arm bowler, a famous umpiring incident.",
@@ -83,6 +83,14 @@
         "pronoun_gender",
         "terminology_term",
         "clarifying_rewrite"
+      ]
+    },
+    "RELOCATION": {
+      "definition": "Material of the Laws is moved within the book - between Laws, sections or notes - so that the structure of the rule book changes. Counted as a substantive change. pure_relocation = text moved or renumbered with no merge or split; split = one Law/section divided into several; merge = several Laws/sections combined into one (or a Law dissolved into others). A move that also changes the rule keeps the rule-change category as primary and records RELOCATION as secondary.",
+      "subtypes": [
+        "pure_relocation",
+        "split",
+        "merge"
       ]
     }
   },

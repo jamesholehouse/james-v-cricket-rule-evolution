@@ -1,0 +1,541 @@
+[
+ {
+  "event_id": "1932_1939_E001",
+  "sig": "b40f89c1e2ae",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "The 1932 Code of Signalling and the Umpires-section scorer instruction ('not the scorers business to dictate') are gathered into a new 'Notes for Scorers and Umpires' section. Also new provisions: two scorers to check the total, a recommended score-sheet method for No Balls and Wides, and the 'Regulations for drying the wickets and ground in first-class matches'."
+ },
+ {
+  "event_id": "1932_1939_E008",
+  "sig": "d1f3bce4ba4a",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Instructions from the 1932 Umpires and Bowlers sections (call 'Over' before leaving the wicket, umpires not to call Time before the over is finished, round/over the wicket and over/underarm changes with a fresh guard) move into the Notes to Law 13. Also new: a ball does not count and no runs are scored if both bails blow off before the stroke or the ball slips from the bowler's hand."
+ },
+ {
+  "event_id": "1932_1939_E010",
+  "sig": "6ced0ce50649",
+  "role": "primary",
+  "subtype": "pure_relocation",
+  "why": "The note that a run made off a No Ball counts to the striker although the ball was caught moves from the Notes to Law 32 to the Notes to Law 16; the Law 16 cross-reference is adjusted consequentially ('Laws 13, 23, 28 and 32' -> 'Laws 13 and 28')."
+ },
+ {
+  "event_id": "1932_1939_E013",
+  "sig": "8b4a632cf4f1",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The Law 21 (Bowled) note that a bail is 'struck off' if any part of it is struck off the top of the wicket moves, reworded, to the Notes to Law 20 as note (a). Also new Notes on Law 20: one bail off and a stump struck without displacing the other, wicket down when bails are dispensed with, and remaking the wicket."
+ },
+ {
+  "event_id": "1932_1939_E014",
+  "sig": "f75f79364443",
+  "role": "primary",
+  "subtype": "pure_relocation",
+  "why": "The ruling that part of a bail is 'struck off' if any part of either bail is disturbed moves from the Notes to Law 21 to the Notes to Law 20 ('had been' -> 'has been')."
+ },
+ {
+  "event_id": "1932_1939_E026",
+  "sig": "d634defd39f2",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Instructions from the 1932 Umpires section (where to stand, permission to stand on the off side, agreeing the watch or clock, no interference except on appeal, reporting to the ground manager, scorer not to dictate) become Notes (b)-(f) to Law 3. Also changed: umpires report 30 minutes before play (1932: one hour) and 'League and Saturday Matches' -> 'lower grade matches'."
+ },
+ {
+  "event_id": "1932_1939_E033",
+  "sig": "166c15ea9fe3",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "The Notes to Laws 33A/33B (ball not dead when the bails are off or after an unsuccessful appeal, on hitting the umpire unless it lodges in his clothing, lodging in a batsman's clothing, ceasing to be dead) move into the new combined 'General notes on Laws 33A to 35'; only capitalisation changes."
+ },
+ {
+  "event_id": "1932_1939_E034",
+  "sig": "44d65a8f8ca1",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "The 1932 'The Batsman' section note that a batsman retired through illness, injury or other unavoidable cause is 'Not out' moves into the Notes to Law 36, unchanged."
+ },
+ {
+  "event_id": "1932_1939_E035",
+  "sig": "889ccc5751f1",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "The 1932 'The Batsman' section note (a side that fielded with ten men or less may bat with its full strength, no disqualification rule applying) is merged with the existing Law 37 note into Note (b) to Law 37; the exchange-of-lists note is reworded ('Many disputes would be avoided if' -> 'should exchange lists')."
+ },
+ {
+  "event_id": "1932_1939_E038",
+  "sig": "b08e948ac8a3",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "The 1932 Umpires-section 'New Ball' and ball-approval instructions move into Notes (b)-(c) to Law 4. Rule change: the new ball after 200 runs is extended from 'the County Competition' to 'First-class or Minor County matches', and made optional in other grades."
+ },
+ {
+  "event_id": "1932_1939_E040",
+  "sig": "2d618f1c5ea1",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Umpires- and Bowlers-section instructions (appeals by fielders not in a position to judge, sole judges of fair play, reporting dissent, attention to Law 48, lifting the seam and resin, fitness of ground and inspection after rain) move into the Notes to Law 43. Also new: umpires may intervene without appeal for unfair play, and the procedure against persistent fast short-pitched bowling."
+ },
+ {
+  "event_id": "1932_1939_E041",
+  "sig": "0a7e3c17c7ed",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "The 1932 'The Boundary' section is dissolved into the Notes to Law 44 ('should' -> 'shall'). Also new: a fieldsman grounding any part of his body on or over the line with the ball in hand makes a boundary; sight screens excepted from obstacles; no six for a full pitch on a sight screen; boundary overthrow counts the run in progress."
+ },
+ {
+  "event_id": "1932_1939_E042",
+  "sig": "6a0edc726fae",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "The 1932 Umpires-section 'Luncheon' instruction (interval 40 minutes; last wicket falling within two minutes of luncheon) moves into Note (c) to Law 45; 'seven minutes between the innings' is corrected to '10 minutes' to agree with Law 45 itself."
+ },
+ {
+  "event_id": "1932_1939_E043",
+  "sig": "aed4aab6e77b",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "The 'Out' signal and 'call distinctly' instruction (1932 signalling code) and the Umpires-section notes on altering a decision and making sure the batsman understands it move into the Notes to Law 46. Also new: the umpire shall call 'Not out', and a batsman who walks away thinking he is out need not be intervened for save on appeal."
+ },
+ {
+  "event_id": "1932_1939_E044",
+  "sig": "738c8fa44813",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "The 1932 Umpires-section instruction on when an umpire may appeal to the other becomes Note (b) to Law 47. Also changed: the other umpire may answer appeals 'When either umpire' has given not out (1932: only the bowler's-end umpire)."
+ },
+ {
+  "event_id": "1932_1939_E046",
+  "sig": "5f4e7474a3c6",
+  "role": "primary",
+  "subtype": "pure_relocation",
+  "why": "The note that no 'one short' is called when a batsman takes guard in front of the popping crease moves from the Notes to Law 2 to the Notes to Law 49 (Short runs)."
+ },
+ {
+  "event_id": "1932_1939_E047",
+  "sig": "0c2db0f101a5",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "The 1932 'The Batsman' section note on batsmen not crossing over after a short run moves into Note (b) to Law 49 ('it is not customary' -> 'do not cross over'). Also new: Note (c), only one run is deducted when two or more runs are attempted and one is short."
+ },
+ {
+  "event_id": "1932_1939_E056",
+  "sig": "183b8bbf45c6",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Umpires-section instructions (supervising rolling, foot holes cleaned and filled with sawdust in wet weather) move into the Notes to Law 9. Also changed: new note that the ground executive selects and prepares the wicket before the toss; the seven-minute rolling right is now 'before each day's play' (1932 note: each innings and each day)."
+ },
+ {
+  "event_id": "1939_1947_E004",
+  "sig": "eeb8acf7213c",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "The number-of-players sentence of old Law 1 is split off into the new Law 1 'Sides' (the rest of old Law 1 becomes Law 13). Also new: each captain nominates his players before the toss, who may not be changed without the opposing captain's consent, and a deputy must act for an absent captain."
+ },
+ {
+  "event_id": "1939_1947_E009",
+  "sig": "8036b88e69e4",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "The covering provisions of old Law 9 (The Ground) Note (c) are split off into a new Law 11 'Covering the Pitch'. Also changed: the pitch shall not be completely covered unless special regulations provide, and covers come off 'early each morning, if fine' (1939: at 7 o'clock)."
+ },
+ {
+  "event_id": "1939_1947_E010",
+  "sig": "b8c47448af5c",
+  "role": "primary",
+  "subtype": "split",
+  "why": "The beating-the-pitch/sawdust provision of old Law 9 and its Note (d) on foot-holes are split off into a new Law 12 'Maintenance of the Pitch', with the added cross-reference 'provided Law 46 be not thereby contravened'."
+ },
+ {
+  "event_id": "1939_1947_E011",
+  "sig": "82306eb3247d",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "Old Law 1 is divided: its number-of-players sentence goes to the new Law 1 and the remainder (innings and toss) becomes Law 13 'Innings'. Also new: toss 'on the field of play', toss not later than 15 minutes before the start, and the winner may not alter his decision once notified."
+ },
+ {
+  "event_id": "1939_1947_E014",
+  "sig": "0122549c1981",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 53 (follow-on) becomes Law 14 and absorbs the 75-run one-day follow-on from the separate 1939 'One-day Matches' Laws; '(in Australia 200 runs)' moves into a Note and revision dates are dropped. Margins unchanged."
+ },
+ {
+  "event_id": "1939_1947_E016",
+  "sig": "26280d9f94eb",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The declaration Law moves from Law 54 to Law 15 (next to the innings and follow-on Laws); its Notes move to Law 10 Note 3 and Law 22 Note 3 or are dropped. Also changed: in three-day matches a declaration may be made 'on the second and succeeding days' (1939: 'at any time on the second day'), and it is made by the Captain."
+ },
+ {
+  "event_id": "1939_1947_E017",
+  "sig": "6db23017c125",
+  "role": "primary",
+  "subtype": "pure_relocation",
+  "why": "Old Law 55 (no play on the first day(s)) is moved to new Law 16 and recast as one general sentence: Laws 14 and 15 apply according to the number of days' play remaining."
+ },
+ {
+  "event_id": "1939_1947_E019",
+  "sig": "229f8ec1d19c",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Old Law 18 (start of play) and the intervals Law 45 are merged into new Law 17 'Commencement and Close of Play and Intervals'. Also changed: luncheon 'should not exceed 45 minutes' (1939: 40), no trial ball 'to any player', bowling practice on the pitch forbidden, and conditions for awarding a match."
+ },
+ {
+  "event_id": "1939_1947_E020",
+  "sig": "b9d6c85e20b6",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "The Law 45 note on the last wicket falling just before luncheon moves into the new Law 17 (part of merging old Law 45 into it). Also changed: it now applies to 'luncheon or tea'."
+ },
+ {
+  "event_id": "1939_1947_E022",
+  "sig": "1640777b9a08",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 2 becomes Law 19 'Scoring' and absorbs the short-run Law 49 and the caught/run-out runs Law 32 (with their Notes and the 'One short' signal); its scorers sentence goes to Law 4 and its result/tie sentences to Law 22."
+ },
+ {
+  "event_id": "1939_1947_E023",
+  "sig": "8a7b6376f21e",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Old Laws 37 (substitutes), 38 (consent to substitute) and the runner Notes of old Laws 39-40 are merged into new Law 2 'Substitutes'; 'no substitute shall bat or bowl' moves from a Note into the Law. Also changed: the opposing captain 'may indicate positions in which the Substitute shall not field' (1939: consent to the place he takes), and 'A side should not field with more than eleven players' is added."
+ },
+ {
+  "event_id": "1939_1947_E024",
+  "sig": "da1b0b416119",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "Old Law 44 is divided: its boundary part (with the 1939 boundary Notes) becomes Law 20 'Boundaries', while pitching the wickets goes to new Law 45. Also changed: boundaries agreed with both sides before the toss, sight screens within the playing area count as boundary, and new rules on runs completed versus the allowance."
+ },
+ {
+  "event_id": "1939_1947_E025",
+  "sig": "09c2073725bd",
+  "role": "primary",
+  "subtype": "pure_relocation",
+  "why": "The Lost Ball Law moves from Law 34 to Law 21; its 'ball shall be Dead' clause moves to the Dead Ball Law 25 and its Note on replacing a lost ball to Law 5. No change to what is required."
+ },
+ {
+  "event_id": "1939_1947_E026",
+  "sig": "da94781921a3",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "New Law 22 'The Result' combines old Law 2 (winning, not compelled to continue), one-day Law 2, Law 54 Note (d) and the scorers' Note on captains checking the scores. Also new: an undetermined match 'shall count as a Draw', and the tie definition narrows."
+ },
+ {
+  "event_id": "1939_1947_E027",
+  "sig": "9f7ae7a7fe0f",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "The Over Law moves from Law 13 to Law 23 and its Notes are distributed to other Laws (bails/ball slipping -> Law 25, finishing the over near time -> Law 18, injured bowler -> Law 24, change of mode of delivery -> Law 26). Also changed: overs of 8 or 6 balls by agreed conditions, 6 in the United Kingdom by default."
+ },
+ {
+  "event_id": "1939_1947_E028",
+  "sig": "b56b2f2aff71",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "New Law 24 combines the 1939 Over Note (f) on finishing an over with old Laws 14 (changing ends) and 15 (side of the wicket). Also changed: a bowler need not finish the over if 'suspended for unfair play' (new), and the 1939 rule that the over counts as completed when the bowler is injured is dropped."
+ },
+ {
+  "event_id": "1939_1947_E029",
+  "sig": "9f5ed1a839d1",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 14 (changing ends) is merged into new Law 24; wording only ('as often as he pleases' -> 'as often as desired')."
+ },
+ {
+  "event_id": "1939_1947_E030",
+  "sig": "23adfdb5fe71",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 15 (bowler may direct the batsman's side of the wicket) is merged into new Law 24; wording only ('on that side of it which' -> 'on whichever side of it')."
+ },
+ {
+  "event_id": "1939_1947_E032",
+  "sig": "8c03d554b482",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Old Law 35 becomes Law 25 'Dead Ball' and absorbs old Laws 33A and 33B, the General notes on Laws 33A-35 and the 'dead' clauses of the lost-ball and fieldsman Laws; its bowler run-out Notes move to Laws 27 and 46. Also changed: umpire calls Dead Ball to intervene for unfair play or serious injury, and play may be suspended if 'one or both bails' fall (1939: both bails blown off)."
+ },
+ {
+  "event_id": "1939_1947_E034",
+  "sig": "6cc4fd4743fd",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Old Law 48 becomes Law 26 'No Ball' and absorbs old Laws 10 (throwing), 11 (bowler's foot) and 48A (call instantly; revoke). Also changed: the foot rule now requires 'some part of one foot behind the Bowling crease and within the Return crease' without the grounding requirement, and the striker is entitled to know the mode of delivery."
+ },
+ {
+  "event_id": "1939_1947_E035",
+  "sig": "3baaa9ad3ad1",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "New Law 27 (No Ball continued) takes the No Ball scoring part of old Law 16 and the old Law 35 Note (c) on the bowler throwing at the near wicket (the pairing with old Law 27 Hit the ball twice is a Law-number artefact). Also new: a non-striker leaving his ground too soon may be run out by any recognised method."
+ },
+ {
+  "event_id": "1939_1947_E037",
+  "sig": "ba4c5006c94a",
+  "role": "primary",
+  "subtype": "split",
+  "why": "New Law 29 (Wide Ball continued) takes the Wide part of old Law 16 (scoring of No Balls and Wides) and the 1939 Wide Note (d); the ball is not dead on a Wide call and the ways the batsmen may be out are restated."
+ },
+ {
+  "event_id": "1939_1947_E038",
+  "sig": "62f3b4a529e7",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Law 3 absorbs old Law 52 ('No Umpire shall be changed during a match without the consent of both Captains') while its 1939 Notes move to Laws 4, 45 and 46. Also changed: umpires appointed 'before the toss for innings' to control the game 'with absolute impartiality'."
+ },
+ {
+  "event_id": "1939_1947_E040",
+  "sig": "15f85be3b790",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The Bye and Leg Bye Law moves from Law 17 to Law 30. Also changed: a leg bye off the striker's 'dress or person except his hand', and 'If the striker wilfully deflects the ball with any part of his person, no runs are scored, and the batsmen may not change ends' (1939: kicks the ball)."
+ },
+ {
+  "event_id": "1939_1947_E048",
+  "sig": "8d77c619440e",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The Bowled Law moves from Law 21 to Law 34 (the dismissal Laws are regrouped). Also changed: out Bowled if he 'kicks or hits' the ball on to his wicket before completing his stroke, and the Note on a stump bowled down with the bails remaining is dropped."
+ },
+ {
+  "event_id": "1939_1947_E051",
+  "sig": "3f8329621355",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "Judged by the text, the Hit the Ball Twice Law moves from old Law 27 to new Law 37 (the pairing with old Law 28 Run out is a Law-number artefact). Also changed: 'except for the sole purpose of guarding his wicket', no runs from a ball lawfully struck twice except from an overthrow, and returning the ball to a fieldsman with the bat infringes the Law."
+ },
+ {
+  "event_id": "1939_1947_E053",
+  "sig": "413bb63d0878",
+  "role": "primary",
+  "subtype": "pure_relocation",
+  "why": "The Hit Wicket Law moves from Law 25 to Law 38 and its Notes are merged into one list; 'or dress' is dropped because 'person' now includes dress by a general Note. No change to what is required."
+ },
+ {
+  "event_id": "1939_1947_E054",
+  "sig": "8d91a6215340",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The L.B.W. Law moves from Law 24 to Law 39, with the 'touched bat or hand first' Note moving into the Law. Also changed: the striker's person must be in a straight line between wicket and wicket 'even though the point of impact be above the level of the bails', and a ball intercepted full pitch is covered."
+ },
+ {
+  "event_id": "1939_1947_E055",
+  "sig": "90e96ef586cd",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "New Law 4 'The Scorers' is built from old Law 2's sentence that runs are recorded by appointed scorers and the 1939 'Notes for Scorers and Umpires' items on accepting signals, waiting for the signal to be answered and mutual consultation."
+ },
+ {
+  "event_id": "1939_1947_E058",
+  "sig": "6e38d85833af",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Old Laws 26 (obstruction preventing a catch) and 30 (obstructing a fieldsman) are merged into new Law 40 'Obstructing the Field'. Also changed: 'If he wilfully obstruct the opposite side' (1939: any fieldsman), and involuntary interception of a throw-in is not an offence."
+ },
+ {
+  "event_id": "1939_1947_E059",
+  "sig": "758cb5307da9",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "The Run Out Law (old Law 28) becomes Law 41 and absorbs old Law 31 (which batsman is out when they have crossed); the old Law 39 runner Notes move to Law 2 (the pairing with old Law 39 is a Law-number artefact). Also new: unless he attempts to run, the striker shall not be run out in the circumstances of Law 42, even if No Ball is called."
+ },
+ {
+  "event_id": "1939_1947_E061",
+  "sig": "2abcf85f0db9",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The Wicket-keeper Law moves from Law 42 to Law 43 (now placed before the Fieldsman Law); the keeper incommoding the striker by noise or motion moves to Law 46 Note 4. Also changed: the keeper 'shall remain wholly behind the wicket until' the ball touches the striker, passes the wicket or a run is attempted."
+ },
+ {
+  "event_id": "1939_1947_E062",
+  "sig": "7d850eb66af3",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The Fieldsman Law moves from Law 41 to Law 44 (after the Wicket-keeper); its 'ball shall be Dead' clause moves to Law 25. Also new: the penalty goes to the striker if the ball was struck, otherwise to byes, leg byes, no balls or wides, and a fieldsman must not use his cap to field the ball."
+ },
+ {
+  "event_id": "1939_1947_E064",
+  "sig": "5cc6fae2562b",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "New Law 45 'Duties of the Umpires' combines pitching the wickets from old Law 44 and agreeing the watch or clock from the 1939 Law 3 Notes. Also new: before the toss the umpires acquaint themselves with special regulations and agree other conditions with both captains."
+ },
+ {
+  "event_id": "1939_1947_E068",
+  "sig": "610930c6d031",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "The Notes to old Law 43 (fair and unfair play, fitness of ground, weather and light) move into new Law 46, which also receives Notes from old Laws 3 and 42. Also changed: captains may elect to decide on fitness, play suspended only when conditions are unreasonable or dangerous, and a new procedure against stealing runs."
+ },
+ {
+  "event_id": "1939_1947_E070",
+  "sig": "f1620693c705",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Old Law 46 (Appeals) becomes Law 47 and absorbs old Law 47 (Jurisdiction of Umpires) and the appeal-timing rule of old Law 50. Also changed: umpires may consult each other on a point of fact, an umpire should intervene if a batsman leaves under a misapprehension, and the appeal must be made before the next ball."
+ },
+ {
+  "event_id": "1939_1947_E071",
+  "sig": "b802ee33b924",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "The old Law 47 (Jurisdiction) Note that the other umpire may answer an appeal after one umpire gives not out moves into the merged new Law 47 (Appeals); 'subject to an observance of Law 50' becomes 'provided it is made in time' because Law 50 is merged into the same Law."
+ },
+ {
+  "event_id": "1939_1947_E086",
+  "sig": "ac99f23ed615",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "New Law 7 'The Pitch' combines the old Law 6 rule that the wickets shall not be changed and the 1939 Law 9 Note on the ground executive selecting and preparing the wicket. Also new: the pitch is defined as the area between the bowling creases, 5 feet either side of the line of the wickets, and the umpires control it after the toss."
+ },
+ {
+  "event_id": "1939_1947_E087",
+  "sig": "b27ec0a65ada",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "The old Law 6 rule against changing the wickets during a match moves into the new Law 7 'The Pitch' ('wickets' -> 'Pitch', 'both sides' -> 'both Captains')."
+ },
+ {
+  "event_id": "1939_1947_E090",
+  "sig": "42b03c8bf5af",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Laws 7 (bowling and return creases) and 8 (popping crease) are merged into new Law 9 'The Bowling and Popping Creases', with the measurement Note; figures replace words. No change to the dimensions."
+ },
+ {
+  "event_id": "1968_1980_E004",
+  "sig": "6ac0f0e2f2f5",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 12 (Maintenance of the Pitch: batsman may beat the pitch, footholds secured with sawdust) is absorbed into Law 10 as 'Securing of Footholds and Maintenance of Pitch' ('provided Law 46 be not thereby contravened' -> 'provided that no damage to the pitch is so caused, and Law 42 ... is not contravened')."
+ },
+ {
+  "event_id": "1968_1980_E011",
+  "sig": "4e2bbd2e10cc",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "Call of Play and the ban on practice on the pitch are split off from old Law 17 (Commencement and Close of Play and Intervals) into a new Law 15 'Start of Play'. Also new: no practice on the field if it could waste time, and the rule on trial run-ups."
+ },
+ {
+  "event_id": "1968_1980_E012",
+  "sig": "8f20ed6c53ad",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 16 (start of play delayed by weather) disappears as a Law and is merged into the follow-on Law 13 as 'Day's Play Lost'. The receiving Law 13 record is event 1968_1980_E009, which is not on the candidate list."
+ },
+ {
+  "event_id": "1968_1980_E013",
+  "sig": "c4bac976d44a",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "Old Law 17 is divided: its intervals part becomes Law 16 'Intervals', while Call of Play and practice go to new Law 15 and the 2-minute allowance and the in-going batsman Note go to new Law 31. Also new: rules on lunch/tea when an innings ends or play stops near the interval, tea continuation at nine wickets down, and drinks intervals."
+ },
+ {
+  "event_id": "1968_1980_E021",
+  "sig": "bb2698d75bbe",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "The changing-ends rule of old Law 24 is merged into Law 22 (The Over) as 'Bowler Changing Ends'; wording only."
+ },
+ {
+  "event_id": "1968_1980_E029",
+  "sig": "d10563722556",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Old Law 29 (Wide Ball continued: ball not dead, runs from a wide, out from a wide) is merged into Law 25 'Wide Ball'. Also changed: a ball is not judged wide if the striker moves out of or into its reach, and the procedure for a ball coming to rest in front of the striker."
+ },
+ {
+  "event_id": "1968_1980_E031",
+  "sig": "07daedd8ba19",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 27 (No Ball continued: ball not dead on the call, runs, out from a No Ball) disappears as a Law and is merged into Law 24 'No Ball'. The receiving Law 24 record is event 1968_1980_E028, which is not on the candidate list."
+ },
+ {
+  "event_id": "1968_1980_E032",
+  "sig": "75596be1ca56",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The Appeals Law moves from the end of the Code (Law 47) to Law 27, before the dismissal Laws; its appended scorers' Notes and signal code leave it (signals -> Law 3). Also changed: appeals must be made before the bowler begins his run-up, an umpire's decision is final, and an appeal may be withdrawn."
+ },
+ {
+  "event_id": "1968_1980_E037",
+  "sig": "f5e182212e88",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Provisions from the old Law 46 Notes (position of umpires, changing ends, resuming play, wet grass) move into Law 3 'The Umpires' as old Law 46 is dissolved. Also changed: 'the responsible parties' (captains or umpires) -> 'the Umpires' decide when play resumes, and 'should' -> 'shall'."
+ },
+ {
+  "event_id": "1968_1980_E038",
+  "sig": "ae6007f58ad8",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "The signal code from the old Law 47 appendix moves into Law 3 'The Umpires' as its Signals paragraph; wording only ('One Short' -> 'Short Run', 'nearest' -> 'nearer' shoulder)."
+ },
+ {
+  "event_id": "1968_1980_E039",
+  "sig": "fcf067084213",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Law 3 gains umpires' duties gathered from old Laws 45-47 and their Notes (calling 'not out', consultation with scorers, fitness of ground, weather and light). Also changed: the umpires, not the captains, are responsible for the correctness of the scores, and the definition of unfit ground is extended to the batsmen's strokes and running."
+ },
+ {
+  "event_id": "1968_1980_E041",
+  "sig": "749932bb558e",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "The 2-minute allowance for an incoming batsman is split off from old Law 17 into the new Law 31 'Timed Out'. Also new: a batsman who wilfully takes more than two minutes is out Timed Out on appeal (a new mode of dismissal)."
+ },
+ {
+  "event_id": "1968_1980_E042",
+  "sig": "502de9a33cac",
+  "role": "primary",
+  "subtype": "pure_relocation",
+  "why": "The old Law 17 Note that captains must ensure the in-going batsman passes the out-going one before he leaves the field moves into the new Law 31 as 'Batsmen Crossing on the Field of Play'; wording only."
+ },
+ {
+  "event_id": "1968_1980_E044",
+  "sig": "9ae51df2f63f",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 33 (Batsman Retiring) disappears as a Law and is merged into Law 2 (Substitutes and Runners; Batsman Retiring; Batsman Commencing Innings). The receiving Law 2 record is event 1968_1980_E017, which is not on the candidate list."
+ },
+ {
+  "event_id": "1968_1980_E046",
+  "sig": "870a9451328d",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The old Law 36 (Handled the Ball) Note that a hand holding the bat is part of the bat moves into Law 34 (Hit the Ball Twice). Also changed: using the bat or person to return the ball without consent is out on appeal, and runs from a ball lawfully struck twice may include penalties."
+ },
+ {
+  "event_id": "1968_1980_E052",
+  "sig": "af40dc82d3ef",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "The instruction that two scorers frequently check that the score sheets agree moves from the old Law 47 'Notes for Scorers and Umpires' appendix into Law 4 (Recording Runs); scorers now 'immediately' acknowledge signals."
+ },
+ {
+  "event_id": "1968_1980_E055",
+  "sig": "482cc8f0f203",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "New Law 42 'Unfair Play' is built from the old Law 46 Notes on fair and unfair play (intervention, lifting the seam, damage to the pitch, short-pitched bowling, stealing runs). Also new: captains are responsible for play within the spirit of the game as well as the Laws."
+ },
+ {
+  "event_id": "1968_1980_E056",
+  "sig": "247f37cae398",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Unfair-play Notes of old Law 46 (intervention, damaging the pitch, fast short-pitched bowling, stealing a run) move into the new Law 42 under headings. Also changed: short-pitched bowling is unfair if it 'constitutes an attempt to intimidate' (1968: persistent ... systematic attempt at intimidation), and the first step is cautioning the captain."
+ },
+ {
+  "event_id": "1968_1980_E057",
+  "sig": "6ab7a75fa2de",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 45 (umpires' duties before the toss: special regulations, conditions, wickets, watch or clock) disappears as a Law and is folded into Law 3 'The Umpires'. The receiving Law 3 record is event 1968_1980_E036, which is not on the candidate list."
+ }
+]

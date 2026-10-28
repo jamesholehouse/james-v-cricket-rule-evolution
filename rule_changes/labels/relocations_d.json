@@ -1,0 +1,79 @@
+[
+ {
+  "event_id": "1992_2000_E010",
+  "sig": "00b82fa6e00f",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 15 'Start of Play' is dissolved: its 'Call of Play' paragraph passes into the new Law 16 (Start of play; cessation of play, merged with old Law 17) and its 'Practice on the Field' and 'Trial Run-Up' paragraphs into the new Law 17 (Practice on the field). This event carries the whole text of the dissolved Law; the receiving Laws' rewrites are in other events."
+ },
+ {
+  "event_id": "1992_2000_E031",
+  "sig": "5334c116e878",
+  "role": "primary",
+  "subtype": "pure_relocation",
+  "why": "'Position of non-striker' moves from Law 22 (The over, 22.8) to Law 29 (Batsman out of his ground, 29.3); wording only modernised ('shall normally stand' -> 'should be positioned')."
+ },
+ {
+  "event_id": "1992_2000_E049",
+  "sig": "8926cb8463eb",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "'Bowler attempting to run out non-striker before delivery' moves from Law 24.5 (No ball) into Law 42.15 (Fair and unfair play). The event is mainly the full rewrite of Law 42 with many changed provisions, and the moved rule itself changes (no runs scored as no balls; Dead ball if the attempt fails)."
+ },
+ {
+  "event_id": "2010_2017_E003",
+  "sig": "5d5a502f5e2d",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "Former Appendix E (the bat) becomes Appendix B and takes in bat provisions moved out of the Law (2010 Law 6.3(b)-(d) handle glue/twine/grip, 6.4 blade parts and inserted material, 6.5 Type C cloth covering, 6.6(d) surface treatment). Rule changes are also present: the new Type D bat, Type C/D handle and covering limits, toe-insert thickness."
+ },
+ {
+  "event_id": "2010_2017_E037",
+  "sig": "5a1e82b27327",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Law 20 (Lost ball) is dissolved: the dead-ball element becomes Law 20.4.2.10 (umpire calls Dead ball if the ball cannot be recovered) and ball replacement stays under Law 4.5. The rule also changes: the fielder's call of Lost ball and the award of 6 runs or the runs completed (whichever is greater) are gone."
+ },
+ {
+  "event_id": "2010_2017_E052",
+  "sig": "fa18711223c0",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "The old Law 2 (Substitutes and runners) is split, and its fielder/substitute provisions become the new Law 24 'Fielder's absence; substitutes'. Rule changes are also present: a substitute may keep wicket with the umpires' consent, and the Penalty-time rules are changed (e.g. a 90-minute cap)."
+ },
+ {
+  "event_id": "2010_2017_E053",
+  "sig": "157ea5561115",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "The batting/runner half of the old Law 2 (Substitutes and runners) becomes the new Law 25 'Batsman's innings; runners'. Rule changes are also present: eligibility is restated, and new restrictions stop a batsman with unserved Penalty time from batting or running (25.3)."
+ },
+ {
+  "event_id": "2010_2017_E068",
+  "sig": "a7ceba8fb23e",
+  "role": "primary",
+  "subtype": "pure_relocation",
+  "why": "'Umpire's decision' (an umpire may alter a decision promptly; otherwise it is final) moves from the Appeals Law (2010 Law 27.9) to the Umpires Law (2017 Law 2.12; the digitised text puts it under Law 3 because of the Law 2/3 boundary artefact). Wording changes only from 'his decision' to 'any decision'."
+ },
+ {
+  "event_id": "2010_2017_E078",
+  "sig": "c255beb803af",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Law 33 (Handled the ball) is deleted, and its content passes into Law 37 (Obstructing the field): handling while receiving a delivery becomes 37.1.2 and returning the ball becomes 37.4. Dismissals go from ten to nine. This event carries the full text of the dissolved Law, and the receiving rewrite of Law 37 is a separate event."
+ },
+ {
+  "event_id": "2010_2017_E101",
+  "sig": "26b300cc69a1",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "The 'Players' conduct' provision (2010 Law 42.18, inside Fair and unfair play) is taken out into a Law of its own, the new Law 42 'Players' conduct'. The rule change is primary: four levels of offence with new sanctions (penalty runs, suspension, removal from the field)."
+ },
+ {
+  "event_id": "2017_2019_E058",
+  "sig": "45e08b9cec30",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Law 41.19 (Unfair actions procedure) is merged into Law 41.2, which now holds the whole of the former 41.19 text (warning to the captain and 5 Penalty runs for a further offence), and 41.19 is removed. The only other change is that the second-offence step now also spells out summoning the captain. (The dropped 'umpires shall not interfere' sentence is in a different event.)"
+ }
+]

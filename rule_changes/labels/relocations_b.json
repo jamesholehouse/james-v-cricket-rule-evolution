@@ -1,0 +1,240 @@
+[
+ {
+  "event_id": "1857_1884_E001",
+  "sig": "5a7665d6d07a",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "Per Rait Kerr's 1884 entry, the three one-day Laws were taken out of the general code into a separate 'One Day Matches' section. The rule change stays primary: the first-innings decision and the 5- or 6-ball over option are not in the dataset's 1857 text (a reprint with Laws 44-47 filled in from 1835), so the earlier wording of the moved Laws cannot be checked here."
+ },
+ {
+  "event_id": "1857_1884_E010",
+  "sig": "3c353aabedce",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The toss for innings moves from old Law 37 (umpires: 'the parties shall toss-up for choice of innings') into the new Law 1 ('The choice of innings shall be decided by tossing'). The new statements of eleven players a side and two innings each are new provisions and stay primary."
+ },
+ {
+  "event_id": "1857_1884_E012",
+  "sig": "be68e1e422c5",
+  "role": "primary",
+  "subtype": "split",
+  "why": "Old Law 9 (bowler's delivery), renumbered 11, is split: the four-ball over and the once-only change of ends leave for the new Overs Law 13 and the change-of-ends Law 14. The foot-fault No-ball of old Law 40 is merged in ('otherwise the umpire shall call \"No-Ball\"'); the change to the change-of-ends rule is recorded with new Law 14."
+ },
+ {
+  "event_id": "1857_1884_E013",
+  "sig": "cf186c46e8dd",
+  "role": "primary",
+  "subtype": "split",
+  "why": "Old Law 12 (Wide) is dissolved. Its definition stays at new Law 12, the one-run penalty goes to new Law 16 (No-ball/Wide scoring) and 'not reckoned as one of the four balls' goes to new Law 13 (Overs). The explicit 'bring himself within reach' proviso is not restated but follows from the new definition."
+ },
+ {
+  "event_id": "1857_1884_E015",
+  "sig": "468454a976c4",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "Old Law 13 is split: No-ball/Wide scoring goes to new Law 16 and the leg-bye call to the new bye/leg-bye Law 17. The rule change stays primary because the scorers' instruction to put the names of bowlers of wides and no-balls on the score is dropped from the Laws."
+ },
+ {
+  "event_id": "1857_1884_E016",
+  "sig": "425ccbf1d729",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "New Law 13 (Overs) combines the four-ball over from old Law 9, the call of 'Over' from old Law 44 and the exclusion of Wides from the over from old Law 12. The rule change stays primary: the exclusion is now extended explicitly to No-balls."
+ },
+ {
+  "event_id": "1857_1884_E017",
+  "sig": "12caba449c7f",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "The change-of-ends limit is split out of old Law 9 into its own new Law 14. The rule change stays primary: changing ends is allowed twice instead of once, and a bowler may not bowl more than two overs in succession."
+ },
+ {
+  "event_id": "1857_1884_E019",
+  "sig": "bce25da7fa74",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "New Law 16 combines the No-ball/Wide scoring of old Law 13 with the one-run Wide penalty of old Law 12. The rule change stays primary: runs hit off a No-ball go to the striker, and he can now be out off a No-ball under Laws 26, 27, 29 and 30, not only run out."
+ },
+ {
+  "event_id": "1857_1884_E020",
+  "sig": "dfbbcf7dd44f",
+  "role": "primary",
+  "subtype": "split",
+  "why": "Old Law 17 (both feet over the popping crease and wicket put down) is dissolved. Its parts go to the new definition of 'out of his ground' (Law 19), the new Stumped Law 23 and the new Run out Law 28 ('or at any other time, while the ball is in play')."
+ },
+ {
+  "event_id": "1857_1884_E021",
+  "sig": "0664b3decc08",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "The leg-bye call moves from the end of old Law 13 into the new bye/leg-bye Law 17. The new definition of byes, and of leg-byes as runs off the person (hand excepted) scored separately, is a newly written provision and stays primary."
+ },
+ {
+  "event_id": "1857_1884_E022",
+  "sig": "dd6ef9ff273a",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 18 ('if in striking at the ball he hit down his wicket') is dissolved into the new Hit wicket Law 25, together with old Law 22. The combined Law is recorded in the event for new Law 25."
+ },
+ {
+  "event_id": "1857_1884_E023",
+  "sig": "7d05e0915d7c",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "New Law 18 combines old Law 14 (call of 'play', no trial ball) with the first sentence of old Law 47 (no use of the bat until the next batsman comes in). The rule change stays primary: 'At the beginning of the match' is added and the trial-ball ban is limited to 'the ground between the wickets'. The pipeline wrongly pairs this with old Law 10, whose removed hand-height rule is labelled with new Law 10."
+ },
+ {
+  "event_id": "1857_1884_E024",
+  "sig": "0459ea8f0e31",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "The grounding condition repeated inside old Laws 17, 21 and 29 ('his bat in hand, or some part of his person' grounded within the popping crease) is collected into a single new definition Law 19, 'out of his ground'. As a newly written defining provision, the codification stays primary."
+ },
+ {
+  "event_id": "1857_1884_E026",
+  "sig": "4b0448812c22",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 20 ('if the ball be struck, and he wilfully strike it again') is dissolved into the new Hit the ball twice Law 27, together with old Law 34 (guarding the wicket)."
+ },
+ {
+  "event_id": "1857_1884_E028",
+  "sig": "bb828e9c1da7",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "Old Law 15 (bowled: a bail bowled off or a stump bowled out) is split: the wicket-down definition goes to new Law 20 and the dismissal to new Law 21 'Bowled'. The rule change stays primary: the new statement that the batsman is bowled 'even if the ball first touch the striker's bat or person'."
+ },
+ {
+  "event_id": "1857_1884_E029",
+  "sig": "84c25216f23a",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 22 ('if any part of the striker's dress knock down the wicket') is dissolved into the new Hit wicket Law 25 ('with his bat or any part of his person or dress'), together with old Law 18."
+ },
+ {
+  "event_id": "1857_1884_E031",
+  "sig": "57cb4957e25c",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "Stumping is split out of old Law 17 (and from the wicket-keeper Law) into its own new Law 23 'Stumped'. The rule change stays primary: the Law now requires that the ball not be touched by bat or hand and that the wicket be put down by the wicket-keeper."
+ },
+ {
+  "event_id": "1857_1884_E033",
+  "sig": "c99c35ab3430",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "New Law 25 'Hit wicket' combines old Law 18 (hit down his wicket in striking) and old Law 22 (dress knocks down the wicket). The rule change stays primary: the dress case is now limited to 'in playing at the ball'."
+ },
+ {
+  "event_id": "1857_1884_E035",
+  "sig": "a2be8dc0c949",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 27 ('A striker being run out, that run ... shall not be reckoned') is dissolved into new Law 32, alongside the old caught rule (old Law 26). The combined Law is the event for Law 26 -> 32."
+ },
+ {
+  "event_id": "1857_1884_E036",
+  "sig": "754f4468c3ef",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "New Law 27 'Hit the ball twice' combines old Law 20 (wilfully strike it again) and old Law 34 (may guard his wicket with bat or body, not the hands). The rule change stays primary: it now also covers a ball first 'stopped by any part of his person'."
+ },
+ {
+  "event_id": "1857_1884_E037",
+  "sig": "8a36e135b7dd",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Run out moves from old Law 21 to new Law 28 and absorbs old Law 17's 'at any other time, while the ball is in play' case; the 'both bails off' clause leaves for the wicket-down Law 20. The rule change stays primary: the ball must have touched a fieldsman, and run out now applies whenever the batsman is out of his ground."
+ },
+ {
+  "event_id": "1857_1884_E038",
+  "sig": "e5fb91052e4b",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "Handled the ball moves from old Law 23 to new Law 29 and is placed under the new heading 'Either batsman is out'. The rule change stays primary: the move extends the dismissal to the non-striker, and 'with his hands' is added."
+ },
+ {
+  "event_id": "1857_1884_E039",
+  "sig": "15911070eb76",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 3 (the stumps: three in number, 27 in out of the ground, bails) is dissolved into the new Wickets Law 6, which restates the stump height and number and gives the bail dimensions. Any numeric difference belongs to the Law 6 event, and the 1884 bail figures there are suspect."
+ },
+ {
+  "event_id": "1857_1884_E043",
+  "sig": "24848eef6061",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "New Law 32 combines old Law 26 ('A ball being caught no runs shall be reckoned') and old Law 27 (the run being attempted is not counted when a batsman is run out). The effect is the same; only the wording changes ('reckoned' -> 'scored')."
+ },
+ {
+  "event_id": "1857_1884_E045",
+  "sig": "5d2cfde1e473",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 34 (the striker may guard his wicket with bat or body except his hands) is dissolved into the new Hit the ball twice Law 27 ('except it be done for the purpose of guarding his wicket ... except his hands')."
+ },
+ {
+  "event_id": "1857_1884_E049",
+  "sig": "695b49336807",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "The substitute provisions of old Law 31 are split and renumbered: the allowance of a substitute goes to new Law 37 and the runner's run-out liability to new Law 39. The rule change stays primary: a substitute for an ill or injured player becomes an entitlement and no longer needs the other side's consent."
+ },
+ {
+  "event_id": "1857_1884_E053",
+  "sig": "fd2eac3ff1c5",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 40 (foot-fault: umpire must call 'no ball' if the bowler's foot is not behind the bowling crease and within the return crease) is dissolved into the delivery Law, new Law 11 ('otherwise the umpire shall call \"No-Ball\"')."
+ },
+ {
+  "event_id": "1857_1884_E056",
+  "sig": "14452cff6843",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The wicket-keeper Law is renumbered from old Law 35 to new Law 42. The rule change stays primary: 'shall stand behind the wicket' is added, the no-movement rule becomes 'noise, or motion' that incommodes the striker, and exceptions under Laws 26-30 are added."
+ },
+ {
+  "event_id": "1857_1884_E057",
+  "sig": "2914f2431cc2",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "Old Law 36 is split: 'The umpires are the sole judges of fair or unfair play; all disputes shall be determined by them' goes to new Law 43, and the rest (each umpire at his own wicket, referring to the other umpire) goes to new Law 47. The rule change stays primary: the umpires gain authority over the ground, weather and light, and a rule for when they disagree."
+ },
+ {
+  "event_id": "1857_1884_E058",
+  "sig": "3b4a67147d4d",
+  "role": "primary",
+  "subtype": "split",
+  "why": "Old Law 44 is dissolved: the call of 'Over' after four balls goes to the new Overs Law 13, and the appeal before the next ball goes to new Law 51. The 1857 wording here was filled in from 1835 because of missing pages."
+ },
+ {
+  "event_id": "1857_1884_E068",
+  "sig": "f461ca95094a",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "The appeal provision and the ball being dead after 'Over' are split out of old Law 44 into the new Law 51. The rule change stays primary: no appeal may be made 'after any cessation of play'."
+ },
+ {
+  "event_id": "1857_1884_E073",
+  "sig": "96fadf951640",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "Old Law 8 ('After rain the wickets may be changed with the consent of both parties') is dissolved into the new Wickets Law 6. The broadening from rain to any unfitness of the ground belongs to the Law 6 event."
+ },
+ {
+  "event_id": "1923_1932_E002",
+  "sig": "d92e740c1e11",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The note on whether a one-day match can be carried further moves from the Notes on Law 2 (1923) to the One Day Matches section, under its Law 2 (1932). The rule change stays primary: the captains now decide first, and the umpires decide only 'If the Captains are unable to agree'."
+ },
+ {
+  "event_id": "1923_1932_E007",
+  "sig": "f18658c119c2",
+  "role": "primary",
+  "subtype": "pure_relocation",
+  "why": "Three paragraphs move from the 1923 'Notice to Umpires' section, which the dataset does not segment, into the Notes on Law 13: an over should always be begun before 'time'; 'time' is called if a wicket falls within two minutes; and an injured bowler's unfinished over counts as completed. The only wording change is 'should' -> 'shall' in two places (modal strength)."
+ }
+]

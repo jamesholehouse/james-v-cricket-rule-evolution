@@ -1,0 +1,93 @@
+[
+ {
+  "event_id": "1755_1774_E009",
+  "sig": "c516bff134b0",
+  "role": "primary",
+  "subtype": "split",
+  "why": "The 1755 code's unheaded opening paragraph (toss, popping creases 3 ft 10 in, wickets 22 yards apart, bowling creases, stumps, ball) is split up in 1774 into separate headed Laws; this event carries the popping-crease/22-yard material, now under its own heading 'The POPPING-CREASE' with the same values. The removal of the opening block (1755_1774 law_removed event) is the source-side record of the same split."
+ },
+ {
+  "event_id": "1755_1774_E002",
+  "sig": "73f2999098ff",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "The 1755 ball sentence and the following toss-for-innings sentence formed one block of the unheaded opening paragraph; in 1774 the ball gets its own heading 'The BALL' and the innings choice moves to the new visiting-side Law. Rule change kept as primary: weight limits narrowed from 5-6 oz to 5.5-5.75 oz and ball not to be changed without consent."
+ },
+ {
+  "event_id": "1755_1774_E008",
+  "sig": "ecd7b924fdd0",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "The bowling-crease sentence moves out of the 1755 opening paragraph to its own 1774 heading 'The BOWLING-CREASE'. Rule change kept as primary: the crease is redefined ('parallel with the stumps, three feet in length, with a return-crease')."
+ },
+ {
+  "event_id": "1755_1774_E011",
+  "sig": "6737f2a9348d",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "The pitching/choice-of-innings provisions of the 1755 opening paragraph (toss for pitching the first wicket; toss winner chooses innings) move to a new 1774 heading 'The Party which goes from Home'. Rule change kept as primary: the visiting side now has the choice of innings and pitch (within 30 yards of a centre fixed by the hosts), with a toss only at a third place."
+ },
+ {
+  "event_id": "1755_1774_E003",
+  "sig": "4d2107f79ae2",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "The 1755 umpires' Laws were printed as separate sub-lists ('These Laws are to the Umpires jointly' / 'These Laws are separately'); 1774 combines them into one 'The UMPIRES' Law, which also receives the bowler's no-ball call moved from the bowlers' Laws. Rule changes kept as primary: 15 instead of 10 minutes between innings, refusal to play after one call of play loses the match, 'call over' and ball-marking duties dropped, new short-notch call."
+ },
+ {
+  "event_id": "1755_1774_E012",
+  "sig": "bafe41c305f9",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The umpire's no-ball call for the bowler's foot moves from the 1755 'Laws for the Bowlers' to the 1774 Umpires' Law. Rule change kept as primary: delivery must be behind the bowling crease and within the new return crease (was 'one foot behind the crease, even with the wicket'), and the bowler may change ends only once per innings."
+ },
+ {
+  "event_id": "1786_1788_E010",
+  "sig": "0155218897bf",
+  "role": "primary",
+  "subtype": "split",
+  "why": "The 1786 Popping-Crease Law ('three feet ten inches from the wickets; and the wickets must be opposite to each other at the distance of twenty-two yards') is split in 1788: the 22-yard clause moves, wording unchanged apart from case, to a new heading 'THE WICKETS'."
+ },
+ {
+  "event_id": "1786_1788_E009",
+  "sig": "f4605a9e8e5e",
+  "role": "secondary",
+  "subtype": "split",
+  "why": "Source side of the split of the Popping-Crease Law: its 22-yard wickets clause moves to the new 1788 heading 'THE WICKETS'. Rule change kept as primary: the popping crease is now also to be 'parallel to it' (the wicket)."
+ },
+ {
+  "event_id": "1788_1803_E004",
+  "sig": "4a88f7258ac4",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The hurt-striker provision ('When a Striker is hurt, they are to permit another to come in ...') moves from the Umpires' Law to the end of the 'Striker is out' list in 1803, reworded as 'If the striker is hurt, he may retire from his wicket, and have his innings at any time in that innings'. Rule change kept as primary: new 'The Umpires are not to be changed during the match, but by the consent of both parties'."
+ },
+ {
+  "event_id": "1803_1806_E005",
+  "sig": "ca90952d042d",
+  "role": "primary",
+  "subtype": "merge",
+  "why": "The 1803 Law 'THE PARTY WHICH GOES FROM HOME' is dissolved; its ground-alteration rule moves, wording unchanged apart from case/punctuation, to 'THE WICKETS' (its 30-yard pitching clause also goes to THE WICKETS and the toss to the Umpires). The dataset's '1806' text is Bailey's printing of c.1809-11 content; Rait Kerr serials 52-53 put the change before 1811, possibly 1809."
+ },
+ {
+  "event_id": "1803_1806_E002",
+  "sig": "055795c52f8e",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Part of the dissolution of the 1803 visiting-side Law: the choice-of-innings provision moves to the Umpires' Law. Rule change kept as primary: new 'The Umpires, in all matches, to pitch fair Wickets, and the parties to toss for the choice of Innings' replaces the visiting side's choice (Rait Kerr serials 52-53)."
+ },
+ {
+  "event_id": "1803_1806_E007",
+  "sig": "db34f5b5e506",
+  "role": "secondary",
+  "subtype": "merge",
+  "why": "Removal record of the 1803 'THE PARTY WHICH GOES FROM HOME' Law, dissolved into THE WICKETS (30-yard clause, ground-alteration rule) and THE UMPIRES (toss). Rule change kept as primary: the visiting side loses the choice of pitch and innings."
+ },
+ {
+  "event_id": "1820_1823_E009",
+  "sig": "bb203236f1b1",
+  "role": "secondary",
+  "subtype": "pure_relocation",
+  "why": "The 1820 single-wicket provision in the strikers' list ('In SINGLE-WICKET MATCHES, if the Striker moves out of his ground to strike at the Ball, he shall be allowed no Notch') moves to the new separate 1823 section 'LAWS FOR SINGLE WICKET', rewritten as the 'No Hit' rule. Primary label kept: the section's many new single-wicket rules (bounds, runs, no byes/overthrows etc.)."
+ }
+]

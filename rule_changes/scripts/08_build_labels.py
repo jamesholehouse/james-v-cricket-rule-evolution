@@ -80,6 +80,46 @@ def apply_override(l, e, ov, problems):
 
 
 
+RELOC_FILES = sorted((ROOT / "rule_changes/labels").glob("relocations*.json"))
+
+
+def load_relocations():
+    """Relocation reclassifications (user request 2026-10-28), one entry per event: {event_id, sig, role: primary|secondary, subtype, why}.
+    primary: the event's category becomes RELOCATION (the earlier label is kept in notes); secondary: RELOCATION is recorded as the secondary
+    category while the rule-change category stays primary."""
+    out = {}
+    for f in RELOC_FILES:
+        for o in json.load(open(f)):
+            out[o["event_id"]] = o
+    return out
+
+
+def apply_relocation(l, e, rl, problems):
+    o = rl.get(e["event_id"])
+    if not o:
+        return l
+    if o["sig"] != sig(e):
+        problems.append(f"{e['event_id']}: relocation skipped (event content changed since it was written)")
+        return l
+    assert o["subtype"] in CATS["RELOCATION"]["subtypes"], o
+    l = dict(l)
+    prev = f"{l['category']}/{l['subtype']}"
+    if o["role"] == "primary":
+        l["notes"] = (l["notes"] + " " if l["notes"] else "") + f"Previously labelled {prev}; relabelled RELOCATION/{o['subtype']}: {o['why']}"
+        l["category"], l["subtype"], l["basis"] = "RELOCATION", o["subtype"], "derived"
+        if "S18" not in l["evidence"]:
+            l["evidence"] = list(l["evidence"]) + ["S18"]
+        if not l["rationale"]:
+            l["rationale"] = o["why"]
+    else:
+        if l["secondary_category"]:
+            l["notes"] = (l["notes"] + " " if l["notes"] else "") + f"Also a relocation ({o['subtype']}): {o['why']}"
+        else:
+            l["secondary_category"], l["secondary_subtype"] = "RELOCATION", o["subtype"]
+            l["notes"] = (l["notes"] + " " if l["notes"] else "") + f"Relocation ({o['subtype']}): {o['why']}"
+    return l
+
+
 def rec_hash(r):
     return hashlib.md5(f"{r['op']}|{r.get('law_from')}|{r.get('law_to')}|{r.get('old_text')}|{r.get('new_text')}".encode()).hexdigest()[:10]
 
@@ -257,6 +297,7 @@ def main():
             handlabels[m.PAIR].append(l)
     keys = json.load(open(KEYFILE)) if KEYFILE.exists() else {}
     OV = load_overrides()
+    RL = load_relocations()
     rows, missing, problems = [], [], []
     for p in sorted((ROOT / "rule_changes/data/events").glob("*.jsonl"), key=lambda p: int(p.stem.split("_")[0])):
         if int(p.stem.split("_")[0]) < FIRST_YEAR:
@@ -274,6 +315,7 @@ def main():
                     missing.append((pair, e["event_id"][-4:], e["event_type"], e["law_title"][:25], e["text_diff_class"], e["triage"]))
                     continue
             l = apply_override(l, e, OV, problems)
+            l = apply_relocation(l, e, RL, problems)
             check(l, e)
             rows.append(dict(event_id=e["event_id"], sig=sig(e), pair=pair, section=e["section"], canonical_law=e["canonical_law"],
                              law_title=e["law_title"], law_from=e["law_from"], law_to=e["law_to"], event_type=e["event_type"],
@@ -282,7 +324,7 @@ def main():
                              secondary_category=l["secondary_category"], secondary_subtype=l["secondary_subtype"],
                              confidence=l["confidence"], basis=l["basis"], rationale=l["rationale"],
                              evidence=";".join(l["evidence"]), date_evidence=l["date_evidence"], integrity=l["integrity"],
-                             notes=l["notes"], label_ref=l.get("_ref", "mechanical"), semantic_only=int(is_semantic(l)), scope_change=int(is_scope(l)), source_edition_issue=int(edition_issue(l)), substantive_change=int((not is_semantic(l) or is_scope(l)) and l["category"] != "NOT_A_CHANGE"), review_status=VERD.get(e["event_id"],{}).get("status","unreviewed"), reviewer_notes=VERD.get(e["event_id"],{}).get("note",""), taxonomy_version=TAX["version"]))
+                             notes=l["notes"], label_ref=l.get("_ref", "mechanical"), semantic_only=int(is_semantic(l)), scope_change=int(is_scope(l)), source_edition_issue=int(edition_issue(l)), substantive_change=int((not is_semantic(l) or is_scope(l) or l["category"] == "RELOCATION" or l["secondary_category"] == "RELOCATION") and l["category"] != "NOT_A_CHANGE" or l["category"] == "RELOCATION"), review_status=VERD.get(e["event_id"],{}).get("status","unreviewed"), reviewer_notes=VERD.get(e["event_id"],{}).get("note",""), taxonomy_version=TAX["version"]))
     json.dump(keys, open(KEYFILE, "w"), indent=0, sort_keys=True)
     if rows:
         with open(OUT, "w", newline="") as f:

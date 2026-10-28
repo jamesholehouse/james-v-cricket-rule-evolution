@@ -17,7 +17,7 @@ Plan: `~/.claude/plans/cozy-puzzling-token.md` (approved). Run everything from t
 | Categories + evidence, pre-1947 | Rait Kerr's own entries (drafts) plus all 948 pre-1947 diff events (913 hand-labelled, 35 mechanical) (labels/q*.py): `scripts/05_raitkerr_category_drafts.py` -> `data/categories/raitkerr_drafts.csv` |
 | Categories + evidence, post-1947 | **every one of the 1,506 events of all 43 pairs 1744->2019 carries a label (post-1947 labels in `labels/p*,n*`, pre-1947 in `labels/q*.py`; `data/categories/event_labels_all.csv`; final datasets in `data/final/`)** (hand labels in `labels/p*.py` and the later `labels/n*.py`/`nb*`/`nc*`/`nd*` modules, mechanical labels for format/OCR-noise/minor-wording events), all unreviewed; built by `scripts/08_build_labels.py` -> `data/categories/post1947_event_labels.csv`; sources in `data/evidence/sources.csv` |
 | Verification | Opus verification reports A-E in `verification/` (A pipeline+gold, B labels 1947-2000, C labels 2000-2019, D second pass, E third pass); findings applied round by round (see `CONTINUATION.md`). A fourth pass follows the 1744-1947 labelling |
-| Review UI | not started |
+| Review UI | built: `review_app/server.py` (stdlib only) + `index.html`; verdicts -> `data/review/verdicts.jsonl`, folded in by `08_build_labels.py`. See `DATA_BRIEF.md` |
 
 Run everything downstream of the processed texts with `scripts/run_pipeline.sh`, then `scripts/08_build_labels.py`.
 See `DATA_INTEGRITY_FINDINGS.md` for the clean-up artefacts found and the tooling's known limitations.

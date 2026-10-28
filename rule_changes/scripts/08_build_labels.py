@@ -37,6 +37,21 @@ FIRST_YEAR = 1744
 
 KEYFILE = ROOT / "rule_changes/labels/keys.json"
 OVERRIDES = ROOT / "rule_changes/labels/overrides.json"
+VERDICTS = ROOT / "rule_changes/data/review/verdicts.jsonl"
+
+
+def load_verdicts():
+    """Human verdicts written by review_app/server.py (append-only; the last record per event wins)."""
+    v = {}
+    if VERDICTS.exists():
+        for l in open(VERDICTS, encoding="utf-8"):
+            if l.strip():
+                r = json.loads(l)
+                v[r["event_id"]] = r
+    return v
+
+
+VERD = load_verdicts()
 
 
 def load_overrides():
@@ -267,7 +282,7 @@ def main():
                              secondary_category=l["secondary_category"], secondary_subtype=l["secondary_subtype"],
                              confidence=l["confidence"], basis=l["basis"], rationale=l["rationale"],
                              evidence=";".join(l["evidence"]), date_evidence=l["date_evidence"], integrity=l["integrity"],
-                             notes=l["notes"], label_ref=l.get("_ref", "mechanical"), semantic_only=int(is_semantic(l)), scope_change=int(is_scope(l)), source_edition_issue=int(edition_issue(l)), substantive_change=int((not is_semantic(l) or is_scope(l)) and l["category"] != "NOT_A_CHANGE"), review_status="unreviewed", taxonomy_version=TAX["version"]))
+                             notes=l["notes"], label_ref=l.get("_ref", "mechanical"), semantic_only=int(is_semantic(l)), scope_change=int(is_scope(l)), source_edition_issue=int(edition_issue(l)), substantive_change=int((not is_semantic(l) or is_scope(l)) and l["category"] != "NOT_A_CHANGE"), review_status=VERD.get(e["event_id"],{}).get("status","unreviewed"), reviewer_notes=VERD.get(e["event_id"],{}).get("note",""), taxonomy_version=TAX["version"]))
     json.dump(keys, open(KEYFILE, "w"), indent=0, sort_keys=True)
     if rows:
         with open(OUT, "w", newline="") as f:

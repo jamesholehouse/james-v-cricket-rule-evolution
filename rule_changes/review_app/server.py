@@ -101,6 +101,83 @@ def detail(eid):
                 sources=srcs, gold=gold, verdict=verdicts().get(eid))
 
 
+_nodes = {}
+
+
+def nodes(year):
+    if year not in _nodes:
+        _nodes[year] = [json.loads(l) for l in open(D / "nodes" / f"{year}.jsonl", encoding="utf-8")]
+    return _nodes[year]
+
+
+def law_units(year, section, law):
+    """All units of one Law (or heading block) in one edition, in book order."""
+    if law in (None, "", "None"):
+        return []
+    us = [n for n in nodes(year) if str(n["law_no"]) == str(law) and n["section"] == section]
+    if not us:   # a moved record may sit in another section
+        us = [n for n in nodes(year) if str(n["law_no"]) == str(law)]
+    us.sort(key=lambda n: n["unit_idx"])
+    return us
+
+
+def law_view(eid):
+    """Whole-Law side-by-side: old Law in edition_from, new Law in edition_to, aligned at unit level with difflib."""
+    import difflib
+    r = BY_ID[eid]
+    if eid in REN_CHANGE:
+        ev, ch = pair_data(r["pair"])
+        e = dict(edition_from=int(r["pair"].split("_")[0]), edition_to=int(r["pair"].split("_")[1]), section=r["section"],
+                 law_from=r["law_from"], law_to=r["law_to"], change_ids=[REN_CHANGE[eid]])
+    else:
+        ev, ch = pair_data(r["pair"])
+        e = ev[eid]
+    ef, et, sec = e["edition_from"], e["edition_to"], e["section"]
+    old, new = law_units(ef, sec, e["law_from"]), law_units(et, sec, e["law_to"])
+    ch = pair_data(r["pair"])[1]
+    ev_old = {ch[c]["unit_from"] for c in e["change_ids"] if c in ch and ch[c].get("unit_from") is not None}
+    ev_new = {ch[c]["unit_to"] for c in e["change_ids"] if c in ch and ch[c].get("unit_to") is not None}
+    note = ""
+    # Law numbers in the event are the pipeline's Law identity; if a side cannot be found that way (heading blocks, single-block 1752),
+    # fall back to every Law that contains one of the event's own units on that side.
+    for side, year, idxs in (("old", ef, ev_old), ("new", et, ev_new)):
+        us = old if side == "old" else new
+        if us or not idxs:
+            continue
+        by = {n["unit_idx"]: n for n in nodes(year)}
+        keys = []
+        for i in sorted(idxs):
+            if i in by and (by[i]["section"], str(by[i]["law_no"])) not in keys:
+                keys.append((by[i]["section"], str(by[i]["law_no"])))
+        got = [n for n in nodes(year) if (n["section"], str(n["law_no"])) in keys]
+        got.sort(key=lambda n: n["unit_idx"])
+        if side == "old":
+            old = got
+        else:
+            new = got
+        note += f"{side} side located from the event's own units (Law identity not found by number); "
+    # One side is the edition's whole undivided text (1752 is a single block with no Law headings): compare it with the whole other edition.
+    for side in ("old", "new"):
+        us, y, oy = (old, ef, et) if side == "old" else (new, et, ef)
+        if us and {str(n["law_no"]) for n in us} == {"0"} and len(us) == sum(1 for n in nodes(y) if n["section"] == sec):
+            other = sorted((n for n in nodes(oy) if n["section"] == sec), key=lambda n: n["unit_idx"])
+            if side == "old":
+                new = other
+            else:
+                old = other
+            note += "one edition is a single undivided block, so it is compared with the whole text of the other edition; "
+    sm = difflib.SequenceMatcher(None, [n["text_norm"] for n in old], [n["text_norm"] for n in new], autojunk=False)
+    unit = lambda n: dict(idx=n["unit_idx"], text=n["text"], label=n.get("label", ""), kind=n.get("kind", ""))
+    rows = []
+    for tag, i1, i2, j1, j2 in sm.get_opcodes():
+        o, n = old[i1:i2], new[j1:j2]
+        rows.append(dict(type=tag, old=[unit(x) for x in o], new=[unit(x) for x in n],
+                         in_event=any(x["unit_idx"] in ev_old for x in o) or any(x["unit_idx"] in ev_new for x in n)))
+    title = lambda us: (us[0].get("law_title") if us else "") or ""
+    return dict(old=dict(edition=ef, law=e["law_from"], title=title(old), n=len(old)), new=dict(edition=et, law=e["law_to"], title=title(new), n=len(new)),
+                section=sec, rows=rows, note=note)
+
+
 class H(BaseHTTPRequestHandler):
     def log_message(self, *a):
         pass
@@ -140,6 +217,10 @@ class H(BaseHTTPRequestHandler):
         if u.path == "/api/meta":
             return self.send(200, dict(pairs=sorted({r["pair"] for r in LABELS}, key=lambda p: int(p.split("_")[0])),
                                        categories=sorted({r["category"] for r in LABELS}), statuses=("unreviewed",) + STATUSES))
+        if u.path == "/api/law":
+            if q.get("id") not in BY_ID:
+                return self.send(404, {"error": "no such event"})
+            return self.send(200, law_view(q["id"]))
         if u.path == "/api/event":
             if q.get("id") not in BY_ID:
                 return self.send(404, {"error": "no such event"})

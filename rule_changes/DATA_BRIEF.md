@@ -6,7 +6,7 @@ All labels are machine/agent-drafted and Opus-checked over four passes. **None i
 ## Deliverables (`data/final/`)
 | File | Rows | What |
 |---|---|---|
-| `changes_all_records_labelled.csv` | 7,262 | Every change record (add/remove/modify/move/renumber) with its own label row. 5,639 inherit an event label; 1,623 get a mechanical label (OCR, format, cross-reference pointers). |
+| `changes_all_records_labelled.csv` | 6,369 | Every change record (add/remove/modify/move/renumber) with its own label row. 5,551 inherit an event label; 574 get a mechanical label (OCR, cross-reference pointers); 244 are Law renumberings. 893 records that differ only in capitalisation, punctuation or spacing are removed (user decision 2026-10-28). |
 | `substantive_changes.csv` | 996 | Events that are real changes: not NOT_A_CHANGE, not semantic-only (gender/pronoun/terminology/pure rewording). Qualifier/scope rewordings are kept and flagged. |
 
 ## Core tables

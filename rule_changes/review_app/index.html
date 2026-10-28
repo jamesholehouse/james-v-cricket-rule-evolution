@@ -28,6 +28,11 @@ button{padding:6px 12px;border:1px solid var(--line);border-radius:5px;backgroun
 button.p{background:var(--acc);color:#fff;border-color:var(--acc)}button:hover{filter:brightness(.95)}
 textarea{width:100%;min-height:60px;background:var(--card);color:var(--fg);border:1px solid var(--line);border-radius:4px;padding:6px}
 #bar{position:sticky;bottom:0;background:var(--bg);padding:10px 0;border-top:1px solid var(--line);margin-top:16px}
+.tabs{display:flex;gap:6px;align-items:center;margin:18px 0 6px}.tabs button.on{background:var(--acc);color:#fff;border-color:var(--acc)}
+.lawhead{display:grid;grid-template-columns:1fr 1fr;gap:10px;position:sticky;top:0;background:var(--bg);padding:4px 0;font-weight:600;font-size:13px;border-bottom:1px solid var(--line);z-index:2}
+.lrow{display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:4px 6px;border-left:3px solid transparent;border-bottom:1px solid var(--line)}
+.lrow.equal{opacity:.55}.lrow.ev{border-left-color:var(--acc)}.lrow.delete .r{background:var(--del)}.lrow.insert .r{background:var(--add)}
+.lrow p{margin:0 0 6px}.lrow .lb{color:var(--mut);margin-right:4px}.badge{font-size:11px;color:var(--acc)}
 small{color:var(--mut)}@media(max-width:800px){body{flex-direction:column;height:auto}#side{width:100%;height:40vh}.grid{grid-template-columns:1fr}}
 </style></head><body>
 <div id="side">
@@ -76,12 +81,30 @@ async function open(id){cur=id;location.hash=id;det=await api("/api/event?id="+e
  <h3>Label</h3><div class="card"><div class="kv"><div>Category</div><div><b>${l.category}</b> / ${l.subtype}${l.secondary_category?` (secondary ${l.secondary_category}/${l.secondary_subtype})`:""}</div><div>Confidence · basis</div><div>${l.confidence} · ${l.basis}</div><div>Integrity</div><div>${l.integrity}</div><div>Flags</div><div>${flags}</div><div>Dating</div><div>${esc(l.date_evidence)}</div><div>Label source</div><div>${esc(l.label_ref)}</div></div></div>
  <div class="card"><b>What changed</b><div class="txt">${esc(l.what_changed)}</div></div><div class="card"><b>Rationale</b><div class="txt">${esc(l.rationale)}</div></div>${l.notes?`<div class="card"><b>Notes</b><div class="txt">${esc(l.notes)}</div></div>`:""}
  <h3>Evidence (${det.sources.length})</h3>${src||"<small>none cited</small>"}${gold?"<h3>Rait Kerr entries named in the label</h3>"+gold:""}
- <h3>Old text (left) vs new text (right), ${det.records.length} records</h3>${recs}
+ <div class="tabs"><button id="tlaw" onclick="showView('law')">Whole Law side by side</button><button id="trec" onclick="showView('rec')">Changed records (${det.records.length})</button><label style="margin-left:12px"><input type="checkbox" id="hide" onchange="applyHide()"> hide unchanged text</label></div>
+ <div id="lawpane"><small>loading…</small></div><div id="recpane" style="display:none"><small>Each record is one sentence/clause the diff found; a clause reworded or moved can appear as a remove here and an add elsewhere.</small>${recs}</div>
  <div id="bar"><div>Current verdict: <b>${v?v.status:"unreviewed"}</b> ${v?`<small>(${v.time})</small>`:""}</div>
  <textarea id="note" placeholder="Reviewer note: what is wrong / what you checked">${esc(v?v.note:"")}</textarea>
  <div class="grid" style="margin:6px 0"><input id="pc" placeholder="proposed category (if edited)" value="${esc(v?v.proposed_category:"")}"><input id="ps" placeholder="proposed subtype" value="${esc(v?v.proposed_subtype:"")}"></div>
  <button class="p" onclick="send('confirmed')">Confirm (c)</button> <button onclick="send('edited')">Edited (e)</button> <button onclick="send('rejected')">Reject (x)</button> <button onclick="send('needs_research')">Needs research (r)</button> <button onclick="send('unreviewed')">Clear</button></div>`;
- $("#main").scrollTop=0}
+ showView(view);$("#main").scrollTop=0}
+let view="law",lawCache={};
+function para(u){return`<p><span class="lb">${esc(u.label)}</span>${esc(u.text)}</p>`}
+function renderLaw(d){const h=t=>`${t.edition} · Law ${esc(t.law??"—")}${t.title?" · "+esc(t.title):""} <small>(${t.n} units)</small>`;
+ let o=`<div class="lawhead"><div>${h(d.old)}</div><div>${h(d.new)}</div></div>`+(d.note?`<small>${esc(d.note)}</small>`:"");
+ if(!d.rows.length)return o+"<p><small>No Law text could be located for this row (the Law is only a heading block or has no units in one edition). Use the records tab.</small></p>";
+ for(const r of d.rows){let L,R;
+  if(r.type==="replace"&&r.old.length===r.new.length){L=R="";r.old.forEach((u,i)=>{const[a,b]=diff(u.text,r.new[i].text);L+=`<p><span class="lb">${esc(u.label)}</span>${a}</p>`;R+=`<p><span class="lb">${esc(r.new[i].label)}</span>${b}</p>`})}
+  else if(r.type==="replace"){const[a,b]=diff(r.old.map(u=>u.text).join("\n"),r.new.map(u=>u.text).join("\n"));L=`<p>${a}</p>`;R=`<p>${b}</p>`}
+  else if(r.type==="delete"){L=r.old.map(u=>`<p><del>${esc(u.label)} ${esc(u.text)}</del></p>`).join("");R=""}
+  else if(r.type==="insert"){L="";R=r.new.map(u=>`<p><ins>${esc(u.label)} ${esc(u.text)}</ins></p>`).join("")}
+  else{L=r.old.map(para).join("");R=r.new.map(para).join("")}
+  o+=`<div class="lrow ${r.type}${r.in_event?" ev":""}"><div class="l">${L}${r.in_event?'<span class="badge">in this event</span>':""}</div><div class="r">${R}</div></div>`}
+ return o}
+function applyHide(){const h=$("#hide")&&$("#hide").checked;document.querySelectorAll(".lrow.equal").forEach(e=>e.style.display=h?"none":"")}
+async function showView(v){view=v;if(!$("#lawpane"))return;$("#lawpane").style.display=v==="law"?"":"none";$("#recpane").style.display=v==="rec"?"":"none";
+ $("#tlaw").classList.toggle("on",v==="law");$("#trec").classList.toggle("on",v==="rec");
+ if(v==="law"&&!$("#lawpane").dataset.done){const id=cur;try{const d=lawCache[id]||(lawCache[id]=await api("/api/law?id="+encodeURIComponent(id)));if(id!==cur)return;if(!d||!d.rows)throw new Error(d&&d.error?d.error+" (the server is probably an old copy: stop it and start review_app/server.py again)":"unexpected reply");$("#lawpane").innerHTML=renderLaw(d);$("#lawpane").dataset.done=1;applyHide()}catch(err){delete lawCache[id];if(id===cur)$("#lawpane").innerHTML="<p><b>Could not load the Law view:</b> "+esc(err.message)+"</p>"}}}
 async function send(status){if(!cur)return;await api("/api/verdict",{method:"POST",body:JSON.stringify({event_id:cur,status,note:$("#note").value,proposed_category:$("#pc").value,proposed_subtype:$("#ps").value})});
  const e=events.find(x=>x.event_id===cur);if(e)e.status=status;const keep=$("#main").scrollTop;await load();await open(cur);$("#main").scrollTop=keep;if(status!=="unreviewed"&&status!=="edited")step(1)}
 function step(d){const i=events.findIndex(e=>e.event_id===cur);const n=events[Math.max(0,Math.min(events.length-1,i+d))];if(n)open(n.event_id)}

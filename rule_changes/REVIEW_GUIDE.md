@@ -19,7 +19,8 @@ Open http://127.0.0.1:8765 (use `--port 9000` if it is busy). It runs until you 
 1. *Label*: category/subtype (and a secondary category if the event also does something else), confidence, basis, integrity, derived flags, dating evidence, and the file the label came from.
 2. *What changed* and *Rationale*: the claim and the reason given for it. *Notes* shows corrections and, for relocations, the previous label.
 3. *Evidence*: each cited source with title, publisher, date, reliability note and a link where one exists. Rait Kerr serials named in the label appear as quoted entries.
-4. *Old text (left) vs new text (right)* for every record in the event, with deleted words in red and added words in green. Renumbering rows show only the Law numbers, since the text is identical.
+4. *Whole Law side by side* (default tab): the complete old Law (left) and new Law (right) in book order, aligned paragraph by paragraph, with deleted words in red and added words in green. Unchanged paragraphs are dimmed (tick "hide unchanged text" to hide them); paragraphs that belong to this event carry a blue bar and an "in this event" badge. Paragraphs found only on one side are tinted. If the Law number cannot be matched (heading blocks, the single-block 1752 text) the view uses the Laws containing the event's own units and says so; some rows (for example a section removed entirely) have no Law text, so use the records tab.
+   *Changed records* (second tab): every record of the event, each one sentence/clause the diff found. A reworded or moved clause can show as a "remove" in one record and an "add" in another. Renumbering rows show only the Law numbers.
 5. *Verdict bar* (sticks to the bottom): note box, proposed category/subtype boxes, and buttons.
 
 ## 3. Verdicts

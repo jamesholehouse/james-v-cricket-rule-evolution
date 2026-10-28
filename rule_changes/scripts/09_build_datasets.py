@@ -47,6 +47,14 @@ def case_punct_only(c):
     return c["op"] == "modify" and o != n and f(o) == f(n)
 
 
+def capitalisation_only(c):
+    """Modify record whose two texts differ only in capitalisation (identical once lower-cased, whitespace collapsed).
+    Dropped from both datasets (user decision 2026-10-28): capitalisation is never a change."""
+    w = lambda t: re.sub(r"\s+", " ", t or "").strip()
+    o, n = w(c.get("old_text")), w(c.get("new_text"))
+    return c["op"] == "modify" and o != n and o.lower() == n.lower()
+
+
 def record_label(c):
     if c["op"] == "renumber":
         return "RENUMBERING", "law_renumbered", "high", "derived", f"Law {c.get('law_from')} renumbered {c.get('law_to')} (text unchanged){' - ' + c['title_to'] if c.get('title_to') else ''}.", 0
@@ -80,7 +88,7 @@ def main():
     lab = {r["event_id"]: r for r in csv.DictReader(open(LABELS))}
     cols = ["pair", "change_id", "op", "section", "law_from", "law_to", "granularity", "old_text", "new_text", "event_id", "label_level",
             "category", "subtype", "confidence", "basis", "what_changed_or_reason", "evidence", "semantic_only", "scope_change", "source_edition_issue", "substantive_change",
-            "needs_hand_label", "case_punct_only"]
+            "needs_hand_label"]
     n = Counter()
     with open(OUT / "changes_all_records_labelled.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=cols)
@@ -93,6 +101,9 @@ def main():
                     ev_of[cid] = e["event_id"]
             for l in open(p, encoding="utf-8"):
                 c = json.loads(l)
+                if capitalisation_only(c) or case_punct_only(c):
+                    n["dropped_case_punct_only"] += 1   # user decision 2026-10-28: capitalisation/punctuation/spacing-only records are removed
+                    continue
                 base = dict(pair=p.stem, change_id=c["change_id"], op=c["op"], section=c.get("section", ""), law_from=c.get("law_from"),
                             law_to=c.get("law_to"), granularity=c.get("granularity", ""), old_text=c.get("old_text") or "",
                             new_text=c.get("new_text") or "", event_id=ev_of.get(c["change_id"], ""))
@@ -118,9 +129,6 @@ def main():
                                confidence=conf, basis=basis, what_changed_or_reason=why, evidence="S18" if not hand else "",
                                semantic_only=sem, scope_change=0, source_edition_issue=0, substantive_change=int((cat not in ("NOT_A_CHANGE", "STRUCTURAL") and not sem and not hand) or cat == "RENUMBERING"),
                                needs_hand_label=hand)
-                row["case_punct_only"] = int(case_punct_only(c))
-                if row["case_punct_only"]:
-                    row["substantive_change"] = 0   # capitalisation/punctuation-only record is never substantive, even inside a substantive event
                 w.writerow(row)
                 n[(row["label_level"], row["needs_hand_label"])] += 1
     rows = [r for r in csv.DictReader(open(LABELS))]
